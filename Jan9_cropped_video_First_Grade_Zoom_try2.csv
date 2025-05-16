@@ -1,0 +1,6053 @@
+Timestamp,Name,State
+1.0,Elena,Attentive
+1.0,Ms_Grace,Not Attentive
+1.0,Lucas,Attentive
+1.0,Sam,Attentive
+1.0,Isabella,Attentive
+1.0,William,Attentive
+1.0,Jack,Confused
+1.0,Olivia,Confused
+1.0,John,Attentive
+1.0,Charlotte,Attentive
+1.0,Amelia,Attentive
+1.0,Lucas,Not Attentive
+1.0,Lucas,Not Attentive
+1.0,Evelyn,Attentive
+1.0,Olivia,Not Attentive
+2.0,Elena,Attentive
+2.0,Ms_Grace,Not Attentive
+2.0,Evelyn,Attentive
+2.0,Sam,Attentive
+2.0,Isabella,Attentive
+2.0,William,Attentive
+2.0,Jack,Confused
+2.0,Charlotte,Attentive
+2.0,John,Attentive
+2.0,Olivia,Confused
+2.0,Amelia,Attentive
+2.0,Lucas,Not Attentive
+2.0,Lucas,Not Attentive
+2.0,Evelyn,Attentive
+2.0,Olivia,Not Attentive
+3.0,Elena,Attentive
+3.0,Sam,Attentive
+3.0,Lucas,Attentive
+3.0,Ms_Grace,Attentive
+3.0,Isabella,Attentive
+3.0,William,Attentive
+3.0,Amelia,Attentive
+3.0,Olivia,Attentive
+3.0,Jack,Attentive
+3.0,John,Attentive
+3.0,Amelia,Attentive
+3.0,Lucas,Confused
+3.0,Evelyn,Attentive
+3.0,Olivia,Confused
+4.0,Elena,Attentive
+4.0,Sam,Attentive
+4.0,Isabella,Attentive
+4.0,Ms_Grace,Not Attentive
+4.0,John,Attentive
+4.0,Jack,Attentive
+4.0,Charlotte,Attentive
+4.0,Olivia,Attentive
+4.0,William,Attentive
+4.0,Amelia,Attentive
+4.0,Chloe,Not Attentive
+4.0,Lucas,Not Attentive
+4.0,Evelyn,Attentive
+4.0,Lucas,Attentive
+5.0,Elena,Attentive
+5.0,Sam,Attentive
+5.0,Olivia,Attentive
+5.0,Jack,Attentive
+5.0,Ms_Grace,Attentive
+5.0,Isabella,Attentive
+5.0,Charlotte,Attentive
+5.0,Lucas,Confused
+5.0,John,Confused
+5.0,William,Attentive
+5.0,Amelia,Attentive
+5.0,Evelyn,Attentive
+5.0,Evelyn,Not Attentive
+5.0,Lucas,Confused
+6.0,Sam,Attentive
+6.0,Ms_Grace,Attentive
+6.0,William,Attentive
+6.0,Lucas,Not Attentive
+6.0,Charlotte,Attentive
+6.0,Olivia,Attentive
+6.0,Chloe,Not Attentive
+6.0,Amelia,Attentive
+6.0,Lucas,Attentive
+6.0,John,Attentive
+6.0,John,Attentive
+6.0,Isabella,Not Attentive
+6.0,Elena,Not Attentive
+6.0,Lucas,Confused
+6.0,Evelyn,Attentive
+7.0,Sam,Attentive
+7.0,Elena,Not Attentive
+7.0,Jack,Not Attentive
+7.0,Ms_Grace,Attentive
+7.0,John,Not Attentive
+7.0,Charlotte,Attentive
+7.0,William,Attentive
+7.0,Olivia,Attentive
+7.0,Amelia,Attentive
+7.0,Chloe,Attentive
+7.0,Lucas,Attentive
+7.0,Lucas,Confused
+7.0,Evelyn,Attentive
+8.0,Elena,Attentive
+8.0,Sam,Attentive
+8.0,Ms_Grace,Attentive
+8.0,Charlotte,Attentive
+8.0,Chloe,Attentive
+8.0,Amelia,Attentive
+8.0,Jack,Attentive
+8.0,William,Not Attentive
+8.0,Olivia,Not Attentive
+8.0,John,Not Attentive
+8.0,John,Not Attentive
+8.0,Lucas,Attentive
+8.0,Evelyn,Attentive
+8.0,Lucas,Confused
+8.0,Olivia,Confused
+8.0,Isabella,Not Attentive
+9.0,Elena,Attentive
+9.0,Sam,Attentive
+9.0,Charlotte,Attentive
+9.0,Ms_Grace,Attentive
+9.0,Amelia,Attentive
+9.0,William,Not Attentive
+9.0,Jack,Attentive
+9.0,Olivia,Not Attentive
+9.0,Isabella,Not Attentive
+9.0,Chloe,Not Attentive
+9.0,Lucas,Not Attentive
+9.0,John,Attentive
+9.0,Evelyn,Not Attentive
+9.0,Evelyn,Confused
+9.0,Lucas,Not Attentive
+10.0,Sam,Attentive
+10.0,Elena,Attentive
+10.0,Ms_Grace,Attentive
+10.0,Charlotte,Attentive
+10.0,William,Not Attentive
+10.0,Jack,Confused
+10.0,Isabella,Not Attentive
+10.0,Amelia,Attentive
+10.0,Chloe,Attentive
+10.0,Lucas,Confused
+10.0,Lucas,Confused
+10.0,Olivia,Not Attentive
+10.0,John,Attentive
+10.0,Evelyn,Confused
+11.0,Sam,Attentive
+11.0,Elena,Attentive
+11.0,Ms_Grace,Attentive
+11.0,Charlotte,Attentive
+11.0,Chloe,Confused
+11.0,Jack,Attentive
+11.0,William,Not Attentive
+11.0,Lucas,Not Attentive
+11.0,Isabella,Not Attentive
+11.0,Amelia,Not Attentive
+11.0,Lucas,Not Attentive
+11.0,John,Attentive
+11.0,Olivia,Not Attentive
+11.0,Evelyn,Not Attentive
+11.0,John,Not Attentive
+12.0,Sam,Attentive
+12.0,Elena,Attentive
+12.0,Chloe,Attentive
+12.0,Evelyn,Attentive
+12.0,Charlotte,Attentive
+12.0,Ms_Grace,Attentive
+12.0,William,Not Attentive
+12.0,Jack,Attentive
+12.0,Lucas,Attentive
+12.0,Amelia,Attentive
+12.0,Lucas,Not Attentive
+12.0,John,Not Attentive
+12.0,Olivia,Not Attentive
+12.0,Evelyn,Not Attentive
+13.0,Olivia,Attentive
+13.0,Elena,Attentive
+13.0,Isabella,Attentive
+13.0,Jack,Attentive
+13.0,Ms_Grace,Attentive
+13.0,Chloe,Attentive
+13.0,Charlotte,Attentive
+13.0,William,Not Attentive
+13.0,Amelia,Attentive
+13.0,Lucas,Not Attentive
+13.0,Lucas,Not Attentive
+13.0,John,Attentive
+13.0,Olivia,Not Attentive
+13.0,Evelyn,Confused
+13.0,Ms_Grace,Not Attentive
+14.0,Elena,Confused
+14.0,Ms_Grace,Confused
+14.0,Sam,Attentive
+14.0,Jack,Attentive
+14.0,Isabella,Attentive
+14.0,Chloe,Attentive
+14.0,William,Not Attentive
+14.0,Charlotte,Attentive
+14.0,Amelia,Attentive
+14.0,Evelyn,Attentive
+14.0,Lucas,Not Attentive
+14.0,Olivia,Not Attentive
+14.0,Lucas,Not Attentive
+14.0,John,Attentive
+15.0,Elena,Confused
+15.0,Sam,Attentive
+15.0,Jack,Attentive
+15.0,Ms_Grace,Not Attentive
+15.0,Evelyn,Attentive
+15.0,Isabella,Confused
+15.0,Chloe,Attentive
+15.0,Charlotte,Attentive
+15.0,Olivia,Not Attentive
+15.0,Lucas,Not Attentive
+15.0,William,Not Attentive
+15.0,Lucas,Not Attentive
+15.0,John,Attentive
+15.0,Amelia,Attentive
+15.0,Evelyn,Attentive
+16.0,Elena,Attentive
+16.0,Sam,Attentive
+16.0,Isabella,Attentive
+16.0,Jack,Attentive
+16.0,Charlotte,Attentive
+16.0,Chloe,Attentive
+16.0,Amelia,Attentive
+16.0,William,Not Attentive
+16.0,Lucas,Not Attentive
+16.0,Lucas,Not Attentive
+16.0,John,Attentive
+16.0,Evelyn,Attentive
+16.0,Olivia,Not Attentive
+16.0,Ms_Grace,Not Attentive
+17.0,Elena,Attentive
+17.0,Ms_Grace,Not Attentive
+17.0,Isabella,Not Attentive
+17.0,Sam,Attentive
+17.0,William,Not Attentive
+17.0,Chloe,Attentive
+17.0,Evelyn,Not Attentive
+17.0,Jack,Attentive
+17.0,Charlotte,Attentive
+17.0,Lucas,Not Attentive
+17.0,Lucas,Attentive
+17.0,Amelia,Attentive
+17.0,John,Attentive
+17.0,Olivia,Not Attentive
+18.0,Elena,Attentive
+18.0,Ms_Grace,Attentive
+18.0,Sam,Attentive
+18.0,Evelyn,Attentive
+18.0,William,Not Attentive
+18.0,Jack,Attentive
+18.0,Chloe,Attentive
+18.0,Charlotte,Attentive
+18.0,Lucas,Attentive
+18.0,John,Attentive
+18.0,Lucas,Confused
+18.0,Amelia,Attentive
+18.0,Evelyn,Attentive
+18.0,Olivia,Not Attentive
+18.0,Olivia,Confused
+19.0,Elena,Attentive
+19.0,Sam,Attentive
+19.0,Evelyn,Attentive
+19.0,Jack,Attentive
+19.0,Ms_Grace,Not Attentive
+19.0,Charlotte,Not Attentive
+19.0,William,Not Attentive
+19.0,Isabella,Not Attentive
+19.0,Chloe,Attentive
+19.0,Amelia,Attentive
+19.0,Lucas,Attentive
+19.0,John,Attentive
+19.0,Lucas,Not Attentive
+19.0,Olivia,Not Attentive
+19.0,Olivia,Confused
+19.0,Evelyn,Not Attentive
+19.0,Lucas,Not Attentive
+20.0,Elena,Attentive
+20.0,Sam,Attentive
+20.0,Charlotte,Attentive
+20.0,William,Not Attentive
+20.0,Evelyn,Attentive
+20.0,Lucas,Attentive
+20.0,John,Attentive
+20.0,Jack,Attentive
+20.0,Chloe,Confused
+20.0,Olivia,Not Attentive
+20.0,Amelia,Attentive
+20.0,Lucas,Confused
+20.0,Ms_Grace,Confused
+20.0,Olivia,Not Attentive
+20.0,Olivia,Not Attentive
+21.0,Elena,Attentive
+21.0,Sam,Attentive
+21.0,Charlotte,Attentive
+21.0,Jack,Attentive
+21.0,John,Attentive
+21.0,William,Not Attentive
+21.0,Lucas,Attentive
+21.0,Lucas,Attentive
+21.0,Evelyn,Not Attentive
+21.0,Olivia,Not Attentive
+21.0,Lucas,Confused
+21.0,Ms_Grace,Confused
+21.0,Amelia,Attentive
+21.0,Evelyn,Attentive
+21.0,Evelyn,Confused
+21.0,Evelyn,Confused
+22.0,Elena,Attentive
+22.0,Sam,Attentive
+22.0,William,Not Attentive
+22.0,Ms_Grace,Attentive
+22.0,Lucas,Confused
+22.0,Charlotte,Attentive
+22.0,Jack,Attentive
+22.0,John,Attentive
+22.0,Evelyn,Not Attentive
+22.0,Lucas,Not Attentive
+22.0,Amelia,Attentive
+22.0,Olivia,Not Attentive
+22.0,Evelyn,Not Attentive
+22.0,Lucas,Not Attentive
+22.0,Isabella,Not Attentive
+22.0,Isabella,Not Attentive
+22.0,Evelyn,Confused
+23.0,Elena,Attentive
+23.0,Sam,Attentive
+23.0,Charlotte,Attentive
+23.0,Jack,Attentive
+23.0,Ms_Grace,Attentive
+23.0,John,Attentive
+23.0,John,Attentive
+23.0,Lucas,Attentive
+23.0,Amelia,Attentive
+23.0,Lucas,Not Attentive
+23.0,Olivia,Not Attentive
+23.0,Olivia,Not Attentive
+23.0,William,Attentive
+23.0,Isabella,Not Attentive
+23.0,Olivia,Attentive
+23.0,Evelyn,Attentive
+23.0,Evelyn,Confused
+24.0,Elena,Attentive
+24.0,Sam,Attentive
+24.0,Ms_Grace,Attentive
+24.0,Jack,Attentive
+24.0,Charlotte,Attentive
+24.0,John,Attentive
+24.0,William,Not Attentive
+24.0,Lucas,Attentive
+24.0,Chloe,Not Attentive
+24.0,Amelia,Attentive
+24.0,Elena,Attentive
+24.0,Lucas,Not Attentive
+24.0,Isabella,Not Attentive
+24.0,Evelyn,Attentive
+24.0,Olivia,Not Attentive
+24.0,Evelyn,Confused
+24.0,Ms_Grace,Not Attentive
+25.0,Elena,Attentive
+25.0,Sam,Attentive
+25.0,Ms_Grace,Attentive
+25.0,Evelyn,Attentive
+25.0,Jack,Attentive
+25.0,Charlotte,Attentive
+25.0,Amelia,Attentive
+25.0,Isabella,Not Attentive
+25.0,John,Attentive
+25.0,John,Not Attentive
+25.0,Lucas,Not Attentive
+25.0,Chloe,Not Attentive
+25.0,William,Not Attentive
+25.0,Olivia,Not Attentive
+25.0,Lucas,Confused
+25.0,Isabella,Confused
+25.0,Lucas,Not Attentive
+25.0,Evelyn,Confused
+26.0,Elena,Attentive
+26.0,Ms_Grace,Attentive
+26.0,Sam,Attentive
+26.0,Olivia,Not Attentive
+26.0,Charlotte,Not Attentive
+26.0,Isabella,Confused
+26.0,John,Confused
+26.0,John,Attentive
+26.0,Evelyn,Attentive
+26.0,William,Not Attentive
+26.0,Jack,Attentive
+26.0,Lucas,Attentive
+26.0,Chloe,Attentive
+26.0,John,Not Attentive
+26.0,Amelia,Attentive
+26.0,Lucas,Confused
+26.0,Olivia,Not Attentive
+26.0,Olivia,Confused
+26.0,Evelyn,Attentive
+26.0,Evelyn,Attentive
+26.0,Ms_Grace,Not Attentive
+27.0,Elena,Not Attentive
+27.0,Elena,Attentive
+27.0,Ms_Grace,Attentive
+27.0,Sam,Attentive
+27.0,Lucas,Attentive
+27.0,Olivia,Not Attentive
+27.0,Jack,Attentive
+27.0,Charlotte,Attentive
+27.0,William,Not Attentive
+27.0,Amelia,Attentive
+27.0,Ms_Grace,Not Attentive
+27.0,Chloe,Not Attentive
+27.0,John,Attentive
+27.0,Evelyn,Attentive
+27.0,Lucas,Confused
+27.0,Olivia,Not Attentive
+27.0,Ms_Grace,Not Attentive
+27.0,Lucas,Not Attentive
+28.0,Elena,Attentive
+28.0,Sam,Attentive
+28.0,Ms_Grace,Attentive
+28.0,Amelia,Not Attentive
+28.0,Jack,Attentive
+28.0,Amelia,Attentive
+28.0,Lucas,Attentive
+28.0,Olivia,Not Attentive
+28.0,William,Not Attentive
+28.0,Chloe,Not Attentive
+28.0,Ms_Grace,Not Attentive
+28.0,John,Not Attentive
+28.0,John,Attentive
+28.0,Evelyn,Not Attentive
+28.0,Lucas,Not Attentive
+28.0,Olivia,Not Attentive
+28.0,Lucas,Not Attentive
+29.0,Elena,Attentive
+29.0,Sam,Attentive
+29.0,Ms_Grace,Attentive
+29.0,Amelia,Attentive
+29.0,Olivia,Not Attentive
+29.0,Amelia,Not Attentive
+29.0,Jack,Attentive
+29.0,Lucas,Not Attentive
+29.0,William,Not Attentive
+29.0,Chloe,Not Attentive
+29.0,Chloe,Not Attentive
+29.0,John,Not Attentive
+29.0,John,Attentive
+29.0,Lucas,Not Attentive
+29.0,Olivia,Not Attentive
+29.0,Evelyn,Attentive
+29.0,Ms_Grace,Not Attentive
+29.0,Evelyn,Attentive
+30.0,Elena,Attentive
+30.0,Sam,Attentive
+30.0,Lucas,Not Attentive
+30.0,Jack,Attentive
+30.0,Ms_Grace,Attentive
+30.0,Olivia,Not Attentive
+30.0,Amelia,Not Attentive
+30.0,William,Not Attentive
+30.0,Chloe,Not Attentive
+30.0,John,Attentive
+30.0,Amelia,Confused
+30.0,Lucas,Not Attentive
+30.0,Isabella,Not Attentive
+30.0,Olivia,Not Attentive
+30.0,Evelyn,Not Attentive
+30.0,Ms_Grace,Not Attentive
+31.0,Elena,Attentive
+31.0,Sam,Attentive
+31.0,Jack,Attentive
+31.0,Lucas,Not Attentive
+31.0,Charlotte,Not Attentive
+31.0,Ms_Grace,Not Attentive
+31.0,William,Not Attentive
+31.0,Chloe,Not Attentive
+31.0,Amelia,Not Attentive
+31.0,John,Not Attentive
+31.0,John,Attentive
+31.0,Olivia,Not Attentive
+31.0,Lucas,Not Attentive
+31.0,Olivia,Not Attentive
+31.0,Lucas,Not Attentive
+32.0,Elena,Attentive
+32.0,Lucas,Attentive
+32.0,Ms_Grace,Not Attentive
+32.0,Sam,Attentive
+32.0,William,Not Attentive
+32.0,Isabella,Not Attentive
+32.0,Olivia,Attentive
+32.0,Charlotte,Attentive
+32.0,Jack,Attentive
+32.0,Chloe,Attentive
+32.0,Ms_Grace,Not Attentive
+32.0,John,Attentive
+32.0,Amelia,Confused
+32.0,Lucas,Not Attentive
+32.0,Olivia,Not Attentive
+32.0,John,Not Attentive
+32.0,Evelyn,Not Attentive
+33.0,Elena,Attentive
+33.0,Lucas,Attentive
+33.0,Jack,Attentive
+33.0,Olivia,Attentive
+33.0,William,Attentive
+33.0,Charlotte,Attentive
+33.0,Isabella,Attentive
+33.0,Chloe,Attentive
+33.0,Amelia,Not Attentive
+33.0,Ms_Grace,Not Attentive
+33.0,John,Not Attentive
+33.0,John,Attentive
+33.0,Lucas,Not Attentive
+33.0,Ms_Grace,Not Attentive
+33.0,Olivia,Not Attentive
+33.0,Evelyn,Not Attentive
+33.0,Olivia,Not Attentive
+34.0,Elena,Attentive
+34.0,Lucas,Attentive
+34.0,Sam,Attentive
+34.0,William,Not Attentive
+34.0,Charlotte,Not Attentive
+34.0,Ms_Grace,Attentive
+34.0,Jack,Attentive
+34.0,Chloe,Attentive
+34.0,Lucas,Confused
+34.0,Olivia,Not Attentive
+34.0,Olivia,Not Attentive
+34.0,John,Not Attentive
+34.0,John,Attentive
+34.0,Amelia,Attentive
+34.0,Isabella,Not Attentive
+34.0,Ms_Grace,Not Attentive
+34.0,Ms_Grace,Not Attentive
+34.0,Olivia,Not Attentive
+35.0,Sam,Attentive
+35.0,Lucas,Attentive
+35.0,Isabella,Not Attentive
+35.0,Ms_Grace,Attentive
+35.0,Amelia,Attentive
+35.0,Jack,Attentive
+35.0,Elena,Confused
+35.0,William,Attentive
+35.0,Lucas,Not Attentive
+35.0,John,Not Attentive
+35.0,John,Attentive
+35.0,Evelyn,Not Attentive
+35.0,Olivia,Not Attentive
+35.0,Olivia,Not Attentive
+35.0,Lucas,Not Attentive
+35.0,Ms_Grace,Not Attentive
+35.0,Evelyn,Not Attentive
+35.0,Lucas,Not Attentive
+35.0,Olivia,Not Attentive
+36.0,Sam,Not Attentive
+36.0,Lucas,Not Attentive
+36.0,Elena,Attentive
+36.0,Charlotte,Attentive
+36.0,Jack,Attentive
+36.0,William,Not Attentive
+36.0,John,Not Attentive
+36.0,John,Attentive
+36.0,Chloe,Attentive
+36.0,Lucas,Not Attentive
+36.0,Evelyn,Not Attentive
+36.0,Olivia,Not Attentive
+36.0,unknown,Not Attentive
+36.0,Ms_Grace,Attentive
+36.0,Evelyn,Not Attentive
+36.0,Isabella,Not Attentive
+37.0,Sam,Attentive
+37.0,Elena,Attentive
+37.0,Lucas,Attentive
+37.0,Jack,Attentive
+37.0,Amelia,Attentive
+37.0,Chloe,Attentive
+37.0,John,Not Attentive
+37.0,William,Not Attentive
+37.0,Lucas,Not Attentive
+37.0,Olivia,Not Attentive
+37.0,Olivia,Not Attentive
+37.0,Ms_Grace,Not Attentive
+37.0,Olivia,Not Attentive
+37.0,Ms_Grace,Not Attentive
+37.0,Isabella,Not Attentive
+38.0,Elena,Not Attentive
+38.0,Lucas,Attentive
+38.0,Sam,Attentive
+38.0,William,Not Attentive
+38.0,Amelia,Attentive
+38.0,John,Not Attentive
+38.0,Chloe,Not Attentive
+38.0,Jack,Attentive
+38.0,Olivia,Not Attentive
+38.0,Amelia,Not Attentive
+38.0,Lucas,Confused
+38.0,Isabella,Confused
+38.0,Evelyn,Attentive
+38.0,Ms_Grace,Confused
+38.0,John,Not Attentive
+38.0,Evelyn,Attentive
+38.0,Ms_Grace,Not Attentive
+38.0,Evelyn,Not Attentive
+39.0,Sam,Attentive
+39.0,Lucas,Confused
+39.0,Elena,Confused
+39.0,Amelia,Confused
+39.0,William,Not Attentive
+39.0,Chloe,Not Attentive
+39.0,Jack,Not Attentive
+39.0,Lucas,Attentive
+39.0,John,Not Attentive
+39.0,Ms_Grace,Not Attentive
+39.0,Amelia,Not Attentive
+39.0,Olivia,Not Attentive
+39.0,Lucas,Not Attentive
+39.0,Evelyn,Not Attentive
+39.0,Evelyn,Attentive
+39.0,Isabella,Not Attentive
+40.0,Sam,Attentive
+40.0,Lucas,Confused
+40.0,William,Not Attentive
+40.0,Ms_Grace,Not Attentive
+40.0,Amelia,Attentive
+40.0,Elena,Attentive
+40.0,Chloe,Attentive
+40.0,Olivia,Attentive
+40.0,Jack,Attentive
+40.0,Amelia,Not Attentive
+40.0,Lucas,Not Attentive
+40.0,Evelyn,Attentive
+40.0,John,Not Attentive
+40.0,Evelyn,Not Attentive
+41.0,Sam,Attentive
+41.0,Lucas,Attentive
+41.0,Elena,Attentive
+41.0,William,Attentive
+41.0,Charlotte,Attentive
+41.0,Chloe,Not Attentive
+41.0,Ms_Grace,Not Attentive
+41.0,Olivia,Attentive
+41.0,Jack,Attentive
+41.0,Lucas,Not Attentive
+41.0,John,Not Attentive
+41.0,Amelia,Attentive
+41.0,Olivia,Not Attentive
+41.0,Evelyn,Attentive
+41.0,Evelyn,Not Attentive
+41.0,Evelyn,Not Attentive
+42.0,Sam,Attentive
+42.0,Lucas,Confused
+42.0,John,Not Attentive
+42.0,Elena,Attentive
+42.0,William,Attentive
+42.0,Ms_Grace,Not Attentive
+42.0,Charlotte,Not Attentive
+42.0,Chloe,Not Attentive
+42.0,Jack,Attentive
+42.0,Amelia,Attentive
+42.0,Evelyn,Attentive
+42.0,Evelyn,Not Attentive
+42.0,Lucas,Not Attentive
+43.0,Sam,Not Attentive
+43.0,Lucas,Confused
+43.0,Charlotte,Confused
+43.0,John,Not Attentive
+43.0,William,Not Attentive
+43.0,Elena,Not Attentive
+43.0,Chloe,Not Attentive
+43.0,Ms_Grace,Not Attentive
+43.0,Jack,Attentive
+43.0,Isabella,Attentive
+43.0,Amelia,Attentive
+43.0,Lucas,Not Attentive
+43.0,Evelyn,Not Attentive
+43.0,Evelyn,Attentive
+43.0,Evelyn,Attentive
+43.0,Olivia,Not Attentive
+44.0,Sam,Attentive
+44.0,Lucas,Attentive
+44.0,Charlotte,Attentive
+44.0,William,Not Attentive
+44.0,Elena,Not Attentive
+44.0,Isabella,Not Attentive
+44.0,Jack,Attentive
+44.0,Lucas,Not Attentive
+44.0,Chloe,Not Attentive
+44.0,John,Not Attentive
+44.0,Evelyn,Not Attentive
+44.0,Amelia,Attentive
+44.0,Olivia,Not Attentive
+44.0,Evelyn,Attentive
+45.0,Sam,Attentive
+45.0,Lucas,Confused
+45.0,John,Confused
+45.0,Amelia,Attentive
+45.0,Isabella,Attentive
+45.0,Elena,Attentive
+45.0,Olivia,Not Attentive
+45.0,Jack,Attentive
+45.0,William,Not Attentive
+45.0,Lucas,Not Attentive
+45.0,Olivia,Not Attentive
+45.0,Olivia,Attentive
+45.0,Amelia,Attentive
+45.0,Olivia,Confused
+45.0,Evelyn,Attentive
+45.0,Chloe,Not Attentive
+46.0,Sam,Not Attentive
+46.0,Lucas,Not Attentive
+46.0,Olivia,Not Attentive
+46.0,Charlotte,Not Attentive
+46.0,William,Not Attentive
+46.0,Isabella,Not Attentive
+46.0,Elena,Attentive
+46.0,Jack,Attentive
+46.0,John,Not Attentive
+46.0,Lucas,Attentive
+46.0,Chloe,Attentive
+46.0,Amelia,Attentive
+46.0,Evelyn,Attentive
+47.0,Lucas,Attentive
+47.0,Sam,Attentive
+47.0,William,Not Attentive
+47.0,Charlotte,Not Attentive
+47.0,Isabella,Not Attentive
+47.0,Lucas,Not Attentive
+47.0,Olivia,Not Attentive
+47.0,John,Not Attentive
+47.0,Elena,Not Attentive
+47.0,Jack,Attentive
+47.0,Chloe,Attentive
+47.0,Amelia,Attentive
+47.0,Ms_Grace,Attentive
+47.0,Evelyn,Attentive
+48.0,Sam,Attentive
+48.0,Lucas,Confused
+48.0,John,Not Attentive
+48.0,Amelia,Attentive
+48.0,William,Not Attentive
+48.0,Elena,Not Attentive
+48.0,Olivia,Attentive
+48.0,Amelia,Attentive
+48.0,Lucas,Not Attentive
+48.0,Jack,Attentive
+48.0,Chloe,Attentive
+48.0,Isabella,Not Attentive
+48.0,Evelyn,Attentive
+49.0,Lucas,Not Attentive
+49.0,Sam,Not Attentive
+49.0,John,Not Attentive
+49.0,Isabella,Not Attentive
+49.0,Amelia,Not Attentive
+49.0,Lucas,Not Attentive
+49.0,Elena,Attentive
+49.0,William,Not Attentive
+49.0,Olivia,Attentive
+49.0,Chloe,Attentive
+49.0,Jack,Attentive
+49.0,Amelia,Attentive
+49.0,Evelyn,Attentive
+49.0,Evelyn,Attentive
+50.0,Lucas,Attentive
+50.0,Sam,Attentive
+50.0,John,Attentive
+50.0,William,Not Attentive
+50.0,Olivia,Not Attentive
+50.0,Amelia,Not Attentive
+50.0,Chloe,Not Attentive
+50.0,Lucas,Not Attentive
+50.0,Elena,Attentive
+50.0,Amelia,Attentive
+50.0,Jack,Attentive
+50.0,Ms_Grace,Confused
+50.0,Evelyn,Attentive
+51.0,Lucas,Confused
+51.0,Sam,Confused
+51.0,William,Not Attentive
+51.0,John,Attentive
+51.0,Ms_Grace,Not Attentive
+51.0,Elena,Attentive
+51.0,Chloe,Attentive
+51.0,Amelia,Attentive
+51.0,Amelia,Attentive
+51.0,Lucas,Not Attentive
+51.0,Jack,Not Attentive
+51.0,Olivia,Not Attentive
+52.0,Lucas,Confused
+52.0,John,Attentive
+52.0,Sam,Attentive
+52.0,William,Not Attentive
+52.0,Elena,Attentive
+52.0,Chloe,Attentive
+52.0,Olivia,Confused
+52.0,Charlotte,Not Attentive
+52.0,Lucas,Not Attentive
+52.0,Jack,Attentive
+52.0,Evelyn,Not Attentive
+52.0,Ms_Grace,Not Attentive
+52.0,Evelyn,Attentive
+52.0,Amelia,Attentive
+52.0,Ms_Grace,Not Attentive
+52.0,Isabella,Not Attentive
+53.0,Lucas,Not Attentive
+53.0,John,Not Attentive
+53.0,Sam,Not Attentive
+53.0,William,Not Attentive
+53.0,Evelyn,Attentive
+53.0,Elena,Attentive
+53.0,Amelia,Attentive
+53.0,Olivia,Attentive
+53.0,Chloe,Attentive
+53.0,Charlotte,Not Attentive
+53.0,Lucas,Not Attentive
+53.0,Jack,Attentive
+53.0,Ms_Grace,Not Attentive
+53.0,Ms_Grace,Not Attentive
+54.0,Sam,Not Attentive
+54.0,Lucas,Attentive
+54.0,William,Not Attentive
+54.0,John,Not Attentive
+54.0,Olivia,Not Attentive
+54.0,Amelia,Attentive
+54.0,Elena,Attentive
+54.0,Chloe,Attentive
+54.0,Charlotte,Attentive
+54.0,Lucas,Not Attentive
+54.0,Jack,Attentive
+54.0,Ms_Grace,Attentive
+54.0,Evelyn,Attentive
+54.0,unknown,Not Attentive
+55.0,Sam,Attentive
+55.0,Lucas,Attentive
+55.0,John,Attentive
+55.0,Olivia,Not Attentive
+55.0,Ms_Grace,Not Attentive
+55.0,Elena,Attentive
+55.0,Isabella,Not Attentive
+55.0,Amelia,Not Attentive
+55.0,Jack,Not Attentive
+55.0,Olivia,Not Attentive
+55.0,Olivia,Not Attentive
+55.0,Olivia,Attentive
+55.0,Amelia,Attentive
+55.0,Lucas,Not Attentive
+55.0,Evelyn,Not Attentive
+55.0,William,Not Attentive
+56.0,Sam,Attentive
+56.0,Lucas,Confused
+56.0,Isabella,Confused
+56.0,John,Not Attentive
+56.0,Ms_Grace,Confused
+56.0,Elena,Attentive
+56.0,Olivia,Confused
+56.0,Amelia,Not Attentive
+56.0,Jack,Attentive
+56.0,Lucas,Not Attentive
+56.0,William,Not Attentive
+56.0,Evelyn,Attentive
+56.0,Chloe,Attentive
+56.0,Olivia,Attentive
+56.0,Olivia,Attentive
+57.0,Lucas,Confused
+57.0,Sam,Attentive
+57.0,John,Attentive
+57.0,Isabella,Attentive
+57.0,Elena,Attentive
+57.0,Ms_Grace,Not Attentive
+57.0,Olivia,Attentive
+57.0,Charlotte,Not Attentive
+57.0,Jack,Not Attentive
+57.0,Evelyn,Attentive
+57.0,Lucas,Not Attentive
+57.0,William,Attentive
+57.0,Chloe,Attentive
+58.0,Sam,Attentive
+58.0,Lucas,Confused
+58.0,John,Attentive
+58.0,Isabella,Attentive
+58.0,Olivia,Attentive
+58.0,Elena,Attentive
+58.0,Lucas,Not Attentive
+58.0,Charlotte,Not Attentive
+58.0,Amelia,Attentive
+58.0,Ms_Grace,Attentive
+58.0,Jack,Not Attentive
+58.0,William,Not Attentive
+58.0,Olivia,Not Attentive
+58.0,Olivia,Attentive
+58.0,unknown,Not Attentive
+59.0,Lucas,Confused
+59.0,Sam,Confused
+59.0,John,Not Attentive
+59.0,Isabella,Not Attentive
+59.0,Lucas,Not Attentive
+59.0,Olivia,Confused
+59.0,Elena,Attentive
+59.0,Charlotte,Not Attentive
+59.0,Jack,Not Attentive
+59.0,Amelia,Attentive
+59.0,Olivia,Attentive
+59.0,Olivia,Attentive
+59.0,William,Attentive
+59.0,Ms_Grace,Attentive
+59.0,Olivia,Not Attentive
+59.0,Evelyn,Attentive
+60.0,Sam,Attentive
+60.0,Lucas,Attentive
+60.0,John,Attentive
+60.0,Olivia,Confused
+60.0,Evelyn,Not Attentive
+60.0,Lucas,Not Attentive
+60.0,Elena,Not Attentive
+60.0,Jack,Attentive
+60.0,Charlotte,Not Attentive
+60.0,Olivia,Not Attentive
+60.0,Olivia,Attentive
+60.0,Amelia,Attentive
+60.0,Isabella,Not Attentive
+60.0,William,Attentive
+60.0,Evelyn,Attentive
+61.0,Sam,Attentive
+61.0,Lucas,Attentive
+61.0,John,Not Attentive
+61.0,Isabella,Not Attentive
+61.0,Olivia,Attentive
+61.0,Elena,Attentive
+61.0,Lucas,Not Attentive
+61.0,Amelia,Not Attentive
+61.0,Chloe,Not Attentive
+61.0,Amelia,Attentive
+61.0,Jack,Attentive
+61.0,Olivia,Attentive
+61.0,Olivia,Attentive
+61.0,William,Attentive
+62.0,Sam,Attentive
+62.0,Lucas,Attentive
+62.0,Olivia,Confused
+62.0,John,Confused
+62.0,Lucas,Not Attentive
+62.0,Elena,Attentive
+62.0,Isabella,Attentive
+62.0,Charlotte,Not Attentive
+62.0,William,Attentive
+62.0,William,Not Attentive
+62.0,Amelia,Attentive
+62.0,Evelyn,Attentive
+62.0,Olivia,Attentive
+62.0,Olivia,Attentive
+63.0,Sam,Attentive
+63.0,Lucas,Attentive
+63.0,John,Attentive
+63.0,Olivia,Confused
+63.0,Elena,Attentive
+63.0,Lucas,Not Attentive
+63.0,William,Attentive
+63.0,William,Not Attentive
+63.0,Amelia,Not Attentive
+63.0,Amelia,Attentive
+63.0,Isabella,Attentive
+63.0,Evelyn,Not Attentive
+63.0,Chloe,Attentive
+63.0,Evelyn,Not Attentive
+64.0,Lucas,Not Attentive
+64.0,Sam,Not Attentive
+64.0,John,Attentive
+64.0,Olivia,Confused
+64.0,Elena,Confused
+64.0,Lucas,Not Attentive
+64.0,Jack,Not Attentive
+64.0,William,Not Attentive
+64.0,Amelia,Attentive
+64.0,Amelia,Not Attentive
+64.0,William,Attentive
+64.0,Isabella,Not Attentive
+64.0,Evelyn,Attentive
+64.0,Olivia,Attentive
+64.0,Olivia,Attentive
+64.0,Olivia,Attentive
+64.0,William,Confused
+65.0,Lucas,Confused
+65.0,Sam,Confused
+65.0,John,Confused
+65.0,Amelia,Attentive
+65.0,Lucas,Not Attentive
+65.0,Elena,Not Attentive
+65.0,Olivia,Confused
+65.0,Chloe,Not Attentive
+65.0,Jack,Not Attentive
+65.0,Amelia,Not Attentive
+65.0,William,Attentive
+65.0,Isabella,Attentive
+65.0,Ms_Grace,Not Attentive
+65.0,Olivia,Attentive
+65.0,Olivia,Attentive
+65.0,Chloe,Not Attentive
+66.0,Sam,Attentive
+66.0,Lucas,Not Attentive
+66.0,John,Not Attentive
+66.0,Amelia,Attentive
+66.0,Isabella,Attentive
+66.0,William,Attentive
+66.0,Lucas,Confused
+66.0,Olivia,Attentive
+66.0,Elena,Attentive
+66.0,Amelia,Not Attentive
+66.0,Elena,Attentive
+66.0,Evelyn,Not Attentive
+66.0,Ms_Grace,Not Attentive
+66.0,Evelyn,Attentive
+66.0,Chloe,Not Attentive
+67.0,Sam,Attentive
+67.0,Lucas,Not Attentive
+67.0,John,Not Attentive
+67.0,William,Attentive
+67.0,Elena,Confused
+67.0,Olivia,Confused
+67.0,Lucas,Not Attentive
+67.0,Amelia,Attentive
+67.0,Isabella,Attentive
+67.0,Jack,Attentive
+67.0,Amelia,Not Attentive
+67.0,Chloe,Attentive
+67.0,Evelyn,Attentive
+67.0,unknown,Attentive
+67.0,Ms_Grace,Not Attentive
+68.0,Sam,Not Attentive
+68.0,Lucas,Not Attentive
+68.0,John,Not Attentive
+68.0,William,Attentive
+68.0,Amelia,Attentive
+68.0,Elena,Attentive
+68.0,Olivia,Confused
+68.0,Lucas,Not Attentive
+68.0,Chloe,Not Attentive
+68.0,Chloe,Not Attentive
+68.0,Chloe,Not Attentive
+68.0,Amelia,Not Attentive
+68.0,Jack,Attentive
+68.0,Isabella,Attentive
+68.0,unknown,Attentive
+69.0,Sam,Attentive
+69.0,Lucas,Confused
+69.0,William,Not Attentive
+69.0,John,Attentive
+69.0,Elena,Attentive
+69.0,Chloe,Attentive
+69.0,Amelia,Attentive
+69.0,Olivia,Confused
+69.0,Isabella,Confused
+69.0,Lucas,Not Attentive
+69.0,Jack,Attentive
+69.0,Amelia,Not Attentive
+69.0,unknown,Attentive
+69.0,Ms_Grace,Not Attentive
+70.0,Sam,Attentive
+70.0,Lucas,Not Attentive
+70.0,John,Not Attentive
+70.0,William,Not Attentive
+70.0,Elena,Attentive
+70.0,Olivia,Attentive
+70.0,Chloe,Attentive
+70.0,Isabella,Attentive
+70.0,Amelia,Not Attentive
+70.0,Amelia,Attentive
+70.0,Lucas,Not Attentive
+70.0,Jack,Attentive
+70.0,Ms_Grace,Not Attentive
+70.0,unknown,Not Attentive
+71.0,Sam,Attentive
+71.0,Lucas,Not Attentive
+71.0,William,Not Attentive
+71.0,John,Attentive
+71.0,Isabella,Attentive
+71.0,Chloe,Attentive
+71.0,Elena,Attentive
+71.0,Amelia,Attentive
+71.0,Amelia,Attentive
+71.0,Olivia,Not Attentive
+71.0,Lucas,Not Attentive
+71.0,unknown,Not Attentive
+71.0,Jack,Attentive
+72.0,Sam,Attentive
+72.0,Lucas,Confused
+72.0,Isabella,Confused
+72.0,William,Confused
+72.0,John,Not Attentive
+72.0,Elena,Not Attentive
+72.0,Chloe,Not Attentive
+72.0,Charlotte,Not Attentive
+72.0,Amelia,Attentive
+72.0,Lucas,Not Attentive
+72.0,Jack,Attentive
+72.0,unknown,Not Attentive
+72.0,Ms_Grace,Not Attentive
+72.0,Olivia,Not Attentive
+73.0,Sam,Attentive
+73.0,Lucas,Confused
+73.0,Isabella,Confused
+73.0,John,Confused
+73.0,Elena,Confused
+73.0,William,Not Attentive
+73.0,Chloe,Attentive
+73.0,Amelia,Attentive
+73.0,Jack,Attentive
+73.0,Charlotte,Not Attentive
+73.0,unknown,Not Attentive
+73.0,Lucas,Not Attentive
+73.0,Olivia,Attentive
+73.0,Ms_Grace,Not Attentive
+74.0,Sam,Attentive
+74.0,Lucas,Confused
+74.0,William,Not Attentive
+74.0,John,Not Attentive
+74.0,Isabella,Not Attentive
+74.0,Elena,Not Attentive
+74.0,Chloe,Not Attentive
+74.0,Chloe,Attentive
+74.0,Amelia,Attentive
+74.0,Jack,Attentive
+74.0,Olivia,Confused
+74.0,Amelia,Not Attentive
+74.0,Lucas,Not Attentive
+74.0,unknown,Not Attentive
+74.0,Ms_Grace,Not Attentive
+75.0,Sam,Attentive
+75.0,Lucas,Confused
+75.0,William,Attentive
+75.0,Elena,Attentive
+75.0,John,Not Attentive
+75.0,Amelia,Attentive
+75.0,Chloe,Attentive
+75.0,Chloe,Attentive
+75.0,Amelia,Not Attentive
+75.0,Lucas,Not Attentive
+75.0,Olivia,Confused
+75.0,Lucas,Not Attentive
+75.0,Ms_Grace,Not Attentive
+76.0,Sam,Not Attentive
+76.0,Lucas,Confused
+76.0,Isabella,Attentive
+76.0,William,Attentive
+76.0,Elena,Attentive
+76.0,Chloe,Attentive
+76.0,Chloe,Attentive
+76.0,Amelia,Attentive
+76.0,Charlotte,Not Attentive
+76.0,Olivia,Not Attentive
+76.0,Lucas,Not Attentive
+76.0,John,Not Attentive
+76.0,unknown,Not Attentive
+76.0,Ms_Grace,Not Attentive
+76.0,John,Not Attentive
+77.0,Lucas,Confused
+77.0,Sam,Confused
+77.0,Elena,Confused
+77.0,Isabella,Not Attentive
+77.0,William,Attentive
+77.0,Chloe,Attentive
+77.0,Chloe,Attentive
+77.0,Evelyn,Attentive
+77.0,Charlotte,Not Attentive
+77.0,Olivia,Attentive
+77.0,Lucas,Not Attentive
+77.0,Ms_Grace,Attentive
+77.0,unknown,Not Attentive
+77.0,Jack,Not Attentive
+78.0,Lucas,Confused
+78.0,Sam,Attentive
+78.0,Isabella,Attentive
+78.0,Elena,Attentive
+78.0,William,Attentive
+78.0,Evelyn,Attentive
+78.0,Lucas,Not Attentive
+78.0,Charlotte,Not Attentive
+78.0,Chloe,Attentive
+78.0,Jack,Not Attentive
+78.0,Evelyn,Attentive
+78.0,Olivia,Not Attentive
+79.0,Sam,Not Attentive
+79.0,Lucas,Not Attentive
+79.0,Isabella,Attentive
+79.0,Elena,Attentive
+79.0,William,Attentive
+79.0,Lucas,Not Attentive
+79.0,Amelia,Attentive
+79.0,Amelia,Not Attentive
+79.0,Chloe,Not Attentive
+79.0,Olivia,Attentive
+79.0,Chloe,Not Attentive
+80.0,Lucas,Not Attentive
+80.0,Sam,Attentive
+80.0,Isabella,Not Attentive
+80.0,Elena,Not Attentive
+80.0,Elena,Not Attentive
+80.0,William,Not Attentive
+80.0,Lucas,Confused
+80.0,Amelia,Not Attentive
+80.0,Amelia,Attentive
+80.0,Ms_Grace,Not Attentive
+80.0,Evelyn,Attentive
+80.0,Jack,Attentive
+80.0,Chloe,Attentive
+80.0,Olivia,Attentive
+80.0,Ms_Grace,Attentive
+80.0,Isabella,Not Attentive
+81.0,Lucas,Not Attentive
+81.0,Sam,Attentive
+81.0,Isabella,Not Attentive
+81.0,Elena,Not Attentive
+81.0,Lucas,Not Attentive
+81.0,William,Attentive
+81.0,Amelia,Attentive
+81.0,Evelyn,Confused
+81.0,Amelia,Not Attentive
+81.0,Jack,Attentive
+81.0,Evelyn,Attentive
+82.0,Lucas,Not Attentive
+82.0,Sam,Attentive
+82.0,Isabella,Not Attentive
+82.0,Elena,Not Attentive
+82.0,Lucas,Not Attentive
+82.0,Evelyn,Attentive
+82.0,Amelia,Attentive
+82.0,William,Attentive
+82.0,Jack,Attentive
+82.0,Olivia,Attentive
+82.0,Chloe,Attentive
+83.0,Lucas,Not Attentive
+83.0,Olivia,Attentive
+83.0,Isabella,Attentive
+83.0,Charlotte,Attentive
+83.0,Elena,Attentive
+83.0,Lucas,Confused
+83.0,Amelia,Attentive
+83.0,William,Attentive
+83.0,Chloe,Attentive
+83.0,Jack,Attentive
+83.0,Olivia,Attentive
+83.0,Ms_Grace,Not Attentive
+84.0,Lucas,Not Attentive
+84.0,Olivia,Not Attentive
+84.0,Elena,Not Attentive
+84.0,Isabella,Attentive
+84.0,Charlotte,Attentive
+84.0,Lucas,Confused
+84.0,William,Not Attentive
+84.0,Amelia,Attentive
+84.0,Ms_Grace,Not Attentive
+84.0,Chloe,Not Attentive
+84.0,Jack,Attentive
+84.0,Olivia,Not Attentive
+84.0,unknown,Not Attentive
+85.0,Lucas,Not Attentive
+85.0,Sam,Not Attentive
+85.0,Isabella,Attentive
+85.0,Ms_Grace,Attentive
+85.0,Charlotte,Attentive
+85.0,Elena,Confused
+85.0,Amelia,Attentive
+85.0,Lucas,Confused
+85.0,William,Attentive
+85.0,Evelyn,Attentive
+85.0,Olivia,Not Attentive
+85.0,Jack,Attentive
+85.0,Chloe,Attentive
+86.0,Ms_Grace,Attentive
+86.0,Lucas,Not Attentive
+86.0,Sam,Not Attentive
+86.0,Isabella,Attentive
+86.0,Elena,Not Attentive
+86.0,William,Attentive
+86.0,Amelia,Attentive
+86.0,Evelyn,Attentive
+86.0,Lucas,Confused
+86.0,Olivia,Attentive
+86.0,Chloe,Attentive
+86.0,Elena,Attentive
+86.0,Evelyn,Not Attentive
+87.0,Lucas,Not Attentive
+87.0,Sam,Attentive
+87.0,Isabella,Attentive
+87.0,William,Attentive
+87.0,Lucas,Not Attentive
+87.0,Amelia,Attentive
+87.0,Elena,Confused
+87.0,Ms_Grace,Not Attentive
+87.0,Amelia,Attentive
+87.0,Olivia,Not Attentive
+87.0,Chloe,Attentive
+87.0,Jack,Attentive
+88.0,Sam,Attentive
+88.0,Lucas,Not Attentive
+88.0,William,Attentive
+88.0,Isabella,Attentive
+88.0,Lucas,Confused
+88.0,Elena,Confused
+88.0,Charlotte,Confused
+88.0,Amelia,Attentive
+88.0,Chloe,Attentive
+88.0,Olivia,Confused
+88.0,Ms_Grace,Not Attentive
+88.0,Jack,Not Attentive
+89.0,Sam,Not Attentive
+89.0,Lucas,Not Attentive
+89.0,William,Attentive
+89.0,Elena,Not Attentive
+89.0,Charlotte,Attentive
+89.0,Ms_Grace,Attentive
+89.0,Lucas,Not Attentive
+89.0,Isabella,Not Attentive
+89.0,Amelia,Attentive
+89.0,Olivia,Attentive
+89.0,Chloe,Attentive
+89.0,Jack,Attentive
+90.0,Sam,Attentive
+90.0,unknown,Not Attentive
+90.0,William,Not Attentive
+90.0,Lucas,Not Attentive
+90.0,Elena,Not Attentive
+90.0,Elena,Not Attentive
+90.0,Amelia,Attentive
+90.0,Lucas,Not Attentive
+90.0,Chloe,Not Attentive
+90.0,Isabella,Not Attentive
+90.0,Amelia,Attentive
+90.0,Olivia,Attentive
+90.0,Jack,Attentive
+91.0,Sam,Attentive
+91.0,Lucas,Attentive
+91.0,William,Attentive
+91.0,Elena,Attentive
+91.0,Ms_Grace,Attentive
+91.0,Amelia,Attentive
+91.0,Lucas,Not Attentive
+91.0,Chloe,Not Attentive
+91.0,Isabella,Not Attentive
+91.0,Amelia,Attentive
+91.0,Olivia,Not Attentive
+91.0,Elena,Not Attentive
+92.0,Sam,Not Attentive
+92.0,William,Not Attentive
+92.0,Elena,Confused
+92.0,Lucas,Not Attentive
+92.0,Charlotte,Not Attentive
+92.0,Charlotte,Attentive
+92.0,Isabella,Not Attentive
+92.0,Lucas,Not Attentive
+92.0,Chloe,Not Attentive
+92.0,Ms_Grace,Not Attentive
+92.0,Olivia,Confused
+92.0,Elena,Confused
+92.0,Amelia,Attentive
+92.0,Evelyn,Attentive
+93.0,Sam,Attentive
+93.0,Elena,Attentive
+93.0,Isabella,Attentive
+93.0,Charlotte,Attentive
+93.0,William,Not Attentive
+93.0,Amelia,Attentive
+93.0,Ms_Grace,Not Attentive
+93.0,Olivia,Confused
+93.0,Chloe,Confused
+93.0,Jack,Attentive
+93.0,Lucas,Confused
+94.0,Sam,Confused
+94.0,Isabella,Confused
+94.0,Elena,Confused
+94.0,Charlotte,Attentive
+94.0,William,Attentive
+94.0,Ms_Grace,Not Attentive
+94.0,Amelia,Attentive
+94.0,Lucas,Not Attentive
+94.0,Olivia,Not Attentive
+94.0,Chloe,Not Attentive
+94.0,Jack,Confused
+95.0,Sam,Confused
+95.0,Elena,Confused
+95.0,Charlotte,Attentive
+95.0,William,Attentive
+95.0,Isabella,Attentive
+95.0,Ms_Grace,Attentive
+95.0,Amelia,Attentive
+95.0,Olivia,Attentive
+95.0,Chloe,Attentive
+95.0,Lucas,Not Attentive
+95.0,Evelyn,Not Attentive
+95.0,Jack,Attentive
+95.0,Lucas,Confused
+96.0,Sam,Confused
+96.0,Elena,Confused
+96.0,Isabella,Confused
+96.0,Charlotte,Attentive
+96.0,Lucas,Not Attentive
+96.0,Lucas,Attentive
+96.0,William,Attentive
+96.0,Ms_Grace,Attentive
+96.0,Olivia,Attentive
+96.0,Amelia,Attentive
+96.0,Evelyn,Attentive
+96.0,Jack,Attentive
+96.0,Chloe,Attentive
+97.0,Sam,Attentive
+97.0,Elena,Confused
+97.0,Amelia,Attentive
+97.0,Lucas,Attentive
+97.0,William,Not Attentive
+97.0,Olivia,Confused
+97.0,Ms_Grace,Confused
+97.0,Isabella,Confused
+97.0,Lucas,Confused
+97.0,Amelia,Attentive
+97.0,Jack,Attentive
+98.0,Sam,Attentive
+98.0,Elena,Attentive
+98.0,William,Not Attentive
+98.0,Amelia,Attentive
+98.0,Lucas,Confused
+98.0,Olivia,Attentive
+98.0,Ms_Grace,Not Attentive
+98.0,Isabella,Attentive
+98.0,Chloe,Attentive
+98.0,Lucas,Attentive
+98.0,Jack,Attentive
+98.0,Evelyn,Attentive
+98.0,Evelyn,Attentive
+99.0,Sam,Attentive
+99.0,Elena,Attentive
+99.0,Lucas,Attentive
+99.0,William,Attentive
+99.0,Evelyn,Attentive
+99.0,Olivia,Attentive
+99.0,Ms_Grace,Not Attentive
+99.0,Amelia,Attentive
+99.0,Olivia,Not Attentive
+99.0,Lucas,Confused
+99.0,Jack,Not Attentive
+99.0,Isabella,Not Attentive
+99.0,John,Not Attentive
+99.0,Evelyn,Attentive
+100.0,Sam,Attentive
+100.0,unknown,Not Attentive
+100.0,Evelyn,Not Attentive
+100.0,Lucas,Not Attentive
+100.0,Elena,Not Attentive
+100.0,Charlotte,Attentive
+100.0,William,Not Attentive
+100.0,Amelia,Attentive
+100.0,Isabella,Confused
+100.0,Olivia,Attentive
+100.0,Evelyn,Attentive
+100.0,Lucas,Confused
+101.0,Sam,Attentive
+101.0,Charlotte,Attentive
+101.0,Isabella,Attentive
+101.0,Lucas,Attentive
+101.0,Ms_Grace,Not Attentive
+101.0,Elena,Confused
+101.0,Chloe,Confused
+101.0,Lucas,Not Attentive
+101.0,William,Attentive
+101.0,Amelia,Attentive
+101.0,Olivia,Confused
+101.0,John,Attentive
+102.0,Sam,Attentive
+102.0,Ms_Grace,Attentive
+102.0,Isabella,Not Attentive
+102.0,Elena,Not Attentive
+102.0,Lucas,Attentive
+102.0,Lucas,Confused
+102.0,Charlotte,Attentive
+102.0,William,Attentive
+102.0,Chloe,Not Attentive
+102.0,Amelia,Attentive
+102.0,Olivia,Attentive
+102.0,John,Attentive
+102.0,Jack,Attentive
+102.0,Evelyn,Attentive
+103.0,Sam,Attentive
+103.0,Lucas,Attentive
+103.0,William,Attentive
+103.0,Charlotte,Attentive
+103.0,Elena,Attentive
+103.0,Jack,Attentive
+103.0,Isabella,Not Attentive
+103.0,Chloe,Not Attentive
+103.0,Sam,Not Attentive
+103.0,Amelia,Attentive
+103.0,Olivia,Attentive
+103.0,Lucas,Confused
+103.0,Ms_Grace,Attentive
+103.0,Evelyn,Attentive
+103.0,John,Not Attentive
+104.0,Sam,Attentive
+104.0,Elena,Confused
+104.0,William,Attentive
+104.0,Chloe,Attentive
+104.0,Chloe,Attentive
+104.0,Lucas,Attentive
+104.0,Isabella,Not Attentive
+104.0,Charlotte,Attentive
+104.0,Amelia,Attentive
+104.0,Lucas,Attentive
+104.0,John,Attentive
+104.0,Olivia,Confused
+105.0,Sam,Attentive
+105.0,Elena,Attentive
+105.0,Isabella,Attentive
+105.0,William,Attentive
+105.0,Chloe,Attentive
+105.0,Chloe,Attentive
+105.0,Lucas,Attentive
+105.0,Charlotte,Attentive
+105.0,Lucas,Attentive
+105.0,Lucas,Not Attentive
+105.0,Amelia,Attentive
+105.0,Olivia,Confused
+105.0,John,Attentive
+105.0,John,Not Attentive
+105.0,Evelyn,Attentive
+106.0,Sam,Attentive
+106.0,William,Not Attentive
+106.0,Elena,Not Attentive
+106.0,Isabella,Attentive
+106.0,Lucas,Attentive
+106.0,Amelia,Attentive
+106.0,Chloe,Attentive
+106.0,Olivia,Confused
+106.0,Amelia,Attentive
+106.0,Lucas,Not Attentive
+106.0,unknown,Not Attentive
+106.0,John,Not Attentive
+106.0,Ms_Grace,Not Attentive
+106.0,John,Not Attentive
+106.0,John,Not Attentive
+106.0,Evelyn,Not Attentive
+106.0,Olivia,Not Attentive
+107.0,Olivia,Attentive
+107.0,William,Attentive
+107.0,Elena,Attentive
+107.0,Lucas,Attentive
+107.0,Isabella,Not Attentive
+107.0,Charlotte,Attentive
+107.0,Chloe,Attentive
+107.0,Amelia,Attentive
+107.0,Lucas,Not Attentive
+107.0,Ms_Grace,Not Attentive
+107.0,Olivia,Confused
+107.0,John,Confused
+107.0,Amelia,Not Attentive
+108.0,Olivia,Not Attentive
+108.0,William,Attentive
+108.0,Ms_Grace,Attentive
+108.0,Lucas,Attentive
+108.0,Elena,Confused
+108.0,Isabella,Attentive
+108.0,Lucas,Not Attentive
+108.0,Charlotte,Not Attentive
+108.0,Amelia,Attentive
+108.0,Elena,Not Attentive
+108.0,Chloe,Not Attentive
+108.0,John,Not Attentive
+108.0,Olivia,Not Attentive
+108.0,John,Not Attentive
+108.0,Isabella,Not Attentive
+109.0,Ms_Grace,Attentive
+109.0,Lucas,Attentive
+109.0,Elena,Attentive
+109.0,William,Not Attentive
+109.0,Isabella,Attentive
+109.0,Lucas,Confused
+109.0,Charlotte,Confused
+109.0,Olivia,Confused
+109.0,Amelia,Attentive
+109.0,Evelyn,Not Attentive
+109.0,Olivia,Not Attentive
+109.0,Chloe,Not Attentive
+109.0,Evelyn,Attentive
+109.0,Chloe,Attentive
+109.0,Ms_Grace,Not Attentive
+110.0,Sam,Not Attentive
+110.0,Ms_Grace,Not Attentive
+110.0,Lucas,Attentive
+110.0,Isabella,Attentive
+110.0,Elena,Attentive
+110.0,William,Attentive
+110.0,Charlotte,Attentive
+110.0,Lucas,Not Attentive
+110.0,John,Not Attentive
+110.0,Amelia,Attentive
+110.0,Olivia,Attentive
+110.0,John,Confused
+110.0,Chloe,Attentive
+110.0,Evelyn,Attentive
+110.0,John,Not Attentive
+111.0,Sam,Not Attentive
+111.0,Lucas,Not Attentive
+111.0,Isabella,Not Attentive
+111.0,Elena,Not Attentive
+111.0,Ms_Grace,Not Attentive
+111.0,Amelia,Attentive
+111.0,Lucas,Not Attentive
+111.0,William,Attentive
+111.0,Amelia,Attentive
+111.0,Olivia,Attentive
+111.0,Evelyn,Not Attentive
+111.0,John,Not Attentive
+111.0,Isabella,Not Attentive
+111.0,Evelyn,Confused
+111.0,John,Confused
+112.0,Lucas,Attentive
+112.0,Sam,Attentive
+112.0,Isabella,Attentive
+112.0,Elena,Attentive
+112.0,William,Attentive
+112.0,Ms_Grace,Attentive
+112.0,Charlotte,Attentive
+112.0,Olivia,Confused
+112.0,Amelia,Attentive
+112.0,Lucas,Not Attentive
+112.0,John,Attentive
+112.0,Isabella,Attentive
+112.0,Evelyn,Not Attentive
+112.0,John,Not Attentive
+113.0,Lucas,Attentive
+113.0,Sam,Attentive
+113.0,Isabella,Not Attentive
+113.0,Lucas,Not Attentive
+113.0,Elena,Not Attentive
+113.0,William,Not Attentive
+113.0,Charlotte,Attentive
+113.0,Ms_Grace,Not Attentive
+113.0,Olivia,Attentive
+113.0,Amelia,Attentive
+113.0,Chloe,Attentive
+113.0,John,Not Attentive
+113.0,John,Not Attentive
+114.0,Sam,Not Attentive
+114.0,Ms_Grace,Not Attentive
+114.0,Isabella,Not Attentive
+114.0,Lucas,Attentive
+114.0,Charlotte,Attentive
+114.0,Elena,Attentive
+114.0,William,Not Attentive
+114.0,Olivia,Confused
+114.0,Chloe,Confused
+114.0,Amelia,Attentive
+114.0,Lucas,Not Attentive
+114.0,John,Not Attentive
+114.0,John,Not Attentive
+115.0,Sam,Not Attentive
+115.0,Lucas,Attentive
+115.0,Elena,Confused
+115.0,Isabella,Not Attentive
+115.0,Ms_Grace,Attentive
+115.0,Charlotte,Attentive
+115.0,William,Not Attentive
+115.0,Olivia,Attentive
+115.0,Lucas,Not Attentive
+115.0,John,Not Attentive
+115.0,Amelia,Attentive
+115.0,Chloe,Attentive
+115.0,John,Attentive
+115.0,Chloe,Attentive
+115.0,John,Attentive
+116.0,Sam,Not Attentive
+116.0,Lucas,Attentive
+116.0,Isabella,Attentive
+116.0,Lucas,Attentive
+116.0,William,Not Attentive
+116.0,Elena,Not Attentive
+116.0,Amelia,Attentive
+116.0,Olivia,Confused
+116.0,Ms_Grace,Not Attentive
+116.0,John,Not Attentive
+116.0,Lucas,Not Attentive
+116.0,Chloe,Not Attentive
+116.0,John,Attentive
+116.0,unknown,Attentive
+116.0,Evelyn,Not Attentive
+116.0,Chloe,Not Attentive
+116.0,John,Not Attentive
+117.0,Sam,Attentive
+117.0,Lucas,Confused
+117.0,Isabella,Attentive
+117.0,Charlotte,Confused
+117.0,Ms_Grace,Not Attentive
+117.0,William,Not Attentive
+117.0,Elena,Not Attentive
+117.0,Lucas,Not Attentive
+117.0,Olivia,Confused
+117.0,Chloe,Confused
+117.0,John,Not Attentive
+117.0,Amelia,Attentive
+117.0,unknown,Attentive
+117.0,John,Attentive
+117.0,John,Not Attentive
+118.0,Lucas,Confused
+118.0,Sam,Attentive
+118.0,Ms_Grace,Not Attentive
+118.0,Charlotte,Attentive
+118.0,Isabella,Attentive
+118.0,Elena,Attentive
+118.0,William,Not Attentive
+118.0,Lucas,Not Attentive
+118.0,Olivia,Confused
+118.0,Chloe,Confused
+118.0,Evelyn,Attentive
+118.0,unknown,Not Attentive
+118.0,Amelia,Attentive
+118.0,John,Attentive
+119.0,Ms_Grace,Attentive
+119.0,Sam,Not Attentive
+119.0,Charlotte,Attentive
+119.0,Lucas,Confused
+119.0,Evelyn,Not Attentive
+119.0,Elena,Attentive
+119.0,Evelyn,Attentive
+119.0,William,Attentive
+119.0,Lucas,Not Attentive
+119.0,Olivia,Confused
+119.0,Chloe,Confused
+119.0,unknown,Confused
+119.0,John,Confused
+120.0,Isabella,Not Attentive
+120.0,Lucas,Confused
+120.0,Sam,Not Attentive
+120.0,Charlotte,Attentive
+120.0,Elena,Attentive
+120.0,Lucas,Not Attentive
+120.0,Ms_Grace,Attentive
+120.0,unknown,Confused
+120.0,unknown,Confused
+120.0,William,Attentive
+120.0,Amelia,Attentive
+120.0,Evelyn,Attentive
+120.0,Olivia,Confused
+120.0,Lucas,Confused
+120.0,John,Confused
+121.0,Sam,Attentive
+121.0,Olivia,Attentive
+121.0,Lucas,Attentive
+121.0,Elena,Attentive
+121.0,Evelyn,Attentive
+121.0,Charlotte,Attentive
+121.0,Lucas,Not Attentive
+121.0,Amelia,Attentive
+121.0,Olivia,Confused
+121.0,Evelyn,Confused
+121.0,John,Not Attentive
+121.0,Ms_Grace,Attentive
+121.0,John,Attentive
+121.0,unknown,Attentive
+121.0,John,Confused
+122.0,Isabella,Confused
+122.0,Evelyn,Attentive
+122.0,Lucas,Attentive
+122.0,Elena,Confused
+122.0,Charlotte,Attentive
+122.0,Sam,Not Attentive
+122.0,Olivia,Attentive
+122.0,Lucas,Not Attentive
+122.0,John,Not Attentive
+122.0,Evelyn,Not Attentive
+122.0,Olivia,Attentive
+122.0,Elena,Attentive
+122.0,Ms_Grace,Not Attentive
+122.0,Olivia,Not Attentive
+122.0,unknown,Not Attentive
+122.0,William,Attentive
+123.0,Sam,Attentive
+123.0,Isabella,Attentive
+123.0,William,Attentive
+123.0,Lucas,Attentive
+123.0,Elena,Attentive
+123.0,Charlotte,Attentive
+123.0,Chloe,Attentive
+123.0,Evelyn,Attentive
+123.0,Lucas,Not Attentive
+123.0,Olivia,Confused
+123.0,Ms_Grace,Not Attentive
+123.0,John,Not Attentive
+123.0,Evelyn,Attentive
+123.0,Evelyn,Attentive
+124.0,Lucas,Attentive
+124.0,Isabella,Attentive
+124.0,William,Attentive
+124.0,Sam,Attentive
+124.0,Charlotte,Attentive
+124.0,Chloe,Attentive
+124.0,Elena,Attentive
+124.0,Evelyn,Confused
+124.0,Lucas,Not Attentive
+124.0,Ms_Grace,Attentive
+124.0,Evelyn,Attentive
+124.0,Olivia,Confused
+124.0,John,Not Attentive
+124.0,Evelyn,Attentive
+124.0,John,Attentive
+125.0,Amelia,Attentive
+125.0,Sam,Attentive
+125.0,Charlotte,Attentive
+125.0,William,Attentive
+125.0,Lucas,Attentive
+125.0,Chloe,Attentive
+125.0,Isabella,Attentive
+125.0,Olivia,Attentive
+125.0,Olivia,Attentive
+125.0,John,Attentive
+125.0,Elena,Attentive
+125.0,Olivia,Confused
+125.0,Ms_Grace,Attentive
+125.0,Lucas,Not Attentive
+125.0,Ms_Grace,Attentive
+125.0,John,Attentive
+125.0,John,Attentive
+125.0,Evelyn,Not Attentive
+126.0,Sam,Attentive
+126.0,Ms_Grace,Attentive
+126.0,Isabella,Not Attentive
+126.0,Charlotte,Confused
+126.0,Lucas,Confused
+126.0,William,Confused
+126.0,Amelia,Attentive
+126.0,Chloe,Attentive
+126.0,Elena,Attentive
+126.0,Lucas,Not Attentive
+126.0,Olivia,Confused
+126.0,John,Not Attentive
+126.0,unknown,Not Attentive
+126.0,William,Not Attentive
+126.0,John,Attentive
+127.0,Sam,Attentive
+127.0,Isabella,Attentive
+127.0,Lucas,Attentive
+127.0,Amelia,Not Attentive
+127.0,William,Not Attentive
+127.0,Elena,Attentive
+127.0,Amelia,Attentive
+127.0,Olivia,Attentive
+127.0,Ms_Grace,Attentive
+127.0,John,Attentive
+127.0,unknown,Attentive
+127.0,Lucas,Not Attentive
+127.0,Chloe,Not Attentive
+127.0,John,Not Attentive
+127.0,Evelyn,Not Attentive
+128.0,Olivia,Attentive
+128.0,Isabella,Attentive
+128.0,Lucas,Attentive
+128.0,Olivia,Not Attentive
+128.0,Elena,Attentive
+128.0,William,Not Attentive
+128.0,Amelia,Attentive
+128.0,Chloe,Attentive
+128.0,unknown,Attentive
+128.0,Olivia,Attentive
+128.0,John,Attentive
+128.0,Lucas,Not Attentive
+128.0,Evelyn,Not Attentive
+128.0,John,Attentive
+129.0,Olivia,Attentive
+129.0,Lucas,Attentive
+129.0,Isabella,Attentive
+129.0,Amelia,Attentive
+129.0,Olivia,Attentive
+129.0,Olivia,Confused
+129.0,William,Not Attentive
+129.0,Elena,Not Attentive
+129.0,Evelyn,Not Attentive
+129.0,John,Attentive
+129.0,Olivia,Confused
+129.0,Evelyn,Not Attentive
+129.0,Lucas,Not Attentive
+129.0,John,Attentive
+130.0,Olivia,Attentive
+130.0,Isabella,Attentive
+130.0,Lucas,Attentive
+130.0,William,Not Attentive
+130.0,Charlotte,Not Attentive
+130.0,Elena,Confused
+130.0,Evelyn,Confused
+130.0,Evelyn,Not Attentive
+130.0,Olivia,Not Attentive
+130.0,Amelia,Attentive
+130.0,John,Attentive
+130.0,Chloe,Attentive
+130.0,John,Attentive
+130.0,Lucas,Not Attentive
+131.0,Sam,Attentive
+131.0,Isabella,Attentive
+131.0,Charlotte,Attentive
+131.0,Lucas,Attentive
+131.0,Evelyn,Confused
+131.0,Elena,Attentive
+131.0,Olivia,Confused
+131.0,Amelia,Attentive
+131.0,John,Attentive
+131.0,William,Not Attentive
+131.0,Lucas,Not Attentive
+131.0,Evelyn,Not Attentive
+131.0,Amelia,Confused
+131.0,Olivia,Confused
+131.0,Olivia,Attentive
+131.0,John,Not Attentive
+132.0,Isabella,Attentive
+132.0,Sam,Attentive
+132.0,William,Not Attentive
+132.0,Charlotte,Attentive
+132.0,Elena,Attentive
+132.0,unknown,Attentive
+132.0,Olivia,Confused
+132.0,Lucas,Attentive
+132.0,Jack,Attentive
+132.0,Chloe,Attentive
+132.0,John,Attentive
+132.0,Lucas,Not Attentive
+132.0,Ms_Grace,Not Attentive
+132.0,Amelia,Attentive
+133.0,Sam,Attentive
+133.0,Lucas,Attentive
+133.0,Elena,Attentive
+133.0,William,Not Attentive
+133.0,Charlotte,Attentive
+133.0,Isabella,Attentive
+133.0,Evelyn,Not Attentive
+133.0,Olivia,Not Attentive
+133.0,unknown,Not Attentive
+133.0,Lucas,Not Attentive
+133.0,Jack,Attentive
+133.0,Ms_Grace,Not Attentive
+133.0,John,Attentive
+133.0,Elena,Not Attentive
+133.0,Evelyn,Confused
+134.0,Sam,Confused
+134.0,Isabella,Confused
+134.0,Elena,Confused
+134.0,Olivia,Attentive
+134.0,William,Not Attentive
+134.0,Charlotte,Attentive
+134.0,Lucas,Attentive
+134.0,Jack,Attentive
+134.0,unknown,Attentive
+134.0,Ms_Grace,Not Attentive
+134.0,Evelyn,Not Attentive
+134.0,Olivia,Confused
+134.0,John,Confused
+134.0,Lucas,Not Attentive
+134.0,Evelyn,Not Attentive
+134.0,Evelyn,Not Attentive
+135.0,Sam,Attentive
+135.0,Elena,Attentive
+135.0,Isabella,Attentive
+135.0,William,Not Attentive
+135.0,Olivia,Attentive
+135.0,Charlotte,Attentive
+135.0,Lucas,Attentive
+135.0,Chloe,Attentive
+135.0,Amelia,Attentive
+135.0,Ms_Grace,Not Attentive
+135.0,Lucas,Not Attentive
+135.0,unknown,Not Attentive
+135.0,unknown,Not Attentive
+135.0,John,Attentive
+135.0,Jack,Attentive
+135.0,Chloe,Attentive
+135.0,Evelyn,Not Attentive
+135.0,John,Not Attentive
+136.0,Sam,Attentive
+136.0,Isabella,Attentive
+136.0,William,Not Attentive
+136.0,Elena,Not Attentive
+136.0,Elena,Attentive
+136.0,Charlotte,Attentive
+136.0,Lucas,Attentive
+136.0,Chloe,Attentive
+136.0,Olivia,Confused
+136.0,Lucas,Not Attentive
+136.0,Ms_Grace,Not Attentive
+136.0,John,Not Attentive
+136.0,Amelia,Attentive
+136.0,unknown,Attentive
+136.0,unknown,Attentive
+136.0,Chloe,Attentive
+136.0,John,Attentive
+136.0,Evelyn,Attentive
+137.0,Sam,Attentive
+137.0,Charlotte,Attentive
+137.0,Olivia,Attentive
+137.0,Lucas,Attentive
+137.0,Elena,Attentive
+137.0,William,Attentive
+137.0,Lucas,Not Attentive
+137.0,Isabella,Not Attentive
+137.0,Amelia,Attentive
+137.0,Chloe,Not Attentive
+137.0,unknown,Not Attentive
+137.0,unknown,Not Attentive
+137.0,Evelyn,Not Attentive
+137.0,John,Not Attentive
+137.0,Ms_Grace,Not Attentive
+138.0,Sam,Attentive
+138.0,Charlotte,Attentive
+138.0,Isabella,Attentive
+138.0,Elena,Attentive
+138.0,Lucas,Attentive
+138.0,unknown,Attentive
+138.0,unknown,Attentive
+138.0,William,Not Attentive
+138.0,Lucas,Not Attentive
+138.0,John,Not Attentive
+138.0,Evelyn,Not Attentive
+138.0,Olivia,Not Attentive
+138.0,Amelia,Attentive
+138.0,Chloe,Not Attentive
+138.0,Evelyn,Attentive
+139.0,Sam,Attentive
+139.0,Elena,Attentive
+139.0,Charlotte,Attentive
+139.0,Isabella,Attentive
+139.0,Lucas,Attentive
+139.0,John,Not Attentive
+139.0,Olivia,Not Attentive
+139.0,William,Not Attentive
+139.0,Evelyn,Not Attentive
+139.0,Lucas,Not Attentive
+139.0,unknown,Not Attentive
+139.0,unknown,Not Attentive
+139.0,Evelyn,Not Attentive
+139.0,Amelia,Attentive
+140.0,Sam,Attentive
+140.0,Charlotte,Attentive
+140.0,Elena,Attentive
+140.0,Isabella,Attentive
+140.0,William,Not Attentive
+140.0,Olivia,Not Attentive
+140.0,Lucas,Confused
+140.0,Lucas,Not Attentive
+140.0,John,Not Attentive
+140.0,Evelyn,Not Attentive
+140.0,Evelyn,Confused
+140.0,unknown,Confused
+140.0,unknown,Confused
+140.0,Ms_Grace,Not Attentive
+140.0,Chloe,Not Attentive
+140.0,John,Attentive
+141.0,Isabella,Attentive
+141.0,Sam,Attentive
+141.0,Charlotte,Attentive
+141.0,Elena,Attentive
+141.0,Olivia,Not Attentive
+141.0,Lucas,Confused
+141.0,William,Not Attentive
+141.0,unknown,Not Attentive
+141.0,unknown,Not Attentive
+141.0,John,Not Attentive
+141.0,Lucas,Not Attentive
+141.0,Evelyn,Not Attentive
+141.0,Amelia,Attentive
+141.0,John,Attentive
+141.0,Evelyn,Attentive
+141.0,Evelyn,Attentive
+142.0,Sam,Attentive
+142.0,Elena,Attentive
+142.0,Isabella,Attentive
+142.0,Charlotte,Attentive
+142.0,Lucas,Attentive
+142.0,Lucas,Confused
+142.0,John,Confused
+142.0,Olivia,Not Attentive
+142.0,William,Attentive
+142.0,Amelia,Attentive
+142.0,unknown,Attentive
+142.0,unknown,Attentive
+142.0,unknown,Attentive
+142.0,Chloe,Not Attentive
+142.0,Jack,Attentive
+142.0,Evelyn,Not Attentive
+143.0,Sam,Attentive
+143.0,Charlotte,Attentive
+143.0,Elena,Attentive
+143.0,Lucas,Attentive
+143.0,Lucas,Not Attentive
+143.0,Amelia,Attentive
+143.0,Isabella,Attentive
+143.0,William,Not Attentive
+143.0,John,Not Attentive
+143.0,Evelyn,Not Attentive
+143.0,Olivia,Attentive
+143.0,unknown,Attentive
+143.0,unknown,Attentive
+143.0,Chloe,Attentive
+144.0,Sam,Attentive
+144.0,Isabella,Not Attentive
+144.0,Lucas,Not Attentive
+144.0,Elena,Attentive
+144.0,Charlotte,Attentive
+144.0,Evelyn,Confused
+144.0,William,Not Attentive
+144.0,John,Not Attentive
+144.0,Lucas,Confused
+144.0,Olivia,Attentive
+144.0,Amelia,Attentive
+144.0,Chloe,Not Attentive
+144.0,Evelyn,Not Attentive
+144.0,John,Attentive
+144.0,Evelyn,Attentive
+144.0,Olivia,Not Attentive
+145.0,Sam,Not Attentive
+145.0,Lucas,Attentive
+145.0,Elena,Attentive
+145.0,Evelyn,Attentive
+145.0,William,Attentive
+145.0,Charlotte,Attentive
+145.0,Evelyn,Confused
+145.0,Lucas,Not Attentive
+145.0,John,Not Attentive
+145.0,Amelia,Attentive
+145.0,Olivia,Attentive
+145.0,Evelyn,Attentive
+145.0,Evelyn,Attentive
+146.0,Sam,Attentive
+146.0,Lucas,Attentive
+146.0,Isabella,Attentive
+146.0,Elena,Attentive
+146.0,Charlotte,Attentive
+146.0,William,Attentive
+146.0,Lucas,Not Attentive
+146.0,Amelia,Not Attentive
+146.0,John,Not Attentive
+146.0,Chloe,Not Attentive
+146.0,Olivia,Not Attentive
+146.0,Olivia,Attentive
+146.0,Lucas,Confused
+146.0,Evelyn,Not Attentive
+146.0,John,Attentive
+146.0,Evelyn,Not Attentive
+146.0,Olivia,Not Attentive
+147.0,Isabella,Not Attentive
+147.0,Sam,Not Attentive
+147.0,Elena,Not Attentive
+147.0,William,Attentive
+147.0,Lucas,Attentive
+147.0,Charlotte,Not Attentive
+147.0,Amelia,Not Attentive
+147.0,Olivia,Not Attentive
+147.0,John,Not Attentive
+147.0,Lucas,Not Attentive
+147.0,Chloe,Not Attentive
+147.0,Lucas,Not Attentive
+147.0,Evelyn,Attentive
+147.0,John,Attentive
+147.0,William,Not Attentive
+148.0,Olivia,Attentive
+148.0,Elena,Confused
+148.0,Lucas,Confused
+148.0,Isabella,Confused
+148.0,Charlotte,Attentive
+148.0,William,Attentive
+148.0,Olivia,Attentive
+148.0,John,Attentive
+148.0,Chloe,Attentive
+148.0,Chloe,Attentive
+148.0,Amelia,Not Attentive
+148.0,Amelia,Attentive
+148.0,Lucas,Not Attentive
+148.0,Evelyn,Attentive
+148.0,John,Attentive
+148.0,unknown,Confused
+148.0,William,Not Attentive
+149.0,Olivia,Attentive
+149.0,Elena,Attentive
+149.0,Lucas,Attentive
+149.0,Charlotte,Attentive
+149.0,William,Attentive
+149.0,John,Attentive
+149.0,Amelia,Attentive
+149.0,Isabella,Attentive
+149.0,Lucas,Not Attentive
+149.0,Olivia,Not Attentive
+149.0,Olivia,Not Attentive
+149.0,Evelyn,Not Attentive
+149.0,Jack,Attentive
+150.0,Sam,Attentive
+150.0,Elena,Attentive
+150.0,Olivia,Attentive
+150.0,Isabella,Attentive
+150.0,Elena,Attentive
+150.0,Lucas,Attentive
+150.0,William,Not Attentive
+150.0,John,Not Attentive
+150.0,Amelia,Attentive
+150.0,Olivia,Not Attentive
+150.0,Lucas,Not Attentive
+150.0,Amelia,Not Attentive
+150.0,Olivia,Not Attentive
+151.0,Elena,Not Attentive
+151.0,Sam,Not Attentive
+151.0,Isabella,Attentive
+151.0,Olivia,Attentive
+151.0,Olivia,Attentive
+151.0,Lucas,Confused
+151.0,William,Not Attentive
+151.0,John,Not Attentive
+151.0,Olivia,Not Attentive
+151.0,Amelia,Not Attentive
+151.0,Lucas,Not Attentive
+151.0,Olivia,Not Attentive
+151.0,Isabella,Not Attentive
+151.0,Evelyn,Attentive
+151.0,Amelia,Attentive
+151.0,Jack,Attentive
+152.0,Sam,Attentive
+152.0,Elena,Attentive
+152.0,William,Not Attentive
+152.0,Isabella,Not Attentive
+152.0,Olivia,Not Attentive
+152.0,Olivia,Not Attentive
+152.0,John,Not Attentive
+152.0,Lucas,Attentive
+152.0,Chloe,Attentive
+152.0,William,Not Attentive
+152.0,Amelia,Attentive
+152.0,Chloe,Not Attentive
+152.0,Olivia,Not Attentive
+152.0,Jack,Not Attentive
+152.0,Evelyn,Attentive
+153.0,Olivia,Attentive
+153.0,Elena,Attentive
+153.0,William,Not Attentive
+153.0,Isabella,Not Attentive
+153.0,Amelia,Not Attentive
+153.0,John,Not Attentive
+153.0,Olivia,Not Attentive
+153.0,Lucas,Not Attentive
+153.0,William,Not Attentive
+153.0,Amelia,Not Attentive
+153.0,Evelyn,Not Attentive
+153.0,Evelyn,Not Attentive
+153.0,Evelyn,Attentive
+153.0,Evelyn,Not Attentive
+153.0,Olivia,Not Attentive
+153.0,Jack,Not Attentive
+154.0,Olivia,Not Attentive
+154.0,Olivia,Attentive
+154.0,Elena,Attentive
+154.0,Isabella,Attentive
+154.0,Charlotte,Attentive
+154.0,William,Not Attentive
+154.0,John,Not Attentive
+154.0,Olivia,Not Attentive
+154.0,Lucas,Attentive
+154.0,unknown,Attentive
+154.0,Amelia,Attentive
+154.0,John,Attentive
+154.0,Evelyn,Attentive
+155.0,Olivia,Attentive
+155.0,Elena,Attentive
+155.0,Isabella,Attentive
+155.0,Olivia,Attentive
+155.0,unknown,Attentive
+155.0,William,Not Attentive
+155.0,Charlotte,Confused
+155.0,Lucas,Attentive
+155.0,John,Attentive
+155.0,Amelia,Not Attentive
+155.0,Isabella,Not Attentive
+155.0,Jack,Attentive
+156.0,Olivia,Attentive
+156.0,William,Not Attentive
+156.0,Isabella,Attentive
+156.0,Elena,Attentive
+156.0,Charlotte,Not Attentive
+156.0,John,Not Attentive
+156.0,Evelyn,Not Attentive
+156.0,Lucas,Attentive
+156.0,unknown,Attentive
+156.0,unknown,Confused
+156.0,Chloe,Not Attentive
+156.0,Olivia,Confused
+156.0,Amelia,Attentive
+156.0,Jack,Attentive
+156.0,Evelyn,Not Attentive
+157.0,Olivia,Attentive
+157.0,unknown,Attentive
+157.0,Isabella,Attentive
+157.0,William,Not Attentive
+157.0,Elena,Attentive
+157.0,Charlotte,Attentive
+157.0,Lucas,Attentive
+157.0,John,Attentive
+157.0,Olivia,Attentive
+157.0,Chloe,Not Attentive
+157.0,Amelia,Attentive
+157.0,Jack,Attentive
+157.0,Evelyn,Attentive
+158.0,Sam,Attentive
+158.0,Isabella,Attentive
+158.0,William,Not Attentive
+158.0,Evelyn,Not Attentive
+158.0,Elena,Attentive
+158.0,Olivia,Confused
+158.0,Charlotte,Attentive
+158.0,Lucas,Attentive
+158.0,John,Not Attentive
+158.0,Jack,Attentive
+158.0,Amelia,Attentive
+158.0,Evelyn,Not Attentive
+158.0,Olivia,Attentive
+158.0,Evelyn,Attentive
+159.0,Sam,Attentive
+159.0,Elena,Attentive
+159.0,William,Not Attentive
+159.0,Isabella,Attentive
+159.0,Charlotte,Attentive
+159.0,Olivia,Attentive
+159.0,Lucas,Attentive
+159.0,Chloe,Attentive
+159.0,John,Not Attentive
+159.0,Ms_Grace,Not Attentive
+159.0,Jack,Confused
+159.0,Amelia,Attentive
+159.0,Evelyn,Not Attentive
+159.0,Ms_Grace,Not Attentive
+159.0,Evelyn,Attentive
+160.0,Sam,Attentive
+160.0,Olivia,Attentive
+160.0,Olivia,Attentive
+160.0,William,Not Attentive
+160.0,unknown,Not Attentive
+160.0,unknown,Not Attentive
+160.0,Elena,Attentive
+160.0,Lucas,Attentive
+160.0,Charlotte,Attentive
+160.0,John,Not Attentive
+160.0,Isabella,Attentive
+160.0,Olivia,Not Attentive
+160.0,Ms_Grace,Not Attentive
+160.0,Evelyn,Not Attentive
+160.0,Evelyn,Not Attentive
+160.0,Ms_Grace,Not Attentive
+160.0,Evelyn,Attentive
+160.0,Jack,Attentive
+160.0,Amelia,Attentive
+161.0,Isabella,Attentive
+161.0,Sam,Attentive
+161.0,William,Not Attentive
+161.0,Elena,Not Attentive
+161.0,Elena,Attentive
+161.0,Olivia,Attentive
+161.0,Charlotte,Attentive
+161.0,Lucas,Attentive
+161.0,unknown,Attentive
+161.0,unknown,Attentive
+161.0,Chloe,Confused
+161.0,John,Not Attentive
+161.0,Evelyn,Not Attentive
+161.0,Olivia,Not Attentive
+161.0,Evelyn,Attentive
+161.0,Jack,Attentive
+161.0,Amelia,Attentive
+161.0,John,Not Attentive
+162.0,Sam,Attentive
+162.0,William,Not Attentive
+162.0,unknown,Not Attentive
+162.0,unknown,Not Attentive
+162.0,Olivia,Confused
+162.0,Elena,Confused
+162.0,Elena,Attentive
+162.0,Charlotte,Attentive
+162.0,Lucas,Attentive
+162.0,Chloe,Confused
+162.0,John,Not Attentive
+162.0,Olivia,Not Attentive
+162.0,Olivia,Not Attentive
+162.0,Jack,Attentive
+162.0,Amelia,Attentive
+162.0,Evelyn,Attentive
+162.0,John,Not Attentive
+163.0,Sam,Attentive
+163.0,unknown,Attentive
+163.0,unknown,Attentive
+163.0,William,Not Attentive
+163.0,Elena,Attentive
+163.0,Charlotte,Attentive
+163.0,Lucas,Attentive
+163.0,Chloe,Attentive
+163.0,Olivia,Attentive
+163.0,John,Not Attentive
+163.0,Evelyn,Not Attentive
+163.0,Evelyn,Attentive
+163.0,Ms_Grace,Attentive
+163.0,John,Not Attentive
+163.0,Jack,Attentive
+163.0,John,Not Attentive
+164.0,Sam,Attentive
+164.0,William,Not Attentive
+164.0,Lucas,Not Attentive
+164.0,Elena,Not Attentive
+164.0,Charlotte,Attentive
+164.0,Evelyn,Attentive
+164.0,Lucas,Not Attentive
+164.0,Chloe,Not Attentive
+164.0,Evelyn,Not Attentive
+164.0,John,Not Attentive
+164.0,Olivia,Confused
+164.0,Evelyn,Not Attentive
+164.0,Amelia,Attentive
+164.0,Evelyn,Attentive
+164.0,Olivia,Not Attentive
+165.0,Sam,Attentive
+165.0,William,Not Attentive
+165.0,Elena,Attentive
+165.0,Olivia,Confused
+165.0,Ms_Grace,Attentive
+165.0,Charlotte,Attentive
+165.0,Lucas,Attentive
+165.0,Jack,Not Attentive
+165.0,John,Not Attentive
+165.0,Chloe,Not Attentive
+165.0,Evelyn,Not Attentive
+165.0,Isabella,Not Attentive
+165.0,Lucas,Not Attentive
+165.0,Amelia,Attentive
+165.0,Evelyn,Attentive
+165.0,Lucas,Attentive
+165.0,Olivia,Not Attentive
+166.0,Olivia,Confused
+166.0,Sam,Attentive
+166.0,Elena,Attentive
+166.0,Lucas,Attentive
+166.0,Charlotte,Attentive
+166.0,Evelyn,Not Attentive
+166.0,Amelia,Attentive
+166.0,John,Not Attentive
+166.0,Lucas,Not Attentive
+166.0,Evelyn,Attentive
+166.0,Evelyn,Not Attentive
+166.0,William,Not Attentive
+166.0,John,Attentive
+166.0,Ms_Grace,Not Attentive
+166.0,Olivia,Not Attentive
+166.0,Amelia,Not Attentive
+167.0,Isabella,Attentive
+167.0,Sam,Attentive
+167.0,Lucas,Attentive
+167.0,Elena,Attentive
+167.0,William,Not Attentive
+167.0,Charlotte,Attentive
+167.0,Amelia,Attentive
+167.0,Lucas,Not Attentive
+167.0,Evelyn,Not Attentive
+167.0,John,Not Attentive
+167.0,Chloe,Not Attentive
+167.0,Olivia,Not Attentive
+167.0,John,Attentive
+168.0,Isabella,Attentive
+168.0,Sam,Attentive
+168.0,Elena,Attentive
+168.0,William,Attentive
+168.0,Charlotte,Attentive
+168.0,Olivia,Attentive
+168.0,Lucas,Attentive
+168.0,Amelia,Attentive
+168.0,Chloe,Attentive
+168.0,Lucas,Not Attentive
+168.0,John,Not Attentive
+168.0,Evelyn,Not Attentive
+168.0,Jack,Attentive
+168.0,Lucas,Not Attentive
+169.0,Sam,Attentive
+169.0,Elena,Attentive
+169.0,Isabella,Attentive
+169.0,Charlotte,Attentive
+169.0,William,Attentive
+169.0,Lucas,Not Attentive
+169.0,Lucas,Not Attentive
+169.0,John,Not Attentive
+169.0,Amelia,Attentive
+169.0,Chloe,Not Attentive
+169.0,Ms_Grace,Not Attentive
+169.0,Olivia,Not Attentive
+169.0,Evelyn,Not Attentive
+169.0,John,Not Attentive
+169.0,Jack,Attentive
+169.0,Lucas,Not Attentive
+170.0,Sam,Attentive
+170.0,Isabella,Attentive
+170.0,Elena,Attentive
+170.0,Charlotte,Attentive
+170.0,Lucas,Attentive
+170.0,William,Attentive
+170.0,Lucas,Not Attentive
+170.0,Olivia,Not Attentive
+170.0,John,Not Attentive
+170.0,Amelia,Attentive
+170.0,Chloe,Not Attentive
+170.0,Ms_Grace,Not Attentive
+170.0,Jack,Not Attentive
+170.0,John,Not Attentive
+171.0,Olivia,Not Attentive
+171.0,Elena,Attentive
+171.0,Charlotte,Attentive
+171.0,William,Attentive
+171.0,Olivia,Not Attentive
+171.0,Lucas,Attentive
+171.0,Isabella,Attentive
+171.0,John,Attentive
+171.0,Chloe,Attentive
+171.0,Lucas,Confused
+171.0,Amelia,Attentive
+171.0,Ms_Grace,Not Attentive
+171.0,John,Not Attentive
+171.0,Jack,Attentive
+172.0,Elena,Not Attentive
+172.0,Sam,Not Attentive
+172.0,Charlotte,Attentive
+172.0,William,Attentive
+172.0,Isabella,Attentive
+172.0,Olivia,Attentive
+172.0,Lucas,Confused
+172.0,Amelia,Attentive
+172.0,John,Attentive
+172.0,Chloe,Attentive
+172.0,Lucas,Attentive
+172.0,Evelyn,Not Attentive
+172.0,Ms_Grace,Not Attentive
+172.0,Evelyn,Not Attentive
+172.0,John,Attentive
+173.0,Elena,Attentive
+173.0,Charlotte,Attentive
+173.0,William,Attentive
+173.0,Sam,Attentive
+173.0,John,Not Attentive
+173.0,Isabella,Not Attentive
+173.0,Evelyn,Attentive
+173.0,Lucas,Not Attentive
+173.0,Olivia,Not Attentive
+173.0,Chloe,Not Attentive
+173.0,Lucas,Not Attentive
+173.0,Chloe,Not Attentive
+173.0,Lucas,Not Attentive
+173.0,Jack,Attentive
+174.0,Sam,Attentive
+174.0,William,Attentive
+174.0,Elena,Attentive
+174.0,Charlotte,Attentive
+174.0,John,Not Attentive
+174.0,Isabella,Not Attentive
+174.0,Evelyn,Attentive
+174.0,Olivia,Not Attentive
+174.0,Lucas,Confused
+174.0,Lucas,Attentive
+174.0,Chloe,Attentive
+174.0,Lucas,Not Attentive
+175.0,William,Attentive
+175.0,Isabella,Attentive
+175.0,Elena,Attentive
+175.0,Charlotte,Attentive
+175.0,Amelia,Attentive
+175.0,Sam,Attentive
+175.0,Lucas,Attentive
+175.0,Lucas,Not Attentive
+175.0,Chloe,Not Attentive
+175.0,unknown,Not Attentive
+175.0,Olivia,Attentive
+175.0,John,Attentive
+175.0,Jack,Attentive
+175.0,unknown,Not Attentive
+175.0,Ms_Grace,Not Attentive
+175.0,Sam,Not Attentive
+175.0,Evelyn,Not Attentive
+176.0,unknown,Not Attentive
+176.0,Sam,Attentive
+176.0,Isabella,Attentive
+176.0,Elena,Attentive
+176.0,Lucas,Attentive
+176.0,Charlotte,Attentive
+176.0,William,Attentive
+176.0,Olivia,Attentive
+176.0,Evelyn,Attentive
+176.0,Isabella,Not Attentive
+176.0,John,Not Attentive
+176.0,John,Not Attentive
+176.0,Lucas,Not Attentive
+176.0,Chloe,Not Attentive
+176.0,Jack,Attentive
+176.0,Evelyn,Attentive
+177.0,Sam,Attentive
+177.0,Elena,Attentive
+177.0,unknown,Not Attentive
+177.0,Isabella,Not Attentive
+177.0,Lucas,Attentive
+177.0,Charlotte,Attentive
+177.0,William,Not Attentive
+177.0,John,Not Attentive
+177.0,John,Not Attentive
+177.0,Olivia,Confused
+177.0,Isabella,Not Attentive
+177.0,Lucas,Not Attentive
+177.0,Evelyn,Not Attentive
+177.0,John,Not Attentive
+177.0,Evelyn,Attentive
+177.0,Evelyn,Attentive
+178.0,Sam,Attentive
+178.0,Elena,Attentive
+178.0,Lucas,Attentive
+178.0,Isabella,Attentive
+178.0,Chloe,Not Attentive
+178.0,Charlotte,Attentive
+178.0,William,Not Attentive
+178.0,John,Not Attentive
+178.0,John,Attentive
+178.0,Olivia,Attentive
+178.0,Olivia,Attentive
+178.0,Evelyn,Attentive
+178.0,Lucas,Not Attentive
+178.0,Ms_Grace,Not Attentive
+178.0,Chloe,Not Attentive
+178.0,John,Not Attentive
+179.0,Elena,Attentive
+179.0,unknown,Not Attentive
+179.0,Sam,Attentive
+179.0,Lucas,Attentive
+179.0,Isabella,Attentive
+179.0,Amelia,Attentive
+179.0,Ms_Grace,Not Attentive
+179.0,William,Not Attentive
+179.0,John,Attentive
+179.0,Chloe,Attentive
+179.0,Olivia,Confused
+179.0,Lucas,Attentive
+179.0,Elena,Not Attentive
+180.0,unknown,Not Attentive
+180.0,Sam,Attentive
+180.0,Elena,Attentive
+180.0,Lucas,Attentive
+180.0,Charlotte,Attentive
+180.0,Isabella,Attentive
+180.0,William,Not Attentive
+180.0,Olivia,Not Attentive
+180.0,Ms_Grace,Confused
+180.0,John,Confused
+180.0,John,Confused
+180.0,Chloe,Not Attentive
+180.0,Evelyn,Not Attentive
+180.0,Lucas,Confused
+180.0,Jack,Confused
+181.0,unknown,Not Attentive
+181.0,Elena,Attentive
+181.0,Lucas,Attentive
+181.0,Sam,Attentive
+181.0,Ms_Grace,Attentive
+181.0,Charlotte,Attentive
+181.0,William,Not Attentive
+181.0,Isabella,Attentive
+181.0,Olivia,Attentive
+181.0,John,Attentive
+181.0,Amelia,Attentive
+181.0,Lucas,Not Attentive
+181.0,Jack,Not Attentive
+181.0,Evelyn,Not Attentive
+181.0,Evelyn,Attentive
+181.0,Evelyn,Not Attentive
+181.0,Evelyn,Not Attentive
+182.0,unknown,Not Attentive
+182.0,Elena,Attentive
+182.0,Lucas,Attentive
+182.0,Amelia,Confused
+182.0,Sam,Attentive
+182.0,William,Attentive
+182.0,Isabella,Attentive
+182.0,Charlotte,Attentive
+182.0,Olivia,Attentive
+182.0,John,Attentive
+182.0,Evelyn,Attentive
+182.0,Lucas,Not Attentive
+182.0,John,Attentive
+182.0,Isabella,Not Attentive
+182.0,Amelia,Attentive
+182.0,Evelyn,Not Attentive
+183.0,Chloe,Not Attentive
+183.0,Elena,Not Attentive
+183.0,Elena,Attentive
+183.0,Lucas,Attentive
+183.0,Sam,Attentive
+183.0,Ms_Grace,Attentive
+183.0,Olivia,Attentive
+183.0,Charlotte,Attentive
+183.0,William,Attentive
+183.0,Isabella,Not Attentive
+183.0,John,Attentive
+183.0,Olivia,Attentive
+183.0,Evelyn,Attentive
+183.0,Lucas,Not Attentive
+183.0,Elena,Not Attentive
+183.0,Chloe,Not Attentive
+183.0,Amelia,Attentive
+184.0,Chloe,Not Attentive
+184.0,Elena,Not Attentive
+184.0,Sam,Attentive
+184.0,Lucas,Attentive
+184.0,Olivia,Attentive
+184.0,Charlotte,Attentive
+184.0,William,Not Attentive
+184.0,Ms_Grace,Confused
+184.0,Isabella,Confused
+184.0,John,Attentive
+184.0,Evelyn,Attentive
+184.0,Isabella,Not Attentive
+184.0,Lucas,Confused
+184.0,John,Attentive
+184.0,Amelia,Attentive
+184.0,Chloe,Attentive
+185.0,unknown,Not Attentive
+185.0,Sam,Not Attentive
+185.0,Elena,Not Attentive
+185.0,Lucas,Attentive
+185.0,Charlotte,Attentive
+185.0,William,Attentive
+185.0,Olivia,Attentive
+185.0,Isabella,Attentive
+185.0,Ms_Grace,Confused
+185.0,Evelyn,Attentive
+185.0,John,Not Attentive
+185.0,Lucas,Not Attentive
+185.0,Amelia,Not Attentive
+185.0,Chloe,Not Attentive
+185.0,Amelia,Attentive
+186.0,Chloe,Not Attentive
+186.0,Sam,Attentive
+186.0,Elena,Attentive
+186.0,Lucas,Attentive
+186.0,Charlotte,Attentive
+186.0,Isabella,Confused
+186.0,William,Attentive
+186.0,Olivia,Attentive
+186.0,unknown,Attentive
+186.0,John,Not Attentive
+186.0,Chloe,Not Attentive
+186.0,Evelyn,Not Attentive
+186.0,Lucas,Not Attentive
+186.0,Evelyn,Attentive
+186.0,Amelia,Attentive
+187.0,Elena,Attentive
+187.0,unknown,Not Attentive
+187.0,Sam,Attentive
+187.0,Isabella,Confused
+187.0,Charlotte,Attentive
+187.0,Olivia,Confused
+187.0,William,Attentive
+187.0,Lucas,Not Attentive
+187.0,Ms_Grace,Confused
+187.0,Chloe,Confused
+187.0,John,Not Attentive
+187.0,Lucas,Not Attentive
+187.0,John,Not Attentive
+187.0,Evelyn,Attentive
+187.0,Chloe,Attentive
+187.0,Amelia,Attentive
+188.0,Elena,Attentive
+188.0,unknown,Confused
+188.0,Sam,Attentive
+188.0,Lucas,Attentive
+188.0,Charlotte,Attentive
+188.0,Olivia,Attentive
+188.0,William,Attentive
+188.0,Isabella,Not Attentive
+188.0,Ms_Grace,Not Attentive
+188.0,John,Not Attentive
+188.0,Lucas,Not Attentive
+188.0,Elena,Attentive
+188.0,Amelia,Attentive
+188.0,Evelyn,Attentive
+188.0,John,Attentive
+189.0,Elena,Attentive
+189.0,unknown,Not Attentive
+189.0,Isabella,Attentive
+189.0,Elena,Attentive
+189.0,William,Not Attentive
+189.0,Sam,Attentive
+189.0,Amelia,Attentive
+189.0,Olivia,Attentive
+189.0,unknown,Not Attentive
+189.0,Evelyn,Not Attentive
+189.0,John,Not Attentive
+189.0,Evelyn,Not Attentive
+189.0,Lucas,Not Attentive
+190.0,unknown,Not Attentive
+190.0,Isabella,Not Attentive
+190.0,Elena,Attentive
+190.0,Sam,Attentive
+190.0,William,Attentive
+190.0,Elena,Attentive
+190.0,Evelyn,Not Attentive
+190.0,Olivia,Attentive
+190.0,unknown,Not Attentive
+190.0,Amelia,Attentive
+190.0,John,Not Attentive
+190.0,Lucas,Not Attentive
+190.0,Elena,Attentive
+190.0,Isabella,Attentive
+190.0,Chloe,Attentive
+190.0,Evelyn,Attentive
+191.0,unknown,Not Attentive
+191.0,Isabella,Attentive
+191.0,Sam,Attentive
+191.0,Elena,Attentive
+191.0,William,Not Attentive
+191.0,Elena,Not Attentive
+191.0,Lucas,Not Attentive
+191.0,Olivia,Not Attentive
+191.0,Chloe,Not Attentive
+191.0,Amelia,Attentive
+191.0,Lucas,Not Attentive
+191.0,unknown,Not Attentive
+191.0,John,Attentive
+191.0,Evelyn,Attentive
+192.0,unknown,Not Attentive
+192.0,Elena,Attentive
+192.0,Isabella,Confused
+192.0,Lucas,Confused
+192.0,Sam,Attentive
+192.0,William,Attentive
+192.0,Charlotte,Attentive
+192.0,John,Attentive
+192.0,Olivia,Attentive
+192.0,Chloe,Attentive
+192.0,Amelia,Attentive
+192.0,Lucas,Not Attentive
+192.0,Ms_Grace,Not Attentive
+192.0,Amelia,Attentive
+193.0,unknown,Not Attentive
+193.0,Isabella,Not Attentive
+193.0,Lucas,Attentive
+193.0,Sam,Attentive
+193.0,Elena,Attentive
+193.0,William,Attentive
+193.0,Charlotte,Attentive
+193.0,Amelia,Attentive
+193.0,Lucas,Not Attentive
+193.0,John,Attentive
+193.0,Chloe,Attentive
+193.0,Olivia,Attentive
+193.0,Amelia,Attentive
+193.0,Elena,Attentive
+193.0,Evelyn,Attentive
+194.0,unknown,Attentive
+194.0,Isabella,Attentive
+194.0,Elena,Attentive
+194.0,Sam,Attentive
+194.0,Lucas,Attentive
+194.0,William,Attentive
+194.0,Charlotte,Attentive
+194.0,Ms_Grace,Confused
+194.0,John,Confused
+194.0,Lucas,Not Attentive
+194.0,Chloe,Not Attentive
+194.0,Amelia,Attentive
+194.0,Olivia,Attentive
+194.0,Jack,Attentive
+194.0,Evelyn,Not Attentive
+195.0,unknown,Not Attentive
+195.0,Sam,Attentive
+195.0,Isabella,Attentive
+195.0,Lucas,Attentive
+195.0,Elena,Attentive
+195.0,William,Attentive
+195.0,Lucas,Attentive
+195.0,Ms_Grace,Not Attentive
+195.0,Lucas,Not Attentive
+195.0,John,Not Attentive
+195.0,Olivia,Not Attentive
+195.0,Amelia,Attentive
+195.0,Chloe,Attentive
+195.0,Jack,Not Attentive
+195.0,John,Confused
+195.0,Evelyn,Not Attentive
+196.0,unknown,Not Attentive
+196.0,Elena,Attentive
+196.0,Lucas,Attentive
+196.0,Isabella,Attentive
+196.0,Sam,Attentive
+196.0,William,Attentive
+196.0,Amelia,Attentive
+196.0,Lucas,Not Attentive
+196.0,Ms_Grace,Not Attentive
+196.0,John,Not Attentive
+196.0,Olivia,Confused
+196.0,Chloe,Attentive
+196.0,Amelia,Attentive
+196.0,Elena,Not Attentive
+196.0,Evelyn,Not Attentive
+196.0,Evelyn,Attentive
+197.0,unknown,Attentive
+197.0,Elena,Attentive
+197.0,Sam,Attentive
+197.0,Lucas,Attentive
+197.0,Isabella,Attentive
+197.0,William,Attentive
+197.0,Amelia,Attentive
+197.0,Lucas,Not Attentive
+197.0,John,Not Attentive
+197.0,Ms_Grace,Not Attentive
+197.0,Chloe,Not Attentive
+197.0,Olivia,Confused
+197.0,Amelia,Attentive
+197.0,Jack,Attentive
+197.0,Evelyn,Attentive
+198.0,Chloe,Not Attentive
+198.0,Elena,Attentive
+198.0,Isabella,Attentive
+198.0,Sam,Attentive
+198.0,Lucas,Attentive
+198.0,William,Attentive
+198.0,Lucas,Not Attentive
+198.0,Charlotte,Not Attentive
+198.0,Ms_Grace,Not Attentive
+198.0,Chloe,Not Attentive
+198.0,Olivia,Not Attentive
+198.0,John,Not Attentive
+198.0,Evelyn,Attentive
+198.0,Jack,Attentive
+198.0,Amelia,Attentive
+199.0,Chloe,Not Attentive
+199.0,Elena,Attentive
+199.0,William,Attentive
+199.0,Sam,Attentive
+199.0,Lucas,Attentive
+199.0,Lucas,Not Attentive
+199.0,Amelia,Not Attentive
+199.0,Isabella,Attentive
+199.0,John,Not Attentive
+199.0,Chloe,Not Attentive
+199.0,Olivia,Not Attentive
+199.0,Ms_Grace,Not Attentive
+199.0,Evelyn,Attentive
+199.0,Jack,Attentive
+199.0,Amelia,Attentive
+200.0,Lucas,Confused
+200.0,unknown,Confused
+200.0,Elena,Confused
+200.0,Sam,Attentive
+200.0,William,Attentive
+200.0,Isabella,Confused
+200.0,Amelia,Confused
+200.0,John,Not Attentive
+200.0,Lucas,Not Attentive
+200.0,Ms_Grace,Attentive
+200.0,Olivia,Not Attentive
+200.0,Chloe,Attentive
+200.0,Evelyn,Attentive
+200.0,Evelyn,Not Attentive
+200.0,Jack,Attentive
+200.0,Evelyn,Attentive
+201.0,unknown,Not Attentive
+201.0,Sam,Attentive
+201.0,Isabella,Attentive
+201.0,Elena,Attentive
+201.0,William,Attentive
+201.0,Isabella,Attentive
+201.0,Elena,Attentive
+201.0,Lucas,Confused
+201.0,John,Not Attentive
+201.0,Chloe,Attentive
+201.0,Lucas,Confused
+201.0,Jack,Attentive
+201.0,Olivia,Attentive
+201.0,Amelia,Attentive
+201.0,Olivia,Not Attentive
+201.0,Evelyn,Attentive
+202.0,Sam,Attentive
+202.0,Elena,Attentive
+202.0,William,Attentive
+202.0,Elena,Attentive
+202.0,Isabella,Attentive
+202.0,Lucas,Not Attentive
+202.0,John,Not Attentive
+202.0,Olivia,Not Attentive
+202.0,Chloe,Not Attentive
+202.0,Lucas,Not Attentive
+202.0,Evelyn,Attentive
+202.0,Olivia,Not Attentive
+202.0,unknown,Not Attentive
+202.0,Evelyn,Not Attentive
+202.0,Jack,Attentive
+202.0,Evelyn,Attentive
+203.0,Sam,Attentive
+203.0,Lucas,Attentive
+203.0,Charlotte,Attentive
+203.0,William,Attentive
+203.0,Elena,Attentive
+203.0,Olivia,Attentive
+203.0,John,Not Attentive
+203.0,Lucas,Not Attentive
+203.0,Amelia,Attentive
+203.0,Chloe,Attentive
+203.0,Isabella,Attentive
+204.0,Olivia,Attentive
+204.0,Lucas,Attentive
+204.0,Elena,Attentive
+204.0,Elena,Attentive
+204.0,William,Attentive
+204.0,Evelyn,Attentive
+204.0,Olivia,Attentive
+204.0,Lucas,Not Attentive
+204.0,John,Not Attentive
+204.0,Amelia,Attentive
+204.0,Olivia,Attentive
+204.0,Evelyn,Not Attentive
+204.0,Chloe,Not Attentive
+204.0,Olivia,Not Attentive
+205.0,Sam,Attentive
+205.0,Charlotte,Attentive
+205.0,Isabella,Attentive
+205.0,Lucas,Confused
+205.0,William,Not Attentive
+205.0,Elena,Attentive
+205.0,John,Not Attentive
+205.0,Amelia,Attentive
+205.0,Olivia,Confused
+205.0,Lucas,Not Attentive
+205.0,Ms_Grace,Not Attentive
+205.0,Evelyn,Not Attentive
+205.0,Chloe,Attentive
+205.0,Chloe,Attentive
+206.0,Lucas,Attentive
+206.0,Sam,Attentive
+206.0,Isabella,Attentive
+206.0,Charlotte,Attentive
+206.0,William,Attentive
+206.0,Elena,Attentive
+206.0,Ms_Grace,Not Attentive
+206.0,John,Not Attentive
+206.0,Lucas,Not Attentive
+206.0,Olivia,Attentive
+206.0,Amelia,Attentive
+206.0,Evelyn,Attentive
+206.0,Chloe,Attentive
+207.0,Sam,Attentive
+207.0,Elena,Attentive
+207.0,Charlotte,Confused
+207.0,Lucas,Confused
+207.0,Isabella,Confused
+207.0,William,Not Attentive
+207.0,Olivia,Attentive
+207.0,John,Not Attentive
+207.0,Olivia,Attentive
+207.0,Ms_Grace,Not Attentive
+207.0,Lucas,Not Attentive
+208.0,Sam,Not Attentive
+208.0,Isabella,Attentive
+208.0,Charlotte,Attentive
+208.0,William,Not Attentive
+208.0,Elena,Not Attentive
+208.0,John,Not Attentive
+208.0,Olivia,Attentive
+208.0,Evelyn,Attentive
+208.0,Ms_Grace,Attentive
+208.0,Lucas,Confused
+208.0,Evelyn,Attentive
+208.0,Chloe,Attentive
+209.0,Sam,Attentive
+209.0,Elena,Attentive
+209.0,Isabella,Attentive
+209.0,Charlotte,Attentive
+209.0,William,Not Attentive
+209.0,Olivia,Attentive
+209.0,John,Not Attentive
+209.0,Olivia,Attentive
+209.0,Ms_Grace,Not Attentive
+209.0,Evelyn,Not Attentive
+209.0,Lucas,Confused
+210.0,Sam,Attentive
+210.0,Elena,Attentive
+210.0,Charlotte,Attentive
+210.0,Lucas,Attentive
+210.0,William,Not Attentive
+210.0,Isabella,Not Attentive
+210.0,Olivia,Attentive
+210.0,Olivia,Attentive
+210.0,John,Not Attentive
+210.0,Lucas,Not Attentive
+210.0,Olivia,Not Attentive
+210.0,Evelyn,Not Attentive
+210.0,Chloe,Attentive
+211.0,Sam,Attentive
+211.0,Elena,Attentive
+211.0,Evelyn,Confused
+211.0,Olivia,Attentive
+211.0,Charlotte,Attentive
+211.0,William,Not Attentive
+211.0,John,Not Attentive
+211.0,Isabella,Not Attentive
+211.0,Olivia,Not Attentive
+211.0,Lucas,Not Attentive
+211.0,Olivia,Not Attentive
+212.0,Lucas,Not Attentive
+212.0,Sam,Attentive
+212.0,Elena,Attentive
+212.0,William,Attentive
+212.0,Lucas,Not Attentive
+212.0,Evelyn,Attentive
+212.0,Charlotte,Attentive
+212.0,John,Not Attentive
+212.0,Isabella,Attentive
+212.0,Olivia,Attentive
+212.0,unknown,Not Attentive
+212.0,Olivia,Not Attentive
+213.0,Sam,Attentive
+213.0,Lucas,Attentive
+213.0,William,Attentive
+213.0,Isabella,Attentive
+213.0,Elena,Attentive
+213.0,Charlotte,Attentive
+213.0,John,Attentive
+213.0,Lucas,Not Attentive
+213.0,unknown,Not Attentive
+213.0,Chloe,Not Attentive
+213.0,Olivia,Not Attentive
+213.0,Olivia,Attentive
+213.0,Amelia,Attentive
+214.0,Lucas,Attentive
+214.0,Sam,Attentive
+214.0,William,Attentive
+214.0,Isabella,Attentive
+214.0,Elena,Attentive
+214.0,Amelia,Attentive
+214.0,Amelia,Attentive
+214.0,John,Attentive
+214.0,Chloe,Attentive
+214.0,Lucas,Not Attentive
+214.0,Amelia,Not Attentive
+214.0,Olivia,Not Attentive
+214.0,Jack,Attentive
+214.0,Olivia,Not Attentive
+215.0,Sam,Attentive
+215.0,Lucas,Attentive
+215.0,William,Attentive
+215.0,Charlotte,Attentive
+215.0,Elena,Attentive
+215.0,Chloe,Attentive
+215.0,Isabella,Not Attentive
+215.0,John,Not Attentive
+215.0,Olivia,Attentive
+215.0,Lucas,Not Attentive
+215.0,Evelyn,Not Attentive
+215.0,Jack,Attentive
+216.0,Lucas,Attentive
+216.0,Sam,Attentive
+216.0,Elena,Attentive
+216.0,William,Confused
+216.0,Amelia,Attentive
+216.0,John,Attentive
+216.0,Jack,Not Attentive
+216.0,Chloe,Not Attentive
+216.0,Evelyn,Not Attentive
+216.0,Olivia,Attentive
+216.0,Lucas,Not Attentive
+216.0,John,Attentive
+216.0,Ms_Grace,Not Attentive
+217.0,Lucas,Attentive
+217.0,Sam,Attentive
+217.0,William,Attentive
+217.0,Amelia,Attentive
+217.0,Elena,Attentive
+217.0,Lucas,Not Attentive
+217.0,Amelia,Attentive
+217.0,John,Not Attentive
+217.0,Chloe,Not Attentive
+217.0,Isabella,Not Attentive
+217.0,Olivia,Attentive
+217.0,Lucas,Not Attentive
+217.0,Ms_Grace,Not Attentive
+217.0,Jack,Attentive
+218.0,Amelia,Not Attentive
+218.0,Lucas,Attentive
+218.0,Sam,Attentive
+218.0,William,Attentive
+218.0,Amelia,Attentive
+218.0,Lucas,Attentive
+218.0,Elena,Attentive
+218.0,Olivia,Attentive
+218.0,Isabella,Attentive
+218.0,Chloe,Attentive
+218.0,Jack,Attentive
+218.0,Lucas,Not Attentive
+218.0,John,Not Attentive
+219.0,Lucas,Attentive
+219.0,Sam,Attentive
+219.0,Amelia,Not Attentive
+219.0,William,Attentive
+219.0,Charlotte,Attentive
+219.0,Elena,Attentive
+219.0,Amelia,Attentive
+219.0,Isabella,Attentive
+219.0,Olivia,Attentive
+219.0,Chloe,Attentive
+219.0,Jack,Attentive
+219.0,Lucas,Not Attentive
+219.0,John,Not Attentive
+219.0,John,Not Attentive
+220.0,Amelia,Not Attentive
+220.0,Sam,Attentive
+220.0,Lucas,Attentive
+220.0,William,Attentive
+220.0,Elena,Attentive
+220.0,Charlotte,Attentive
+220.0,Isabella,Attentive
+220.0,Chloe,Attentive
+220.0,Olivia,Attentive
+220.0,Lucas,Not Attentive
+220.0,Jack,Attentive
+220.0,Evelyn,Attentive
+220.0,John,Not Attentive
+221.0,Amelia,Not Attentive
+221.0,Sam,Attentive
+221.0,Lucas,Attentive
+221.0,William,Confused
+221.0,Charlotte,Attentive
+221.0,Elena,Attentive
+221.0,Isabella,Attentive
+221.0,Olivia,Attentive
+221.0,Amelia,Attentive
+221.0,Chloe,Attentive
+221.0,Lucas,Not Attentive
+221.0,Jack,Attentive
+221.0,John,Not Attentive
+221.0,John,Not Attentive
+222.0,Sam,Attentive
+222.0,Evelyn,Not Attentive
+222.0,Lucas,Attentive
+222.0,William,Attentive
+222.0,Elena,Attentive
+222.0,Charlotte,Attentive
+222.0,Evelyn,Attentive
+222.0,Olivia,Attentive
+222.0,Jack,Attentive
+222.0,Chloe,Attentive
+222.0,Isabella,Not Attentive
+222.0,Lucas,Not Attentive
+222.0,John,Not Attentive
+222.0,Evelyn,Not Attentive
+222.0,John,Not Attentive
+223.0,Sam,Not Attentive
+223.0,Lucas,Attentive
+223.0,Lucas,Not Attentive
+223.0,William,Not Attentive
+223.0,Elena,Confused
+223.0,Charlotte,Attentive
+223.0,Amelia,Attentive
+223.0,Olivia,Not Attentive
+223.0,Chloe,Not Attentive
+223.0,Isabella,Not Attentive
+223.0,Ms_Grace,Not Attentive
+223.0,John,Not Attentive
+223.0,Lucas,Not Attentive
+223.0,Jack,Attentive
+223.0,Jack,Attentive
+224.0,Lucas,Attentive
+224.0,John,Not Attentive
+224.0,Sam,Attentive
+224.0,William,Attentive
+224.0,Charlotte,Attentive
+224.0,Elena,Attentive
+224.0,Isabella,Attentive
+224.0,Amelia,Attentive
+224.0,Chloe,Attentive
+224.0,Olivia,Confused
+224.0,Ms_Grace,Not Attentive
+224.0,Jack,Not Attentive
+224.0,Lucas,Not Attentive
+224.0,John,Not Attentive
+224.0,John,Not Attentive
+225.0,Evelyn,Not Attentive
+225.0,Lucas,Attentive
+225.0,Sam,Attentive
+225.0,Charlotte,Confused
+225.0,Elena,Attentive
+225.0,Olivia,Confused
+225.0,William,Attentive
+225.0,Lucas,Not Attentive
+225.0,Evelyn,Attentive
+225.0,John,Attentive
+225.0,Chloe,Attentive
+225.0,Isabella,Attentive
+225.0,Isabella,Attentive
+225.0,Evelyn,Not Attentive
+225.0,John,Not Attentive
+225.0,Jack,Not Attentive
+226.0,Lucas,Attentive
+226.0,Sam,Attentive
+226.0,William,Not Attentive
+226.0,Lucas,Not Attentive
+226.0,Charlotte,Attentive
+226.0,Elena,Attentive
+226.0,Isabella,Not Attentive
+226.0,Olivia,Confused
+226.0,John,Confused
+226.0,Lucas,Confused
+226.0,Chloe,Attentive
+226.0,Amelia,Attentive
+226.0,Ms_Grace,Confused
+226.0,Jack,Attentive
+227.0,Sam,Attentive
+227.0,unknown,Not Attentive
+227.0,Lucas,Attentive
+227.0,Amelia,Attentive
+227.0,Elena,Attentive
+227.0,William,Not Attentive
+227.0,Olivia,Not Attentive
+227.0,Isabella,Not Attentive
+227.0,John,Not Attentive
+227.0,Lucas,Not Attentive
+227.0,Chloe,Attentive
+227.0,Jack,Attentive
+227.0,Amelia,Attentive
+227.0,Ms_Grace,Not Attentive
+228.0,Sam,Attentive
+228.0,Charlotte,Attentive
+228.0,unknown,Not Attentive
+228.0,William,Not Attentive
+228.0,Elena,Attentive
+228.0,Isabella,Attentive
+228.0,Lucas,Attentive
+228.0,John,Attentive
+228.0,Olivia,Attentive
+228.0,Chloe,Attentive
+228.0,Jack,Attentive
+228.0,Ms_Grace,Not Attentive
+228.0,Lucas,Not Attentive
+228.0,Evelyn,Attentive
+229.0,Sam,Attentive
+229.0,William,Attentive
+229.0,unknown,Not Attentive
+229.0,Charlotte,Attentive
+229.0,Lucas,Attentive
+229.0,Elena,Attentive
+229.0,John,Not Attentive
+229.0,Olivia,Confused
+229.0,Jack,Attentive
+229.0,Isabella,Not Attentive
+229.0,Chloe,Attentive
+229.0,Lucas,Not Attentive
+229.0,Evelyn,Attentive
+229.0,Ms_Grace,Not Attentive
+230.0,William,Not Attentive
+230.0,Sam,Attentive
+230.0,Elena,Attentive
+230.0,Evelyn,Not Attentive
+230.0,Charlotte,Attentive
+230.0,John,Not Attentive
+230.0,Lucas,Attentive
+230.0,Chloe,Attentive
+230.0,Olivia,Attentive
+230.0,John,Attentive
+230.0,Lucas,Not Attentive
+230.0,Isabella,Not Attentive
+230.0,Amelia,Attentive
+231.0,William,Not Attentive
+231.0,Sam,Attentive
+231.0,Elena,Attentive
+231.0,Charlotte,Attentive
+231.0,unknown,Not Attentive
+231.0,John,Not Attentive
+231.0,Lucas,Attentive
+231.0,Olivia,Confused
+231.0,Evelyn,Attentive
+231.0,Chloe,Attentive
+231.0,Lucas,Confused
+232.0,William,Attentive
+232.0,Sam,Attentive
+232.0,Charlotte,Attentive
+232.0,unknown,Not Attentive
+232.0,Elena,Attentive
+232.0,Olivia,Attentive
+232.0,John,Not Attentive
+232.0,Lucas,Attentive
+232.0,Chloe,Not Attentive
+232.0,Olivia,Attentive
+232.0,Lucas,Confused
+232.0,Jack,Attentive
+232.0,Ms_Grace,Not Attentive
+233.0,Sam,Attentive
+233.0,unknown,Not Attentive
+233.0,Elena,Attentive
+233.0,William,Not Attentive
+233.0,Charlotte,Attentive
+233.0,Olivia,Attentive
+233.0,Lucas,Attentive
+233.0,Chloe,Attentive
+233.0,Lucas,Not Attentive
+233.0,John,Not Attentive
+233.0,Lucas,Attentive
+233.0,John,Attentive
+234.0,Sam,Attentive
+234.0,William,Not Attentive
+234.0,Charlotte,Attentive
+234.0,Elena,Attentive
+234.0,Olivia,Attentive
+234.0,Lucas,Attentive
+234.0,Chloe,Attentive
+234.0,John,Not Attentive
+234.0,Jack,Not Attentive
+234.0,John,Not Attentive
+234.0,Lucas,Not Attentive
+234.0,Amelia,Attentive
+235.0,Sam,Attentive
+235.0,Amelia,Attentive
+235.0,William,Not Attentive
+235.0,Elena,Attentive
+235.0,Charlotte,Attentive
+235.0,Lucas,Attentive
+235.0,John,Attentive
+235.0,Chloe,Attentive
+235.0,Olivia,Attentive
+235.0,Ms_Grace,Not Attentive
+235.0,Jack,Attentive
+235.0,Lucas,Not Attentive
+235.0,John,Not Attentive
+235.0,unknown,Attentive
+236.0,Olivia,Attentive
+236.0,Sam,Attentive
+236.0,William,Not Attentive
+236.0,Isabella,Attentive
+236.0,Ms_Grace,Not Attentive
+236.0,Elena,Attentive
+236.0,Charlotte,Attentive
+236.0,Chloe,Attentive
+236.0,Lucas,Not Attentive
+236.0,Olivia,Confused
+236.0,Jack,Attentive
+236.0,Lucas,Not Attentive
+237.0,Amelia,Attentive
+237.0,Sam,Attentive
+237.0,Charlotte,Attentive
+237.0,Elena,Attentive
+237.0,William,Not Attentive
+237.0,Lucas,Attentive
+237.0,Chloe,Attentive
+237.0,Ms_Grace,Attentive
+237.0,Olivia,Attentive
+237.0,Isabella,Attentive
+237.0,Lucas,Not Attentive
+238.0,Sam,Not Attentive
+238.0,Olivia,Attentive
+238.0,Charlotte,Attentive
+238.0,William,Not Attentive
+238.0,Elena,Attentive
+238.0,Lucas,Attentive
+238.0,Chloe,Attentive
+238.0,Isabella,Attentive
+238.0,Ms_Grace,Not Attentive
+238.0,Olivia,Not Attentive
+238.0,Jack,Not Attentive
+238.0,Lucas,Not Attentive
+239.0,Sam,Attentive
+239.0,Amelia,Attentive
+239.0,Charlotte,Attentive
+239.0,William,Not Attentive
+239.0,Elena,Not Attentive
+239.0,Lucas,Attentive
+239.0,Chloe,Attentive
+239.0,Ms_Grace,Not Attentive
+239.0,Isabella,Not Attentive
+239.0,Olivia,Not Attentive
+239.0,Amelia,Attentive
+239.0,Lucas,Not Attentive
+240.0,Sam,Attentive
+240.0,Amelia,Attentive
+240.0,Charlotte,Attentive
+240.0,Lucas,Attentive
+240.0,Evelyn,Not Attentive
+240.0,Elena,Attentive
+240.0,William,Not Attentive
+240.0,Ms_Grace,Not Attentive
+240.0,Chloe,Attentive
+240.0,Olivia,Attentive
+240.0,Lucas,Not Attentive
+240.0,Jack,Attentive
+240.0,John,Not Attentive
+241.0,Sam,Attentive
+241.0,Amelia,Attentive
+241.0,William,Not Attentive
+241.0,Charlotte,Attentive
+241.0,Lucas,Attentive
+241.0,Elena,Attentive
+241.0,Isabella,Attentive
+241.0,Ms_Grace,Not Attentive
+241.0,Chloe,Not Attentive
+241.0,Olivia,Not Attentive
+241.0,Lucas,Not Attentive
+241.0,John,Not Attentive
+241.0,Evelyn,Attentive
+241.0,Jack,Attentive
+242.0,Olivia,Attentive
+242.0,Sam,Attentive
+242.0,Charlotte,Attentive
+242.0,Isabella,Attentive
+242.0,William,Not Attentive
+242.0,Elena,Attentive
+242.0,Ms_Grace,Not Attentive
+242.0,Chloe,Not Attentive
+242.0,Olivia,Attentive
+242.0,Lucas,Attentive
+242.0,Jack,Attentive
+242.0,Lucas,Not Attentive
+243.0,Evelyn,Attentive
+243.0,Sam,Attentive
+243.0,Isabella,Attentive
+243.0,Lucas,Attentive
+243.0,Charlotte,Attentive
+243.0,Elena,Attentive
+243.0,Chloe,Attentive
+243.0,Ms_Grace,Attentive
+243.0,William,Attentive
+243.0,Olivia,Attentive
+243.0,Jack,Attentive
+243.0,Lucas,Not Attentive
+243.0,John,Not Attentive
+243.0,Evelyn,Attentive
+244.0,Olivia,Attentive
+244.0,Sam,Attentive
+244.0,Isabella,Attentive
+244.0,Chloe,Attentive
+244.0,Ms_Grace,Not Attentive
+244.0,Lucas,Not Attentive
+244.0,Charlotte,Attentive
+244.0,Elena,Attentive
+244.0,Ms_Grace,Not Attentive
+244.0,Olivia,Attentive
+244.0,John,Not Attentive
+244.0,Lucas,Not Attentive
+244.0,Evelyn,Attentive
+245.0,Olivia,Attentive
+245.0,Sam,Attentive
+245.0,Isabella,Attentive
+245.0,Elena,Attentive
+245.0,Charlotte,Attentive
+245.0,Olivia,Attentive
+245.0,Chloe,Attentive
+245.0,William,Attentive
+245.0,Lucas,Not Attentive
+245.0,Evelyn,Not Attentive
+245.0,Lucas,Confused
+245.0,John,Confused
+246.0,Sam,Attentive
+246.0,Olivia,Attentive
+246.0,William,Attentive
+246.0,Charlotte,Attentive
+246.0,Isabella,Attentive
+246.0,Lucas,Attentive
+246.0,Elena,Attentive
+246.0,Chloe,Attentive
+246.0,Olivia,Attentive
+246.0,Evelyn,Not Attentive
+246.0,Isabella,Not Attentive
+246.0,Lucas,Not Attentive
+246.0,Jack,Not Attentive
+246.0,John,Attentive
+247.0,Sam,Attentive
+247.0,Amelia,Attentive
+247.0,Isabella,Attentive
+247.0,Lucas,Attentive
+247.0,Charlotte,Attentive
+247.0,Elena,Attentive
+247.0,Chloe,Attentive
+247.0,William,Attentive
+247.0,Olivia,Attentive
+247.0,Evelyn,Not Attentive
+247.0,Lucas,Not Attentive
+247.0,unknown,Not Attentive
+247.0,Jack,Confused
+247.0,John,Confused
+248.0,Sam,Attentive
+248.0,Lucas,Attentive
+248.0,Olivia,Attentive
+248.0,Elena,Attentive
+248.0,Charlotte,Not Attentive
+248.0,William,Attentive
+248.0,Isabella,Attentive
+248.0,Olivia,Confused
+248.0,Chloe,Confused
+248.0,Lucas,Not Attentive
+248.0,Evelyn,Attentive
+248.0,John,Attentive
+248.0,John,Attentive
+248.0,Isabella,Not Attentive
+249.0,Sam,Attentive
+249.0,Lucas,Attentive
+249.0,Olivia,Attentive
+249.0,Isabella,Attentive
+249.0,William,Attentive
+249.0,Elena,Attentive
+249.0,Chloe,Attentive
+249.0,Charlotte,Attentive
+249.0,Olivia,Attentive
+249.0,Lucas,Not Attentive
+249.0,Evelyn,Not Attentive
+249.0,Jack,Not Attentive
+249.0,John,Attentive
+249.0,John,Attentive
+250.0,Sam,Attentive
+250.0,Lucas,Attentive
+250.0,Amelia,Attentive
+250.0,Olivia,Confused
+250.0,Charlotte,Attentive
+250.0,Isabella,Confused
+250.0,Elena,Confused
+250.0,William,Attentive
+250.0,Chloe,Attentive
+250.0,Lucas,Not Attentive
+250.0,Lucas,Not Attentive
+250.0,John,Not Attentive
+250.0,Jack,Not Attentive
+250.0,Isabella,Not Attentive
+251.0,Lucas,Not Attentive
+251.0,Amelia,Attentive
+251.0,William,Attentive
+251.0,Isabella,Confused
+251.0,Elena,Attentive
+251.0,Chloe,Attentive
+251.0,Charlotte,Attentive
+251.0,Olivia,Not Attentive
+251.0,Lucas,Not Attentive
+251.0,Evelyn,Not Attentive
+251.0,John,Attentive
+251.0,John,Attentive
+252.0,Amelia,Attentive
+252.0,William,Attentive
+252.0,Isabella,Confused
+252.0,Elena,Attentive
+252.0,Lucas,Attentive
+252.0,Charlotte,Attentive
+252.0,Olivia,Attentive
+252.0,Chloe,Attentive
+252.0,Evelyn,Not Attentive
+252.0,Lucas,Not Attentive
+252.0,unknown,Not Attentive
+252.0,John,Not Attentive
+253.0,Amelia,Attentive
+253.0,William,Attentive
+253.0,Isabella,Attentive
+253.0,Elena,Attentive
+253.0,Lucas,Confused
+253.0,Charlotte,Attentive
+253.0,Chloe,Attentive
+253.0,Olivia,Attentive
+253.0,Lucas,Not Attentive
+253.0,Evelyn,Not Attentive
+253.0,Isabella,Not Attentive
+253.0,Jack,Attentive
+254.0,William,Not Attentive
+254.0,Isabella,Confused
+254.0,Amelia,Attentive
+254.0,Elena,Attentive
+254.0,Charlotte,Attentive
+254.0,Olivia,Not Attentive
+254.0,Evelyn,Not Attentive
+254.0,Lucas,Not Attentive
+254.0,Chloe,Not Attentive
+254.0,Lucas,Confused
+254.0,William,Confused
+254.0,Ms_Grace,Not Attentive
+255.0,Olivia,Attentive
+255.0,William,Not Attentive
+255.0,Elena,Attentive
+255.0,Isabella,Attentive
+255.0,Charlotte,Attentive
+255.0,Olivia,Attentive
+255.0,Lucas,Not Attentive
+255.0,Jack,Attentive
+255.0,Evelyn,Not Attentive
+255.0,Lucas,Attentive
+256.0,Sam,Confused
+256.0,Olivia,Attentive
+256.0,Lucas,Confused
+256.0,Elena,Attentive
+256.0,Isabella,Confused
+256.0,Charlotte,Attentive
+256.0,William,Not Attentive
+256.0,Olivia,Not Attentive
+256.0,Sam,Not Attentive
+256.0,William,Not Attentive
+256.0,Evelyn,Not Attentive
+257.0,Sam,Not Attentive
+257.0,Amelia,Attentive
+257.0,Elena,Attentive
+257.0,Isabella,Attentive
+257.0,Charlotte,Attentive
+257.0,Lucas,Attentive
+257.0,William,Not Attentive
+257.0,Evelyn,Not Attentive
+257.0,Olivia,Not Attentive
+257.0,Evelyn,Confused
+257.0,Jack,Confused
+257.0,Evelyn,Attentive
+257.0,unknown,Not Attentive
+258.0,Sam,Attentive
+258.0,Elena,Attentive
+258.0,Olivia,Attentive
+258.0,Isabella,Confused
+258.0,Charlotte,Attentive
+258.0,William,Not Attentive
+258.0,Lucas,Attentive
+258.0,Olivia,Not Attentive
+258.0,Lucas,Confused
+258.0,Evelyn,Not Attentive
+258.0,Jack,Confused
+258.0,Isabella,Not Attentive
+258.0,John,Attentive
+259.0,Sam,Attentive
+259.0,Elena,Attentive
+259.0,Lucas,Attentive
+259.0,Isabella,Confused
+259.0,Olivia,Attentive
+259.0,Charlotte,Attentive
+259.0,Lucas,Confused
+259.0,Olivia,Confused
+259.0,William,Attentive
+259.0,Jack,Attentive
+259.0,Lucas,Not Attentive
+259.0,Isabella,Not Attentive
+259.0,Olivia,Attentive
+260.0,Sam,Attentive
+260.0,Olivia,Attentive
+260.0,William,Attentive
+260.0,Elena,Attentive
+260.0,Isabella,Attentive
+260.0,Charlotte,Attentive
+260.0,Olivia,Attentive
+260.0,Lucas,Attentive
+260.0,unknown,Not Attentive
+260.0,Lucas,Not Attentive
+260.0,Lucas,Not Attentive
+260.0,Chloe,Not Attentive
+260.0,Jack,Not Attentive
+261.0,Sam,Attentive
+261.0,Olivia,Attentive
+261.0,Elena,Attentive
+261.0,Charlotte,Attentive
+261.0,William,Attentive
+261.0,Isabella,Attentive
+261.0,Olivia,Attentive
+261.0,Lucas,Attentive
+261.0,Jack,Attentive
+261.0,Lucas,Confused
+261.0,Chloe,Attentive
+261.0,Evelyn,Attentive
+262.0,Sam,Attentive
+262.0,Olivia,Attentive
+262.0,Isabella,Attentive
+262.0,Elena,Attentive
+262.0,Elena,Attentive
+262.0,William,Not Attentive
+262.0,Chloe,Not Attentive
+262.0,Olivia,Not Attentive
+262.0,Ms_Grace,Not Attentive
+262.0,Lucas,Not Attentive
+262.0,Lucas,Not Attentive
+262.0,Jack,Attentive
+263.0,Sam,Attentive
+263.0,Olivia,Attentive
+263.0,Elena,Attentive
+263.0,William,Not Attentive
+263.0,Isabella,Confused
+263.0,Amelia,Not Attentive
+263.0,Evelyn,Not Attentive
+263.0,Olivia,Not Attentive
+263.0,Evelyn,Not Attentive
+263.0,Lucas,Not Attentive
+263.0,Lucas,Not Attentive
+264.0,Sam,Not Attentive
+264.0,Olivia,Attentive
+264.0,Elena,Attentive
+264.0,Isabella,Attentive
+264.0,William,Not Attentive
+264.0,Elena,Not Attentive
+264.0,Olivia,Confused
+264.0,Evelyn,Confused
+264.0,Jack,Attentive
+264.0,Lucas,Confused
+264.0,Lucas,Not Attentive
+264.0,Olivia,Not Attentive
+265.0,Olivia,Attentive
+265.0,William,Attentive
+265.0,Sam,Not Attentive
+265.0,Elena,Attentive
+265.0,Lucas,Attentive
+265.0,Evelyn,Attentive
+265.0,Elena,Attentive
+265.0,Olivia,Attentive
+265.0,Chloe,Attentive
+265.0,Lucas,Confused
+265.0,Jack,Attentive
+265.0,Olivia,Not Attentive
+266.0,Sam,Not Attentive
+266.0,Olivia,Attentive
+266.0,William,Attentive
+266.0,Elena,Not Attentive
+266.0,Elena,Attentive
+266.0,Lucas,Attentive
+266.0,Olivia,Attentive
+266.0,Chloe,Attentive
+266.0,Isabella,Attentive
+266.0,Lucas,Not Attentive
+266.0,Jack,Attentive
+266.0,Olivia,Not Attentive
+267.0,Sam,Attentive
+267.0,Amelia,Attentive
+267.0,William,Attentive
+267.0,Elena,Attentive
+267.0,Lucas,Not Attentive
+267.0,Lucas,Attentive
+267.0,Olivia,Attentive
+267.0,Lucas,Confused
+267.0,Chloe,Confused
+267.0,Jack,Attentive
+267.0,Isabella,Confused
+267.0,Evelyn,Confused
+267.0,Olivia,Not Attentive
+268.0,Sam,Attentive
+268.0,Olivia,Attentive
+268.0,William,Attentive
+268.0,Elena,Attentive
+268.0,Elena,Not Attentive
+268.0,Lucas,Attentive
+268.0,Isabella,Confused
+268.0,Olivia,Not Attentive
+268.0,Lucas,Confused
+268.0,Chloe,Confused
+268.0,Jack,Attentive
+268.0,Ms_Grace,Not Attentive
+269.0,Sam,Not Attentive
+269.0,Olivia,Attentive
+269.0,Olivia,Not Attentive
+269.0,Elena,Not Attentive
+269.0,Charlotte,Attentive
+269.0,William,Attentive
+269.0,unknown,Not Attentive
+269.0,Lucas,Attentive
+269.0,Olivia,Confused
+269.0,Isabella,Not Attentive
+269.0,Lucas,Not Attentive
+269.0,Evelyn,Not Attentive
+269.0,Jack,Attentive
+269.0,Chloe,Not Attentive
+269.0,Evelyn,Confused
+270.0,Sam,Attentive
+270.0,Olivia,Attentive
+270.0,Isabella,Attentive
+270.0,Lucas,Not Attentive
+270.0,unknown,Not Attentive
+270.0,Charlotte,Attentive
+270.0,Elena,Attentive
+270.0,Lucas,Attentive
+270.0,Olivia,Attentive
+270.0,William,Not Attentive
+270.0,Evelyn,Not Attentive
+270.0,Olivia,Not Attentive
+270.0,Jack,Attentive
+270.0,Evelyn,Attentive
+270.0,Lucas,Not Attentive
+271.0,Sam,Not Attentive
+271.0,Olivia,Attentive
+271.0,Evelyn,Attentive
+271.0,William,Not Attentive
+271.0,Isabella,Not Attentive
+271.0,John,Attentive
+271.0,Elena,Attentive
+271.0,Lucas,Attentive
+271.0,Olivia,Not Attentive
+271.0,Evelyn,Not Attentive
+271.0,Olivia,Not Attentive
+271.0,Olivia,Confused
+271.0,Jack,Attentive
+271.0,Lucas,Not Attentive
+271.0,Lucas,Not Attentive
+272.0,Evelyn,Not Attentive
+272.0,Olivia,Attentive
+272.0,Olivia,Attentive
+272.0,Isabella,Attentive
+272.0,Elena,Attentive
+272.0,unknown,Not Attentive
+272.0,Elena,Attentive
+272.0,Lucas,Attentive
+272.0,Evelyn,Not Attentive
+272.0,William,Attentive
+272.0,Olivia,Attentive
+272.0,Lucas,Not Attentive
+272.0,Jack,Not Attentive
+272.0,Ms_Grace,Not Attentive
+272.0,Evelyn,Not Attentive
+273.0,Evelyn,Not Attentive
+273.0,Isabella,Attentive
+273.0,Olivia,Attentive
+273.0,Olivia,Not Attentive
+273.0,Olivia,Attentive
+273.0,Elena,Attentive
+273.0,Charlotte,Attentive
+273.0,William,Attentive
+273.0,Lucas,Attentive
+273.0,John,Not Attentive
+273.0,Olivia,Not Attentive
+273.0,Olivia,Not Attentive
+273.0,Lucas,Not Attentive
+273.0,Jack,Attentive
+273.0,unknown,Not Attentive
+273.0,Chloe,Not Attentive
+274.0,Evelyn,Not Attentive
+274.0,Olivia,Not Attentive
+274.0,Evelyn,Not Attentive
+274.0,Elena,Attentive
+274.0,William,Attentive
+274.0,Isabella,Attentive
+274.0,Olivia,Attentive
+274.0,Lucas,Attentive
+274.0,Elena,Attentive
+274.0,Olivia,Not Attentive
+274.0,Olivia,Confused
+274.0,Lucas,Not Attentive
+274.0,Ms_Grace,Not Attentive
+274.0,Jack,Attentive
+274.0,John,Attentive
+274.0,Evelyn,Attentive
+275.0,Evelyn,Attentive
+275.0,Sam,Confused
+275.0,Isabella,Confused
+275.0,Elena,Attentive
+275.0,Elena,Not Attentive
+275.0,Olivia,Attentive
+275.0,Lucas,Attentive
+275.0,Elena,Attentive
+275.0,William,Attentive
+275.0,Olivia,Confused
+275.0,Olivia,Not Attentive
+275.0,Lucas,Not Attentive
+275.0,John,Not Attentive
+275.0,Jack,Attentive
+275.0,Isabella,Not Attentive
+275.0,Chloe,Not Attentive
+275.0,unknown,Not Attentive
+276.0,Sam,Attentive
+276.0,Evelyn,Attentive
+276.0,Isabella,Attentive
+276.0,Olivia,Not Attentive
+276.0,Olivia,Attentive
+276.0,Elena,Attentive
+276.0,Charlotte,Attentive
+276.0,Lucas,Attentive
+276.0,William,Attentive
+276.0,Olivia,Attentive
+276.0,John,Attentive
+276.0,Evelyn,Not Attentive
+276.0,Lucas,Not Attentive
+276.0,Jack,Attentive
+276.0,Isabella,Not Attentive
+276.0,Evelyn,Not Attentive
+277.0,Sam,Not Attentive
+277.0,Evelyn,Not Attentive
+277.0,Olivia,Not Attentive
+277.0,Olivia,Attentive
+277.0,Isabella,Attentive
+277.0,Elena,Attentive
+277.0,Lucas,Attentive
+277.0,Charlotte,Attentive
+277.0,William,Attentive
+277.0,Lucas,Not Attentive
+277.0,Olivia,Not Attentive
+277.0,Olivia,Not Attentive
+277.0,Jack,Attentive
+277.0,unknown,Not Attentive
+277.0,Chloe,Not Attentive
+277.0,John,Not Attentive
+278.0,Evelyn,Not Attentive
+278.0,Olivia,Attentive
+278.0,Isabella,Attentive
+278.0,Sam,Attentive
+278.0,Elena,Attentive
+278.0,William,Attentive
+278.0,Charlotte,Attentive
+278.0,Olivia,Not Attentive
+278.0,Lucas,Attentive
+278.0,Olivia,Confused
+278.0,Lucas,Not Attentive
+278.0,Evelyn,Not Attentive
+278.0,Jack,Attentive
+278.0,Ms_Grace,Not Attentive
+279.0,Sam,Attentive
+279.0,Elena,Attentive
+279.0,Isabella,Attentive
+279.0,Olivia,Attentive
+279.0,William,Not Attentive
+279.0,Charlotte,Attentive
+279.0,Ms_Grace,Attentive
+279.0,Olivia,Attentive
+279.0,Sam,Not Attentive
+279.0,Lucas,Not Attentive
+279.0,Olivia,Not Attentive
+279.0,Lucas,Attentive
+279.0,Lucas,Not Attentive
+279.0,Jack,Attentive
+279.0,Isabella,Not Attentive
+279.0,Chloe,Not Attentive
+280.0,Isabella,Attentive
+280.0,Elena,Attentive
+280.0,Amelia,Attentive
+280.0,Charlotte,Attentive
+280.0,Olivia,Attentive
+280.0,Ms_Grace,Attentive
+280.0,Ms_Grace,Not Attentive
+280.0,Olivia,Confused
+280.0,Lucas,Confused
+280.0,Sam,Not Attentive
+280.0,Evelyn,Not Attentive
+280.0,Olivia,Not Attentive
+280.0,Lucas,Not Attentive
+280.0,Jack,Attentive
+280.0,Chloe,Attentive
+281.0,Sam,Attentive
+281.0,Sam,Attentive
+281.0,Olivia,Attentive
+281.0,Isabella,Attentive
+281.0,William,Not Attentive
+281.0,Evelyn,Attentive
+281.0,Ms_Grace,Not Attentive
+281.0,Elena,Attentive
+281.0,Lucas,Not Attentive
+281.0,Olivia,Not Attentive
+281.0,Olivia,Not Attentive
+281.0,Olivia,Not Attentive
+281.0,Ms_Grace,Not Attentive
+281.0,Lucas,Not Attentive
+281.0,Chloe,Not Attentive
+281.0,Jack,Confused
+282.0,Sam,Attentive
+282.0,Amelia,Attentive
+282.0,Charlotte,Attentive
+282.0,Lucas,Attentive
+282.0,Isabella,Not Attentive
+282.0,Ms_Grace,Not Attentive
+282.0,William,Not Attentive
+282.0,Elena,Attentive
+282.0,Olivia,Attentive
+282.0,Sam,Not Attentive
+282.0,Evelyn,Not Attentive
+282.0,Lucas,Confused
+282.0,Ms_Grace,Not Attentive
+282.0,Chloe,Not Attentive
+282.0,Jack,Confused
+283.0,Olivia,Attentive
+283.0,Evelyn,Attentive
+283.0,Olivia,Attentive
+283.0,Elena,Attentive
+283.0,Isabella,Attentive
+283.0,Charlotte,Attentive
+283.0,Lucas,Not Attentive
+283.0,William,Not Attentive
+283.0,Olivia,Not Attentive
+283.0,Olivia,Confused
+283.0,John,Not Attentive
+283.0,Lucas,Not Attentive
+283.0,Olivia,Not Attentive
+283.0,Jack,Attentive
+283.0,Evelyn,Attentive
+283.0,Evelyn,Not Attentive
+283.0,Lucas,Not Attentive
+284.0,Evelyn,Not Attentive
+284.0,Sam,Attentive
+284.0,Olivia,Attentive
+284.0,Olivia,Attentive
+284.0,Elena,Attentive
+284.0,Lucas,Not Attentive
+284.0,Evelyn,Not Attentive
+284.0,Lucas,Attentive
+284.0,William,Attentive
+284.0,Lucas,Attentive
+284.0,Olivia,Confused
+284.0,John,Not Attentive
+284.0,Olivia,Not Attentive
+284.0,Lucas,Not Attentive
+284.0,Chloe,Not Attentive
+284.0,Amelia,Attentive
+284.0,William,Attentive
+284.0,Olivia,Not Attentive
+284.0,Evelyn,Not Attentive
+285.0,Evelyn,Not Attentive
+285.0,Olivia,Attentive
+285.0,Elena,Attentive
+285.0,Olivia,Attentive
+285.0,William,Not Attentive
+285.0,Isabella,Attentive
+285.0,Charlotte,Attentive
+285.0,Olivia,Not Attentive
+285.0,Olivia,Attentive
+285.0,Lucas,Not Attentive
+285.0,Olivia,Not Attentive
+285.0,John,Attentive
+285.0,Lucas,Not Attentive
+285.0,Jack,Attentive
+285.0,William,Confused
+285.0,Chloe,Confused
+285.0,Evelyn,Not Attentive
+286.0,Evelyn,Not Attentive
+286.0,Olivia,Attentive
+286.0,Olivia,Attentive
+286.0,Olivia,Attentive
+286.0,Elena,Attentive
+286.0,Olivia,Not Attentive
+286.0,Isabella,Attentive
+286.0,Charlotte,Attentive
+286.0,Lucas,Attentive
+286.0,William,Not Attentive
+286.0,Olivia,Not Attentive
+286.0,Olivia,Not Attentive
+286.0,Chloe,Not Attentive
+286.0,John,Not Attentive
+286.0,Ms_Grace,Confused
+286.0,Jack,Attentive
+286.0,Lucas,Confused
+286.0,Isabella,Not Attentive
+287.0,Sam,Attentive
+287.0,Evelyn,Attentive
+287.0,Olivia,Attentive
+287.0,Olivia,Attentive
+287.0,Elena,Attentive
+287.0,Isabella,Attentive
+287.0,unknown,Not Attentive
+287.0,William,Not Attentive
+287.0,Charlotte,Attentive
+287.0,Lucas,Attentive
+287.0,Olivia,Attentive
+287.0,Olivia,Not Attentive
+287.0,John,Not Attentive
+287.0,Chloe,Attentive
+287.0,Lucas,Not Attentive
+287.0,John,Attentive
+287.0,unknown,Not Attentive
+287.0,Isabella,Not Attentive
+287.0,John,Not Attentive
+288.0,Evelyn,Not Attentive
+288.0,Sam,Attentive
+288.0,Olivia,Attentive
+288.0,Elena,Attentive
+288.0,Isabella,Attentive
+288.0,Evelyn,Attentive
+288.0,Evelyn,Not Attentive
+288.0,John,Attentive
+288.0,William,Not Attentive
+288.0,Olivia,Not Attentive
+288.0,Lucas,Attentive
+288.0,Evelyn,Not Attentive
+288.0,Chloe,Attentive
+288.0,Lucas,Not Attentive
+288.0,unknown,Not Attentive
+288.0,Jack,Attentive
+288.0,John,Not Attentive
+288.0,Evelyn,Confused
+289.0,Evelyn,Confused
+289.0,Olivia,Confused
+289.0,Olivia,Attentive
+289.0,Sam,Not Attentive
+289.0,Isabella,Attentive
+289.0,Lucas,Not Attentive
+289.0,Lucas,Not Attentive
+289.0,William,Not Attentive
+289.0,Elena,Not Attentive
+289.0,Olivia,Not Attentive
+289.0,John,Attentive
+289.0,Lucas,Attentive
+289.0,William,Not Attentive
+289.0,Lucas,Not Attentive
+289.0,Chloe,Attentive
+289.0,John,Attentive
+289.0,John,Not Attentive
+289.0,Ms_Grace,Confused
+289.0,Ms_Grace,Not Attentive
+289.0,Jack,Not Attentive
+290.0,unknown,Not Attentive
+290.0,Olivia,Not Attentive
+290.0,Isabella,Not Attentive
+290.0,Elena,Not Attentive
+290.0,Olivia,Attentive
+290.0,Elena,Not Attentive
+290.0,Elena,Not Attentive
+290.0,William,Not Attentive
+290.0,John,Attentive
+290.0,Olivia,Attentive
+290.0,Evelyn,Not Attentive
+290.0,Ms_Grace,Not Attentive
+290.0,John,Not Attentive
+290.0,Chloe,Attentive
+290.0,Jack,Confused
+291.0,unknown,Confused
+291.0,Sam,Confused
+291.0,Lucas,Not Attentive
+291.0,Olivia,Attentive
+291.0,Elena,Attentive
+291.0,Isabella,Not Attentive
+291.0,William,Not Attentive
+291.0,Olivia,Not Attentive
+291.0,John,Not Attentive
+291.0,Evelyn,Not Attentive
+291.0,Evelyn,Not Attentive
+291.0,Jack,Attentive
+291.0,John,Not Attentive
+291.0,Ms_Grace,Not Attentive
+291.0,Chloe,Attentive
+291.0,Lucas,Not Attentive
+291.0,Olivia,Not Attentive
+291.0,Ms_Grace,Confused
+292.0,Elena,Confused
+292.0,Olivia,Confused
+292.0,Olivia,Attentive
+292.0,Lucas,Not Attentive
+292.0,Isabella,Attentive
+292.0,Elena,Attentive
+292.0,Sam,Attentive
+292.0,Evelyn,Not Attentive
+292.0,Lucas,Attentive
+292.0,John,Not Attentive
+292.0,Olivia,Not Attentive
+292.0,William,Not Attentive
+292.0,Evelyn,Not Attentive
+292.0,Ms_Grace,Not Attentive
+292.0,Chloe,Not Attentive
+292.0,Ms_Grace,Attentive
+292.0,John,Not Attentive
+292.0,Ms_Grace,Attentive
+292.0,Evelyn,Not Attentive
+292.0,Lucas,Not Attentive
+293.0,unknown,Not Attentive
+293.0,Isabella,Attentive
+293.0,Amelia,Attentive
+293.0,Amelia,Attentive
+293.0,Lucas,Not Attentive
+293.0,Elena,Not Attentive
+293.0,Sam,Not Attentive
+293.0,Elena,Not Attentive
+293.0,William,Not Attentive
+293.0,Olivia,Not Attentive
+293.0,John,Not Attentive
+293.0,Olivia,Not Attentive
+293.0,Ms_Grace,Attentive
+293.0,Chloe,Attentive
+293.0,unknown,Not Attentive
+293.0,Lucas,Confused
+293.0,Ms_Grace,Attentive
+293.0,Lucas,Attentive
+293.0,John,Not Attentive
+294.0,Evelyn,Not Attentive
+294.0,Olivia,Attentive
+294.0,Isabella,Attentive
+294.0,Olivia,Not Attentive
+294.0,William,Not Attentive
+294.0,Olivia,Not Attentive
+294.0,Sam,Not Attentive
+294.0,Elena,Attentive
+294.0,Charlotte,Not Attentive
+294.0,Lucas,Not Attentive
+294.0,John,Not Attentive
+294.0,Lucas,Not Attentive
+294.0,Olivia,Not Attentive
+294.0,Jack,Attentive
+294.0,John,Not Attentive
+294.0,Chloe,Not Attentive
+295.0,Olivia,Not Attentive
+295.0,Olivia,Attentive
+295.0,Isabella,Attentive
+295.0,Elena,Not Attentive
+295.0,Evelyn,Not Attentive
+295.0,William,Not Attentive
+295.0,Sam,Not Attentive
+295.0,Amelia,Not Attentive
+295.0,Amelia,Attentive
+295.0,Olivia,Not Attentive
+295.0,John,Not Attentive
+295.0,Lucas,Not Attentive
+295.0,Lucas,Not Attentive
+295.0,Olivia,Not Attentive
+295.0,Olivia,Not Attentive
+295.0,Jack,Attentive
+295.0,Chloe,Attentive
+295.0,Evelyn,Attentive
+295.0,John,Not Attentive
+296.0,Olivia,Not Attentive
+296.0,Olivia,Attentive
+296.0,Isabella,Attentive
+296.0,Evelyn,Attentive
+296.0,Evelyn,Attentive
+296.0,Sam,Attentive
+296.0,Elena,Attentive
+296.0,William,Not Attentive
+296.0,Lucas,Not Attentive
+296.0,John,Not Attentive
+296.0,Lucas,Not Attentive
+296.0,Olivia,Not Attentive
+296.0,Olivia,Not Attentive
+296.0,Chloe,Not Attentive
+296.0,Olivia,Not Attentive
+296.0,Evelyn,Attentive
+296.0,Jack,Confused
+297.0,Olivia,Attentive
+297.0,Isabella,Attentive
+297.0,William,Attentive
+297.0,Lucas,Attentive
+297.0,Evelyn,Attentive
+297.0,Elena,Attentive
+297.0,Sam,Attentive
+297.0,Lucas,Attentive
+297.0,John,Attentive
+297.0,Evelyn,Attentive
+297.0,Olivia,Not Attentive
+297.0,Olivia,Attentive
+297.0,Lucas,Not Attentive
+297.0,Chloe,Not Attentive
+297.0,Sam,Not Attentive
+297.0,John,Not Attentive
+297.0,Jack,Attentive
+298.0,Olivia,Attentive
+298.0,Evelyn,Not Attentive
+298.0,Elena,Attentive
+298.0,William,Attentive
+298.0,Ms_Grace,Attentive
+298.0,Olivia,Not Attentive
+298.0,Isabella,Not Attentive
+298.0,Elena,Not Attentive
+298.0,Evelyn,Attentive
+298.0,John,Attentive
+298.0,Lucas,Attentive
+298.0,Olivia,Not Attentive
+298.0,Lucas,Not Attentive
+298.0,Olivia,Not Attentive
+298.0,Chloe,Not Attentive
+298.0,John,Not Attentive
+298.0,Jack,Not Attentive
+299.0,Olivia,Attentive
+299.0,Sam,Attentive
+299.0,Evelyn,Not Attentive
+299.0,Elena,Attentive
+299.0,Evelyn,Not Attentive
+299.0,Lucas,Not Attentive
+299.0,Charlotte,Attentive
+299.0,Lucas,Attentive
+299.0,William,Not Attentive
+299.0,Olivia,Not Attentive
+299.0,John,Attentive
+299.0,Chloe,Attentive
+299.0,Olivia,Not Attentive
+299.0,Lucas,Not Attentive
+299.0,John,Attentive
+299.0,John,Not Attentive
+299.0,Amelia,Confused
+300.0,Sam,Attentive
+300.0,Amelia,Attentive
+300.0,Evelyn,Not Attentive
+300.0,William,Not Attentive
+300.0,Isabella,Not Attentive
+300.0,Lucas,Attentive
+300.0,Elena,Confused
+300.0,Charlotte,Attentive
+300.0,John,Attentive
+300.0,Sam,Not Attentive
+300.0,Evelyn,Not Attentive
+300.0,Chloe,Not Attentive
+300.0,Olivia,Not Attentive
+300.0,Lucas,Not Attentive
+300.0,Olivia,Not Attentive
+300.0,John,Attentive
+300.0,John,Not Attentive
+301.0,Olivia,Attentive
+301.0,William,Not Attentive
+301.0,Isabella,Not Attentive
+301.0,Elena,Attentive
+301.0,Lucas,Attentive
+301.0,Charlotte,Attentive
+301.0,Sam,Not Attentive
+301.0,John,Attentive
+301.0,Olivia,Not Attentive
+301.0,Chloe,Not Attentive
+301.0,Lucas,Not Attentive
+301.0,Jack,Attentive
+301.0,Evelyn,Not Attentive
+301.0,John,Not Attentive
+301.0,Olivia,Not Attentive
+302.0,Sam,Attentive
+302.0,Olivia,Attentive
+302.0,Isabella,Attentive
+302.0,Lucas,Attentive
+302.0,William,Not Attentive
+302.0,Elena,Attentive
+302.0,Olivia,Attentive
+302.0,Elena,Attentive
+302.0,John,Attentive
+302.0,Chloe,Attentive
+302.0,Lucas,Not Attentive
+302.0,Lucas,Not Attentive
+302.0,Jack,Attentive
+303.0,Sam,Attentive
+303.0,Amelia,Attentive
+303.0,Isabella,Attentive
+303.0,William,Attentive
+303.0,Olivia,Not Attentive
+303.0,Elena,Attentive
+303.0,Lucas,Attentive
+303.0,Elena,Attentive
+303.0,Evelyn,Not Attentive
+303.0,John,Attentive
+303.0,Lucas,Not Attentive
+303.0,Jack,Attentive
+303.0,Lucas,Not Attentive
+304.0,Sam,Attentive
+304.0,Olivia,Attentive
+304.0,Isabella,Attentive
+304.0,Lucas,Attentive
+304.0,Charlotte,Attentive
+304.0,Evelyn,Not Attentive
+304.0,William,Not Attentive
+304.0,John,Attentive
+304.0,Olivia,Not Attentive
+304.0,Elena,Attentive
+304.0,Jack,Attentive
+304.0,John,Not Attentive
+304.0,Ms_Grace,Not Attentive
+304.0,John,Not Attentive
+304.0,Lucas,Not Attentive
+305.0,Sam,Attentive
+305.0,Olivia,Attentive
+305.0,William,Not Attentive
+305.0,Isabella,Not Attentive
+305.0,Evelyn,Not Attentive
+305.0,Elena,Not Attentive
+305.0,Olivia,Not Attentive
+305.0,Lucas,Not Attentive
+305.0,John,Not Attentive
+305.0,Jack,Attentive
+305.0,Evelyn,Attentive
+305.0,Ms_Grace,Not Attentive
+305.0,Lucas,Confused
+305.0,John,Not Attentive
+306.0,Olivia,Attentive
+306.0,Sam,Attentive
+306.0,William,Attentive
+306.0,Isabella,Not Attentive
+306.0,Evelyn,Attentive
+306.0,Evelyn,Not Attentive
+306.0,Olivia,Not Attentive
+306.0,Elena,Not Attentive
+306.0,Lucas,Attentive
+306.0,Evelyn,Not Attentive
+306.0,John,Not Attentive
+306.0,Jack,Attentive
+306.0,Lucas,Confused
+306.0,Ms_Grace,Not Attentive
+306.0,Isabella,Not Attentive
+306.0,Olivia,Not Attentive
+307.0,Sam,Attentive
+307.0,Olivia,Attentive
+307.0,Ms_Grace,Attentive
+307.0,Evelyn,Attentive
+307.0,Isabella,Not Attentive
+307.0,Olivia,Not Attentive
+307.0,Lucas,Not Attentive
+307.0,Evelyn,Attentive
+307.0,Elena,Not Attentive
+307.0,John,Not Attentive
+307.0,Jack,Attentive
+307.0,Lucas,Not Attentive
+307.0,John,Not Attentive
+308.0,Sam,Attentive
+308.0,Olivia,Attentive
+308.0,Isabella,Not Attentive
+308.0,William,Not Attentive
+308.0,Lucas,Attentive
+308.0,Elena,Attentive
+308.0,Evelyn,Not Attentive
+308.0,Evelyn,Attentive
+308.0,Olivia,Attentive
+308.0,John,Not Attentive
+308.0,Lucas,Not Attentive
+308.0,Jack,Attentive
+308.0,Isabella,Not Attentive
+308.0,John,Not Attentive
+308.0,Olivia,Not Attentive
+309.0,Sam,Attentive
+309.0,Lucas,Attentive
+309.0,Olivia,Attentive
+309.0,Olivia,Attentive
+309.0,Olivia,Attentive
+309.0,Lucas,Confused
+309.0,Elena,Confused
+309.0,Lucas,Confused
+309.0,John,Attentive
+309.0,Sam,Not Attentive
+309.0,Evelyn,Attentive
+309.0,John,Attentive
+309.0,Olivia,Attentive
+309.0,John,Not Attentive
+309.0,Olivia,Not Attentive
+310.0,Sam,Attentive
+310.0,William,Attentive
+310.0,Olivia,Attentive
+310.0,Evelyn,Attentive
+310.0,Lucas,Attentive
+310.0,Elena,Attentive
+310.0,John,Attentive
+310.0,Evelyn,Attentive
+310.0,Olivia,Confused
+310.0,Lucas,Not Attentive
+310.0,Evelyn,Attentive
+310.0,Lucas,Not Attentive
+311.0,Sam,Attentive
+311.0,Olivia,Attentive
+311.0,Elena,Attentive
+311.0,Elena,Attentive
+311.0,William,Attentive
+311.0,Olivia,Attentive
+311.0,Evelyn,Attentive
+311.0,Lucas,Not Attentive
+311.0,Jack,Attentive
+311.0,Lucas,Not Attentive
+311.0,John,Not Attentive
+311.0,Isabella,Not Attentive
+311.0,Isabella,Not Attentive
+312.0,Olivia,Attentive
+312.0,Sam,Attentive
+312.0,Isabella,Attentive
+312.0,Elena,Attentive
+312.0,Olivia,Not Attentive
+312.0,Evelyn,Attentive
+312.0,Jack,Attentive
+312.0,William,Not Attentive
+312.0,John,Attentive
+312.0,Lucas,Attentive
+312.0,Chloe,Not Attentive
+312.0,Evelyn,Not Attentive
+312.0,Lucas,Not Attentive
+312.0,John,Not Attentive
+313.0,Sam,Attentive
+313.0,Olivia,Attentive
+313.0,William,Not Attentive
+313.0,Elena,Attentive
+313.0,Olivia,Not Attentive
+313.0,Evelyn,Not Attentive
+313.0,Isabella,Not Attentive
+313.0,Jack,Attentive
+313.0,Elena,Confused
+313.0,Lucas,Attentive
+313.0,John,Attentive
+313.0,unknown,Attentive
+313.0,Chloe,Attentive
+313.0,Lucas,Not Attentive
+314.0,Sam,Attentive
+314.0,Isabella,Attentive
+314.0,Olivia,Attentive
+314.0,Olivia,Not Attentive
+314.0,William,Not Attentive
+314.0,Elena,Attentive
+314.0,Evelyn,Attentive
+314.0,John,Attentive
+314.0,Lucas,Attentive
+314.0,Lucas,Attentive
+314.0,Evelyn,Attentive
+314.0,Chloe,Attentive
+314.0,John,Not Attentive
+314.0,Jack,Attentive
+314.0,Olivia,Not Attentive
+314.0,Lucas,Not Attentive
+314.0,Evelyn,Not Attentive
+315.0,Sam,Attentive
+315.0,Olivia,Attentive
+315.0,Elena,Attentive
+315.0,Isabella,Attentive
+315.0,Olivia,Not Attentive
+315.0,Charlotte,Attentive
+315.0,Lucas,Attentive
+315.0,Evelyn,Attentive
+315.0,William,Attentive
+315.0,Evelyn,Attentive
+315.0,John,Attentive
+315.0,Jack,Attentive
+315.0,Chloe,Attentive
+315.0,Lucas,Not Attentive
+316.0,Sam,Attentive
+316.0,Olivia,Attentive
+316.0,Evelyn,Attentive
+316.0,William,Not Attentive
+316.0,Elena,Not Attentive
+316.0,Elena,Not Attentive
+316.0,Evelyn,Not Attentive
+316.0,Olivia,Not Attentive
+316.0,Elena,Attentive
+316.0,Lucas,Attentive
+316.0,John,Attentive
+316.0,Jack,Attentive
+316.0,Chloe,Attentive
+316.0,Evelyn,Attentive
+316.0,Lucas,Not Attentive
+316.0,John,Not Attentive
+316.0,Evelyn,Attentive
+317.0,Sam,Attentive
+317.0,Olivia,Attentive
+317.0,William,Not Attentive
+317.0,Isabella,Not Attentive
+317.0,Elena,Attentive
+317.0,Olivia,Not Attentive
+317.0,Lucas,Attentive
+317.0,John,Attentive
+317.0,Evelyn,Not Attentive
+317.0,Lucas,Not Attentive
+317.0,Chloe,Attentive
+317.0,Jack,Confused
+317.0,Evelyn,Confused
+317.0,Lucas,Not Attentive
+317.0,John,Not Attentive
+318.0,Sam,Attentive
+318.0,Olivia,Attentive
+318.0,Isabella,Confused
+318.0,Olivia,Attentive
+318.0,Elena,Attentive
+318.0,Lucas,Not Attentive
+318.0,Evelyn,Attentive
+318.0,Lucas,Attentive
+318.0,William,Not Attentive
+318.0,Evelyn,Not Attentive
+318.0,John,Attentive
+318.0,Chloe,Confused
+318.0,Jack,Attentive
+318.0,John,Not Attentive
+318.0,Lucas,Not Attentive
+319.0,Sam,Attentive
+319.0,Isabella,Attentive
+319.0,Olivia,Not Attentive
+319.0,Olivia,Not Attentive
+319.0,Elena,Attentive
+319.0,Lucas,Attentive
+319.0,Lucas,Confused
+319.0,William,Not Attentive
+319.0,John,Attentive
+319.0,Evelyn,Attentive
+319.0,Lucas,Not Attentive
+319.0,Lucas,Not Attentive
+319.0,Jack,Confused
+319.0,Evelyn,Attentive
+319.0,Evelyn,Attentive
+320.0,Sam,Attentive
+320.0,Elena,Attentive
+320.0,Olivia,Attentive
+320.0,Isabella,Not Attentive
+320.0,Olivia,Attentive
+320.0,Lucas,Attentive
+320.0,William,Attentive
+320.0,Lucas,Confused
+320.0,John,Not Attentive
+320.0,Evelyn,Attentive
+320.0,Lucas,Not Attentive
+320.0,Jack,Attentive
+320.0,Evelyn,Not Attentive
+320.0,Lucas,Not Attentive
+321.0,Elena,Not Attentive
+321.0,Sam,Attentive
+321.0,Olivia,Attentive
+321.0,Olivia,Confused
+321.0,Evelyn,Attentive
+321.0,Charlotte,Attentive
+321.0,John,Not Attentive
+321.0,William,Not Attentive
+321.0,Lucas,Not Attentive
+321.0,Lucas,Not Attentive
+321.0,Evelyn,Not Attentive
+321.0,Jack,Attentive
+321.0,Evelyn,Attentive
+321.0,Lucas,Not Attentive
+321.0,Evelyn,Not Attentive
+321.0,Olivia,Not Attentive
+322.0,Elena,Attentive
+322.0,Sam,Attentive
+322.0,Olivia,Attentive
+322.0,Isabella,Attentive
+322.0,Olivia,Attentive
+322.0,Lucas,Attentive
+322.0,Evelyn,Not Attentive
+322.0,Elena,Attentive
+322.0,William,Not Attentive
+322.0,John,Attentive
+322.0,John,Not Attentive
+322.0,Lucas,Not Attentive
+322.0,Chloe,Confused
+322.0,Ms_Grace,Confused
+323.0,Sam,Attentive
+323.0,Olivia,Confused
+323.0,Isabella,Confused
+323.0,Elena,Attentive
+323.0,Olivia,Not Attentive
+323.0,John,Not Attentive
+323.0,John,Not Attentive
+323.0,William,Not Attentive
+323.0,Charlotte,Attentive
+323.0,Lucas,Not Attentive
+323.0,Lucas,Not Attentive
+323.0,Chloe,Not Attentive
+323.0,Evelyn,Not Attentive
+323.0,Lucas,Not Attentive
+323.0,Jack,Attentive
+323.0,Evelyn,Not Attentive
+324.0,Olivia,Attentive
+324.0,Sam,Not Attentive
+324.0,Elena,Attentive
+324.0,Isabella,Confused
+324.0,Olivia,Confused
+324.0,John,Not Attentive
+324.0,Lucas,Attentive
+324.0,William,Attentive
+324.0,John,Not Attentive
+324.0,Lucas,Not Attentive
+324.0,Lucas,Not Attentive
+324.0,Evelyn,Attentive
+324.0,Chloe,Not Attentive
+324.0,Jack,Attentive
+325.0,Sam,Attentive
+325.0,Elena,Not Attentive
+325.0,Isabella,Not Attentive
+325.0,Olivia,Attentive
+325.0,Olivia,Attentive
+325.0,Evelyn,Attentive
+325.0,William,Not Attentive
+325.0,Lucas,Not Attentive
+325.0,John,Not Attentive
+325.0,Lucas,Not Attentive
+325.0,Evelyn,Not Attentive
+325.0,John,Not Attentive
+325.0,Chloe,Not Attentive
+325.0,Evelyn,Not Attentive
+325.0,Jack,Attentive
+325.0,Sam,Not Attentive
+326.0,Elena,Attentive
+326.0,Sam,Attentive
+326.0,Elena,Attentive
+326.0,Isabella,Attentive
+326.0,Olivia,Attentive
+326.0,William,Attentive
+326.0,Lucas,Attentive
+326.0,Lucas,Not Attentive
+326.0,Lucas,Not Attentive
+326.0,John,Not Attentive
+326.0,Chloe,Not Attentive
+326.0,Evelyn,Not Attentive
+326.0,Jack,Not Attentive
+327.0,Elena,Attentive
+327.0,Sam,Attentive
+327.0,Olivia,Attentive
+327.0,Olivia,Attentive
+327.0,Olivia,Attentive
+327.0,John,Attentive
+327.0,William,Attentive
+327.0,Lucas,Not Attentive
+327.0,Isabella,Not Attentive
+327.0,Lucas,Not Attentive
+327.0,Evelyn,Not Attentive
+327.0,John,Not Attentive
+327.0,Chloe,Not Attentive
+327.0,Jack,Not Attentive
+327.0,Evelyn,Not Attentive
+328.0,Elena,Attentive
+328.0,Sam,Attentive
+328.0,Olivia,Attentive
+328.0,Isabella,Confused
+328.0,Olivia,Confused
+328.0,Lucas,Attentive
+328.0,William,Attentive
+328.0,John,Attentive
+328.0,Lucas,Attentive
+328.0,Lucas,Not Attentive
+328.0,Chloe,Not Attentive
+328.0,Jack,Confused
+328.0,John,Not Attentive
+328.0,Evelyn,Not Attentive
+329.0,Sam,Attentive
+329.0,Elena,Attentive
+329.0,Olivia,Attentive
+329.0,Olivia,Attentive
+329.0,Olivia,Not Attentive
+329.0,John,Attentive
+329.0,Evelyn,Not Attentive
+329.0,Amelia,Not Attentive
+329.0,Lucas,Not Attentive
+329.0,John,Attentive
+329.0,Lucas,Not Attentive
+329.0,Chloe,Not Attentive
+329.0,Jack,Confused
+329.0,Evelyn,Not Attentive
+329.0,Evelyn,Attentive
+330.0,Sam,Attentive
+330.0,Elena,Attentive
+330.0,Olivia,Attentive
+330.0,William,Not Attentive
+330.0,Lucas,Attentive
+330.0,Olivia,Attentive
+330.0,Lucas,Attentive
+330.0,Lucas,Not Attentive
+330.0,John,Attentive
+330.0,Evelyn,Not Attentive
+330.0,Chloe,Not Attentive
+330.0,Evelyn,Not Attentive
+330.0,Evelyn,Not Attentive
+330.0,Jack,Confused
+330.0,Sam,Not Attentive
+331.0,Elena,Attentive
+331.0,Olivia,Attentive
+331.0,Charlotte,Attentive
+331.0,Sam,Attentive
+331.0,Olivia,Attentive
+331.0,Lucas,Attentive
+331.0,William,Not Attentive
+331.0,Lucas,Not Attentive
+331.0,Evelyn,Not Attentive
+331.0,John,Attentive
+331.0,Chloe,Attentive
+331.0,Olivia,Not Attentive
+331.0,Evelyn,Attentive
+331.0,Jack,Attentive
+331.0,Evelyn,Not Attentive
+331.0,William,Confused
+332.0,Elena,Attentive
+332.0,Sam,Attentive
+332.0,Olivia,Attentive
+332.0,Lucas,Attentive
+332.0,Olivia,Confused
+332.0,Lucas,Not Attentive
+332.0,Evelyn,Not Attentive
+332.0,Lucas,Not Attentive
+332.0,William,Attentive
+332.0,John,Attentive
+332.0,Evelyn,Attentive
+332.0,Lucas,Not Attentive
+332.0,Chloe,Not Attentive
+332.0,Jack,Attentive
+332.0,Olivia,Not Attentive
+333.0,Elena,Attentive
+333.0,Sam,Attentive
+333.0,Olivia,Attentive
+333.0,Lucas,Attentive
+333.0,Olivia,Attentive
+333.0,Charlotte,Attentive
+333.0,Lucas,Not Attentive
+333.0,William,Not Attentive
+333.0,Evelyn,Not Attentive
+333.0,Olivia,Not Attentive
+333.0,Chloe,Not Attentive
+333.0,John,Attentive
+333.0,Olivia,Not Attentive
+333.0,Evelyn,Not Attentive
+333.0,Jack,Attentive
+333.0,Evelyn,Not Attentive
+334.0,Elena,Attentive
+334.0,Olivia,Attentive
+334.0,Sam,Attentive
+334.0,Isabella,Attentive
+334.0,Lucas,Attentive
+334.0,William,Not Attentive
+334.0,Charlotte,Attentive
+334.0,Olivia,Attentive
+334.0,Lucas,Not Attentive
+334.0,John,Not Attentive
+334.0,Olivia,Not Attentive
+334.0,Chloe,Not Attentive
+334.0,Evelyn,Attentive
+334.0,Olivia,Not Attentive
+335.0,Elena,Attentive
+335.0,Olivia,Attentive
+335.0,Olivia,Attentive
+335.0,Sam,Attentive
+335.0,Isabella,Attentive
+335.0,Lucas,Attentive
+335.0,Olivia,Attentive
+335.0,Charlotte,Confused
+335.0,John,Not Attentive
+335.0,Lucas,Not Attentive
+335.0,Jack,Attentive
+335.0,Chloe,Attentive
+336.0,Elena,Attentive
+336.0,Olivia,Attentive
+336.0,William,Attentive
+336.0,Lucas,Attentive
+336.0,Isabella,Attentive
+336.0,Olivia,Attentive
+336.0,Sam,Attentive
+336.0,Charlotte,Attentive
+336.0,Lucas,Not Attentive
+336.0,John,Not Attentive
+336.0,Ms_Grace,Not Attentive
+336.0,Jack,Confused
+337.0,Elena,Attentive
+337.0,Amelia,Attentive
+337.0,William,Attentive
+337.0,Lucas,Attentive
+337.0,Sam,Attentive
+337.0,Olivia,Attentive
+337.0,Isabella,Attentive
+337.0,Charlotte,Attentive
+337.0,Lucas,Not Attentive
+337.0,John,Not Attentive
+337.0,Chloe,Not Attentive
+337.0,Jack,Attentive
+337.0,Ms_Grace,Not Attentive
+338.0,Elena,Attentive
+338.0,William,Attentive
+338.0,Olivia,Attentive
+338.0,Sam,Attentive
+338.0,Lucas,Attentive
+338.0,Evelyn,Not Attentive
+338.0,Olivia,Attentive
+338.0,Charlotte,Attentive
+338.0,John,Not Attentive
+338.0,Lucas,Not Attentive
+338.0,Chloe,Not Attentive
+338.0,Isabella,Attentive
+339.0,Elena,Attentive
+339.0,William,Attentive
+339.0,Sam,Attentive
+339.0,Olivia,Attentive
+339.0,Isabella,Confused
+339.0,Lucas,Attentive
+339.0,Charlotte,Attentive
+339.0,Olivia,Attentive
+339.0,John,Attentive
+339.0,John,Attentive
+339.0,Chloe,Attentive
+339.0,Evelyn,Not Attentive
+339.0,Lucas,Not Attentive
+339.0,Ms_Grace,Not Attentive
+340.0,Elena,Attentive
+340.0,Sam,Attentive
+340.0,William,Not Attentive
+340.0,Olivia,Attentive
+340.0,Lucas,Attentive
+340.0,Charlotte,Attentive
+340.0,John,Attentive
+340.0,Olivia,Not Attentive
+340.0,Isabella,Confused
+340.0,Chloe,Confused
+340.0,Lucas,Not Attentive
+340.0,John,Attentive
+341.0,Elena,Attentive
+341.0,Olivia,Attentive
+341.0,Olivia,Attentive
+341.0,Lucas,Attentive
+341.0,Evelyn,Attentive
+341.0,John,Attentive
+341.0,Olivia,Not Attentive
+341.0,Chloe,Not Attentive
+341.0,Isabella,Not Attentive
+341.0,Evelyn,Not Attentive
+341.0,John,Not Attentive
+341.0,Lucas,Not Attentive
+341.0,William,Attentive
+341.0,Jack,Confused
+342.0,Elena,Attentive
+342.0,Olivia,Attentive
+342.0,Lucas,Attentive
+342.0,Olivia,Attentive
+342.0,Sam,Attentive
+342.0,Evelyn,Attentive
+342.0,William,Not Attentive
+342.0,Evelyn,Not Attentive
+342.0,Chloe,Not Attentive
+342.0,John,Not Attentive
+342.0,Evelyn,Attentive
+342.0,Lucas,Not Attentive
+342.0,John,Attentive
+342.0,John,Not Attentive
+343.0,Elena,Attentive
+343.0,Olivia,Attentive
+343.0,Olivia,Attentive
+343.0,Lucas,Attentive
+343.0,Sam,Attentive
+343.0,Olivia,Attentive
+343.0,William,Attentive
+343.0,Lucas,Attentive
+343.0,Isabella,Attentive
+343.0,Evelyn,Attentive
+343.0,John,Not Attentive
+343.0,Lucas,Not Attentive
+343.0,Chloe,Not Attentive
+343.0,John,Not Attentive
+343.0,John,Attentive
+344.0,Elena,Attentive
+344.0,Amelia,Attentive
+344.0,Lucas,Not Attentive
+344.0,William,Attentive
+344.0,Olivia,Not Attentive
+344.0,Lucas,Attentive
+344.0,Isabella,Attentive
+344.0,John,Attentive
+344.0,Sam,Not Attentive
+344.0,Evelyn,Attentive
+344.0,Lucas,Not Attentive
+344.0,John,Attentive
+344.0,John,Not Attentive
+344.0,Ms_Grace,Not Attentive
+345.0,Elena,Attentive
+345.0,Olivia,Attentive
+345.0,Lucas,Not Attentive
+345.0,Lucas,Attentive
+345.0,Evelyn,Not Attentive
+345.0,William,Attentive
+345.0,Sam,Not Attentive
+345.0,Olivia,Attentive
+345.0,John,Not Attentive
+345.0,Lucas,Not Attentive
+345.0,Jack,Attentive
+345.0,Olivia,Not Attentive
+345.0,Olivia,Confused
+345.0,John,Not Attentive
+346.0,Elena,Attentive
+346.0,Olivia,Attentive
+346.0,Sam,Attentive
+346.0,Lucas,Attentive
+346.0,Olivia,Not Attentive
+346.0,Isabella,Not Attentive
+346.0,William,Attentive
+346.0,Lucas,Not Attentive
+346.0,John,Not Attentive
+346.0,Lucas,Not Attentive
+346.0,John,Attentive
+346.0,Evelyn,Not Attentive
+346.0,John,Not Attentive
+346.0,Jack,Attentive
+346.0,Evelyn,Not Attentive
+346.0,Chloe,Not Attentive
+347.0,Elena,Attentive
+347.0,Olivia,Attentive
+347.0,Sam,Attentive
+347.0,Olivia,Not Attentive
+347.0,Lucas,Attentive
+347.0,Isabella,Confused
+347.0,William,Attentive
+347.0,Lucas,Attentive
+347.0,John,Not Attentive
+347.0,Lucas,Not Attentive
+347.0,Chloe,Not Attentive
+347.0,Amelia,Attentive
+347.0,Evelyn,Not Attentive
+347.0,John,Not Attentive
+347.0,Evelyn,Not Attentive
+348.0,Elena,Attentive
+348.0,Olivia,Attentive
+348.0,Sam,Attentive
+348.0,Isabella,Attentive
+348.0,Olivia,Not Attentive
+348.0,William,Attentive
+348.0,Charlotte,Attentive
+348.0,Lucas,Attentive
+348.0,John,Not Attentive
+348.0,Lucas,Not Attentive
+348.0,Evelyn,Not Attentive
+348.0,John,Attentive
+348.0,Evelyn,Attentive
+348.0,John,Not Attentive
+348.0,unknown,Not Attentive
+349.0,Elena,Attentive
+349.0,Olivia,Attentive
+349.0,William,Attentive
+349.0,Sam,Attentive
+349.0,Charlotte,Attentive
+349.0,Isabella,Confused
+349.0,Lucas,Attentive
+349.0,Olivia,Not Attentive
+349.0,John,Not Attentive
+349.0,Evelyn,Not Attentive
+349.0,Evelyn,Not Attentive
+349.0,Lucas,Not Attentive
+349.0,John,Not Attentive
+349.0,Ms_Grace,Not Attentive
+350.0,Elena,Attentive
+350.0,Olivia,Attentive
+350.0,William,Attentive
+350.0,Lucas,Attentive
+350.0,Sam,Attentive
+350.0,Evelyn,Not Attentive
+350.0,Olivia,Attentive
+350.0,Lucas,Attentive
+350.0,Evelyn,Confused
+350.0,John,Not Attentive
+350.0,Lucas,Not Attentive
+350.0,Evelyn,Not Attentive
+350.0,Jack,Not Attentive
+351.0,Elena,Attentive
+351.0,William,Attentive
+351.0,Charlotte,Attentive
+351.0,Sam,Attentive
+351.0,Evelyn,Attentive
+351.0,Lucas,Attentive
+351.0,Olivia,Attentive
+351.0,Lucas,Not Attentive
+351.0,John,Not Attentive
+351.0,Evelyn,Attentive
+351.0,Evelyn,Confused
+351.0,Sam,Not Attentive
+352.0,Elena,Attentive
+352.0,William,Attentive
+352.0,Charlotte,Attentive
+352.0,Lucas,Attentive
+352.0,Isabella,Confused
+352.0,Sam,Attentive
+352.0,Evelyn,Attentive
+352.0,Olivia,Attentive
+352.0,Evelyn,Attentive
+352.0,Evelyn,Attentive
+352.0,Lucas,Confused
+352.0,John,Attentive
+352.0,John,Not Attentive
+353.0,Elena,Attentive
+353.0,Ms_Grace,Confused
+353.0,William,Confused
+353.0,Charlotte,Attentive
+353.0,Lucas,Not Attentive
+353.0,Olivia,Not Attentive
+353.0,Sam,Attentive
+353.0,Ms_Grace,Confused
+353.0,Chloe,Confused
+353.0,Evelyn,Attentive
+353.0,Lucas,Not Attentive
+353.0,Evelyn,Attentive
+353.0,John,Attentive
+353.0,William,Attentive
+354.0,Elena,Attentive
+354.0,William,Attentive
+354.0,Ms_Grace,Attentive
+354.0,Charlotte,Attentive
+354.0,Olivia,Attentive
+354.0,Lucas,Attentive
+354.0,Olivia,Not Attentive
+354.0,Evelyn,Attentive
+354.0,Chloe,Attentive
+354.0,Lucas,Not Attentive
+354.0,John,Not Attentive
+354.0,Isabella,Not Attentive
+354.0,Jack,Not Attentive
+355.0,Elena,Not Attentive
+355.0,William,Not Attentive
+355.0,Ms_Grace,Attentive
+355.0,Sam,Attentive
+355.0,Charlotte,Attentive
+355.0,Lucas,Attentive
+355.0,Chloe,Attentive
+355.0,Olivia,Not Attentive
+355.0,Evelyn,Attentive
+355.0,John,Not Attentive
+355.0,Lucas,Not Attentive
+355.0,John,Not Attentive
+355.0,Evelyn,Attentive
+356.0,Elena,Attentive
+356.0,William,Confused
+356.0,Ms_Grace,Confused
+356.0,Sam,Attentive
+356.0,Lucas,Attentive
+356.0,Charlotte,Attentive
+356.0,Chloe,Attentive
+356.0,Isabella,Not Attentive
+356.0,Olivia,Not Attentive
+356.0,John,Attentive
+356.0,Lucas,Not Attentive
+356.0,Evelyn,Attentive
+356.0,John,Not Attentive
+357.0,Elena,Attentive
+357.0,William,Attentive
+357.0,Sam,Attentive
+357.0,Charlotte,Attentive
+357.0,Ms_Grace,Attentive
+357.0,Lucas,Not Attentive
+357.0,Olivia,Attentive
+357.0,Chloe,Attentive
+357.0,John,Attentive
+357.0,Isabella,Not Attentive
+357.0,Lucas,Not Attentive
+357.0,Evelyn,Attentive
+357.0,Amelia,Attentive
+357.0,John,Confused
+357.0,John,Not Attentive
+357.0,Jack,Confused
+358.0,Elena,Attentive
+358.0,William,Attentive
+358.0,Sam,Attentive
+358.0,Ms_Grace,Attentive
+358.0,Charlotte,Attentive
+358.0,Olivia,Attentive
+358.0,Lucas,Attentive
+358.0,John,Attentive
+358.0,Chloe,Attentive
+358.0,Amelia,Attentive
+358.0,Lucas,Not Attentive
+358.0,John,Not Attentive
+358.0,John,Attentive
+359.0,Elena,Attentive
+359.0,Olivia,Attentive
+359.0,Amelia,Attentive
+359.0,Charlotte,Attentive
+359.0,Sam,Attentive
+359.0,Ms_Grace,Attentive
+359.0,Olivia,Attentive
+359.0,Chloe,Attentive
+359.0,John,Attentive
+359.0,Lucas,Attentive
+359.0,Lucas,Not Attentive
+359.0,Elena,Attentive
+359.0,John,Confused
+359.0,John,Not Attentive
+359.0,Evelyn,Not Attentive
+360.0,Elena,Attentive
+360.0,Sam,Attentive
+360.0,Amelia,Attentive
+360.0,William,Attentive
+360.0,Lucas,Not Attentive
+360.0,Olivia,Attentive
+360.0,Charlotte,Attentive
+360.0,Ms_Grace,Attentive
+360.0,Chloe,Attentive
+360.0,Evelyn,Not Attentive
+360.0,John,Attentive
+360.0,Lucas,Not Attentive
+360.0,John,Not Attentive
+360.0,John,Attentive
+361.0,Elena,Attentive
+361.0,William,Attentive
+361.0,Ms_Grace,Attentive
+361.0,Sam,Attentive
+361.0,Olivia,Attentive
+361.0,Charlotte,Attentive
+361.0,Chloe,Attentive
+361.0,Lucas,Not Attentive
+361.0,John,Attentive
+361.0,Isabella,Attentive
+361.0,Amelia,Attentive
+361.0,Lucas,Not Attentive
+361.0,Evelyn,Attentive
+361.0,Evelyn,Attentive
+361.0,John,Not Attentive
+361.0,John,Attentive
+362.0,Elena,Attentive
+362.0,Ms_Grace,Attentive
+362.0,Sam,Attentive
+362.0,William,Attentive
+362.0,Olivia,Attentive
+362.0,Lucas,Attentive
+362.0,Chloe,Attentive
+362.0,Evelyn,Attentive
+362.0,Amelia,Attentive
+362.0,John,Attentive
+362.0,Lucas,Not Attentive
+362.0,Lucas,Not Attentive
+362.0,John,Attentive
+362.0,Evelyn,Attentive
+362.0,John,Not Attentive
+362.0,Evelyn,Not Attentive
+363.0,Elena,Attentive
+363.0,Sam,Attentive
+363.0,William,Attentive
+363.0,Ms_Grace,Attentive
+363.0,Lucas,Attentive
+363.0,Olivia,Attentive
+363.0,Olivia,Attentive
+363.0,Lucas,Attentive
+363.0,Evelyn,Attentive
+363.0,Isabella,Not Attentive
+363.0,Chloe,Not Attentive
+363.0,John,Attentive
+363.0,Amelia,Attentive
+363.0,John,Not Attentive
+363.0,Lucas,Not Attentive
+363.0,Jack,Attentive
+363.0,Evelyn,Attentive
+364.0,Elena,Attentive
+364.0,Ms_Grace,Attentive
+364.0,William,Attentive
+364.0,Sam,Attentive
+364.0,Charlotte,Attentive
+364.0,Olivia,Not Attentive
+364.0,Evelyn,Attentive
+364.0,Amelia,Attentive
+364.0,Chloe,Attentive
+364.0,John,Attentive
+364.0,Lucas,Not Attentive
+364.0,Jack,Attentive
+364.0,Evelyn,Attentive
+365.0,Elena,Attentive
+365.0,Ms_Grace,Attentive
+365.0,William,Attentive
+365.0,Olivia,Attentive
+365.0,Olivia,Not Attentive
+365.0,Charlotte,Attentive
+365.0,Isabella,Attentive
+365.0,Amelia,Attentive
+365.0,John,Attentive
+365.0,Chloe,Attentive
+365.0,Evelyn,Attentive
+365.0,Lucas,Not Attentive
+365.0,Evelyn,Not Attentive
+365.0,Lucas,Not Attentive
+365.0,Evelyn,Not Attentive
+365.0,Evelyn,Attentive
+366.0,Elena,Attentive
+366.0,Ms_Grace,Attentive
+366.0,William,Attentive
+366.0,Olivia,Attentive
+366.0,Amelia,Attentive
+366.0,Sam,Attentive
+366.0,Lucas,Attentive
+366.0,Evelyn,Attentive
+366.0,Chloe,Attentive
+366.0,Evelyn,Not Attentive
+366.0,John,Attentive
+366.0,Lucas,Attentive
+366.0,Lucas,Confused
+366.0,Jack,Confused
+367.0,Elena,Attentive
+367.0,William,Attentive
+367.0,Ms_Grace,Attentive
+367.0,Evelyn,Attentive
+367.0,Sam,Attentive
+367.0,Olivia,Attentive
+367.0,Lucas,Attentive
+367.0,Lucas,Not Attentive
+367.0,Chloe,Attentive
+367.0,Evelyn,Attentive
+367.0,Lucas,Not Attentive
+367.0,John,Attentive
+367.0,Isabella,Attentive
+367.0,Lucas,Not Attentive
+367.0,Jack,Attentive
+368.0,Elena,Attentive
+368.0,William,Attentive
+368.0,Ms_Grace,Attentive
+368.0,Amelia,Attentive
+368.0,Sam,Attentive
+368.0,Isabella,Not Attentive
+368.0,Lucas,Attentive
+368.0,Olivia,Attentive
+368.0,Olivia,Attentive
+368.0,Chloe,Attentive
+368.0,Lucas,Attentive
+368.0,John,Attentive
+368.0,Lucas,Not Attentive
+368.0,Evelyn,Not Attentive
+368.0,Elena,Attentive
+369.0,Elena,Attentive
+369.0,William,Attentive
+369.0,Ms_Grace,Attentive
+369.0,Amelia,Attentive
+369.0,Amelia,Attentive
+369.0,Isabella,Not Attentive
+369.0,Sam,Attentive
+369.0,Olivia,Attentive
+369.0,Lucas,Attentive
+369.0,John,Attentive
+369.0,Chloe,Attentive
+369.0,Evelyn,Not Attentive
+369.0,Evelyn,Attentive
+369.0,Jack,Attentive
+370.0,Elena,Attentive
+370.0,William,Attentive
+370.0,Evelyn,Attentive
+370.0,Ms_Grace,Attentive
+370.0,Olivia,Attentive
+370.0,Olivia,Not Attentive
+370.0,Isabella,Not Attentive
+370.0,Lucas,Attentive
+370.0,Sam,Attentive
+370.0,Chloe,Attentive
+370.0,Lucas,Attentive
+370.0,John,Attentive
+370.0,Lucas,Not Attentive
+370.0,Jack,Attentive
+370.0,Evelyn,Not Attentive
+371.0,Elena,Attentive
+371.0,Ms_Grace,Attentive
+371.0,William,Attentive
+371.0,Amelia,Attentive
+371.0,Olivia,Attentive
+371.0,Sam,Attentive
+371.0,Isabella,Not Attentive
+371.0,Chloe,Not Attentive
+371.0,Lucas,Attentive
+371.0,Lucas,Attentive
+371.0,John,Not Attentive
+371.0,Lucas,Not Attentive
+371.0,Jack,Attentive
+371.0,Evelyn,Attentive
+371.0,Evelyn,Attentive
+372.0,Elena,Attentive
+372.0,Ms_Grace,Attentive
+372.0,William,Attentive
+372.0,Evelyn,Attentive
+372.0,Sam,Attentive
+372.0,Lucas,Confused
+372.0,Olivia,Confused
+372.0,Olivia,Confused
+372.0,Chloe,Attentive
+372.0,Lucas,Attentive
+372.0,Evelyn,Not Attentive
+372.0,Isabella,Not Attentive
+372.0,John,Not Attentive
+372.0,Lucas,Not Attentive
+372.0,Amelia,Not Attentive
+372.0,Lucas,Not Attentive
+372.0,Evelyn,Attentive
+372.0,John,Attentive
+372.0,Evelyn,Attentive
+373.0,Elena,Attentive
+373.0,Ms_Grace,Attentive
+373.0,Isabella,Attentive
+373.0,Sam,Attentive
+373.0,Olivia,Attentive
+373.0,Chloe,Attentive
+373.0,Lucas,Attentive
+373.0,Olivia,Attentive
+373.0,Lucas,Attentive
+373.0,Lucas,Confused
+373.0,John,Attentive
+373.0,Evelyn,Attentive
+373.0,Lucas,Not Attentive
+373.0,Jack,Attentive
+373.0,Evelyn,Not Attentive
+373.0,John,Not Attentive
+373.0,Evelyn,Attentive
+374.0,Elena,Attentive
+374.0,Ms_Grace,Attentive
+374.0,Sam,Attentive
+374.0,Amelia,Attentive
+374.0,Lucas,Confused
+374.0,Isabella,Confused
+374.0,William,Not Attentive
+374.0,Chloe,Not Attentive
+374.0,Olivia,Not Attentive
+374.0,Olivia,Not Attentive
+374.0,Evelyn,Not Attentive
+374.0,Lucas,Confused
+374.0,John,Attentive
+374.0,Evelyn,Not Attentive
+374.0,Lucas,Confused
+374.0,John,Attentive
+375.0,Elena,Attentive
+375.0,Isabella,Attentive
+375.0,Amelia,Attentive
+375.0,Ms_Grace,Attentive
+375.0,Lucas,Attentive
+375.0,Olivia,Attentive
+375.0,Chloe,Attentive
+375.0,Sam,Attentive
+375.0,Olivia,Attentive
+375.0,Lucas,Attentive
+375.0,John,Attentive
+375.0,Evelyn,Attentive
+375.0,Jack,Attentive
+375.0,Lucas,Not Attentive
+375.0,John,Not Attentive
+376.0,Elena,Attentive
+376.0,Ms_Grace,Attentive
+376.0,Evelyn,Attentive
+376.0,Isabella,Attentive
+376.0,Evelyn,Attentive
+376.0,Chloe,Attentive
+376.0,Amelia,Attentive
+376.0,Sam,Attentive
+376.0,Olivia,Attentive
+376.0,Lucas,Attentive
+376.0,John,Attentive
+376.0,William,Not Attentive
+376.0,Lucas,Not Attentive
+376.0,John,Not Attentive
+376.0,Jack,Attentive
+376.0,Evelyn,Not Attentive
+377.0,Elena,Attentive
+377.0,William,Not Attentive
+377.0,Isabella,Not Attentive
+377.0,Ms_Grace,Attentive
+377.0,Amelia,Attentive
+377.0,Charlotte,Attentive
+377.0,Sam,Attentive
+377.0,Olivia,Confused
+377.0,Evelyn,Attentive
+377.0,Chloe,Attentive
+377.0,Lucas,Attentive
+377.0,John,Not Attentive
+377.0,John,Not Attentive
+377.0,Jack,Attentive
+377.0,Lucas,Not Attentive
+378.0,Elena,Attentive
+378.0,Lucas,Attentive
+378.0,Ms_Grace,Attentive
+378.0,William,Attentive
+378.0,Amelia,Attentive
+378.0,Evelyn,Attentive
+378.0,Charlotte,Attentive
+378.0,Sam,Attentive
+378.0,Chloe,Attentive
+378.0,Olivia,Attentive
+378.0,John,Attentive
+378.0,Lucas,Not Attentive
+379.0,Elena,Attentive
+379.0,Ms_Grace,Attentive
+379.0,Isabella,Attentive
+379.0,William,Attentive
+379.0,Lucas,Attentive
+379.0,Charlotte,Attentive
+379.0,Olivia,Attentive
+379.0,Amelia,Attentive
+379.0,Chloe,Attentive
+379.0,Olivia,Attentive
+379.0,Olivia,Confused
+379.0,Evelyn,Attentive
+379.0,John,Attentive
+379.0,Lucas,Not Attentive
+379.0,Jack,Not Attentive
+379.0,Evelyn,Attentive
+379.0,Evelyn,Attentive
+380.0,Elena,Attentive
+380.0,Ms_Grace,Attentive
+380.0,Isabella,Attentive
+380.0,William,Attentive
+380.0,Olivia,Not Attentive
+380.0,Lucas,Attentive
+380.0,Olivia,Attentive
+380.0,Charlotte,Attentive
+380.0,Amelia,Attentive
+380.0,Chloe,Attentive
+380.0,Evelyn,Attentive
+380.0,Lucas,Confused
+380.0,John,Not Attentive
+380.0,Evelyn,Attentive
+380.0,Evelyn,Attentive
+381.0,Elena,Attentive
+381.0,Ms_Grace,Attentive
+381.0,Isabella,Attentive
+381.0,Amelia,Attentive
+381.0,William,Attentive
+381.0,Lucas,Attentive
+381.0,Charlotte,Attentive
+381.0,Evelyn,Attentive
+381.0,Olivia,Attentive
+381.0,Chloe,Attentive
+381.0,Olivia,Attentive
+381.0,John,Not Attentive
+381.0,Lucas,Confused
+382.0,Elena,Attentive
+382.0,Ms_Grace,Attentive
+382.0,Isabella,Attentive
+382.0,Amelia,Attentive
+382.0,William,Attentive
+382.0,Lucas,Attentive
+382.0,Sam,Attentive
+382.0,Charlotte,Attentive
+382.0,Olivia,Attentive
+382.0,John,Not Attentive
+382.0,Chloe,Not Attentive
+382.0,Evelyn,Not Attentive
+382.0,John,Not Attentive
+383.0,Elena,Attentive
+383.0,Ms_Grace,Attentive
+383.0,Amelia,Attentive
+383.0,William,Attentive
+383.0,Sam,Attentive
+383.0,Evelyn,Attentive
+383.0,Charlotte,Attentive
+383.0,Lucas,Not Attentive
+383.0,Olivia,Attentive
+383.0,John,Not Attentive
+383.0,Chloe,Not Attentive
+383.0,Evelyn,Attentive
+384.0,Elena,Attentive
+384.0,Ms_Grace,Attentive
+384.0,Amelia,Attentive
+384.0,Isabella,Attentive
+384.0,William,Attentive
+384.0,Olivia,Attentive
+384.0,Lucas,Attentive
+384.0,Charlotte,Attentive
+384.0,Olivia,Attentive
+384.0,Evelyn,Attentive
+384.0,Chloe,Attentive
+384.0,John,Attentive
+384.0,Lucas,Not Attentive
+385.0,Elena,Attentive
+385.0,Ms_Grace,Attentive
+385.0,Isabella,Not Attentive
+385.0,Sam,Attentive
+385.0,William,Attentive
+385.0,Lucas,Attentive
+385.0,Olivia,Attentive
+385.0,Charlotte,Attentive
+385.0,Amelia,Attentive
+385.0,Chloe,Attentive
+385.0,John,Not Attentive
+385.0,Evelyn,Not Attentive
+385.0,Evelyn,Attentive
+385.0,Evelyn,Attentive
+385.0,Lucas,Not Attentive
+386.0,Elena,Attentive
+386.0,Ms_Grace,Attentive
+386.0,Isabella,Attentive
+386.0,William,Attentive
+386.0,Olivia,Attentive
+386.0,Lucas,Attentive
+386.0,Charlotte,Attentive
+386.0,Olivia,Attentive
+386.0,Amelia,Attentive
+386.0,John,Attentive
+386.0,Chloe,Attentive
+386.0,John,Attentive
+386.0,Lucas,Not Attentive
+386.0,John,Not Attentive
+387.0,Elena,Attentive
+387.0,Ms_Grace,Attentive
+387.0,Amelia,Attentive
+387.0,Sam,Attentive
+387.0,Charlotte,Attentive
+387.0,William,Attentive
+387.0,Lucas,Attentive
+387.0,Chloe,Attentive
+387.0,Olivia,Attentive
+387.0,Evelyn,Not Attentive
+387.0,John,Attentive
+387.0,Jack,Attentive
+387.0,Evelyn,Attentive
+387.0,Ms_Grace,Not Attentive
+388.0,Elena,Attentive
+388.0,Ms_Grace,Attentive
+388.0,Sam,Attentive
+388.0,Amelia,Attentive
+388.0,Lucas,Attentive
+388.0,William,Not Attentive
+388.0,Olivia,Confused
+388.0,Lucas,Attentive
+388.0,Chloe,Attentive
+388.0,John,Not Attentive
+388.0,Evelyn,Not Attentive
+388.0,Jack,Attentive
+389.0,Elena,Attentive
+389.0,Ms_Grace,Attentive
+389.0,Amelia,Attentive
+389.0,Olivia,Attentive
+389.0,Charlotte,Attentive
+389.0,William,Not Attentive
+389.0,Olivia,Attentive
+389.0,Chloe,Attentive
+389.0,Isabella,Not Attentive
+389.0,John,Not Attentive
+389.0,Lucas,Not Attentive
+389.0,Evelyn,Not Attentive
+389.0,Jack,Attentive
+390.0,Elena,Attentive
+390.0,Ms_Grace,Attentive
+390.0,Amelia,Attentive
+390.0,Olivia,Attentive
+390.0,Charlotte,Attentive
+390.0,William,Not Attentive
+390.0,Olivia,Attentive
+390.0,Lucas,Attentive
+390.0,Chloe,Attentive
+390.0,John,Not Attentive
+390.0,Isabella,Not Attentive
+390.0,Jack,Attentive
+390.0,Evelyn,Not Attentive
+390.0,Lucas,Confused
+390.0,Evelyn,Not Attentive
+390.0,Lucas,Not Attentive
+391.0,Elena,Attentive
+391.0,Ms_Grace,Attentive
+391.0,Charlotte,Attentive
+391.0,Amelia,Attentive
+391.0,William,Not Attentive
+391.0,Sam,Attentive
+391.0,Olivia,Attentive
+391.0,Lucas,Attentive
+391.0,Chloe,Attentive
+391.0,John,Not Attentive
+391.0,Isabella,Not Attentive
+391.0,Jack,Attentive
+391.0,Lucas,Not Attentive
+392.0,Elena,Attentive
+392.0,Ms_Grace,Attentive
+392.0,Amelia,Attentive
+392.0,Lucas,Attentive
+392.0,Sam,Attentive
+392.0,Olivia,Attentive
+392.0,William,Not Attentive
+392.0,Chloe,Not Attentive
+392.0,Lucas,Attentive
+392.0,Isabella,Not Attentive
+392.0,John,Not Attentive
+392.0,Evelyn,Not Attentive
+392.0,John,Confused
+393.0,Elena,Attentive
+393.0,Ms_Grace,Attentive
+393.0,Amelia,Attentive
+393.0,Charlotte,Attentive
+393.0,Sam,Attentive
+393.0,Olivia,Attentive
+393.0,Lucas,Not Attentive
+393.0,William,Attentive
+393.0,John,Not Attentive
+393.0,Chloe,Attentive
+393.0,Lucas,Not Attentive
+393.0,Evelyn,Attentive
+393.0,Lucas,Not Attentive
+393.0,Isabella,Not Attentive
+393.0,Jack,Attentive
+393.0,John,Not Attentive
+394.0,Elena,Confused
+394.0,Ms_Grace,Attentive
+394.0,Evelyn,Not Attentive
+394.0,Sam,Attentive
+394.0,Charlotte,Attentive
+394.0,William,Not Attentive
+394.0,Amelia,Attentive
+394.0,Olivia,Attentive
+394.0,Lucas,Attentive
+394.0,Chloe,Attentive
+394.0,John,Attentive
+394.0,Isabella,Attentive
+394.0,Jack,Attentive
+394.0,Evelyn,Attentive
+395.0,Elena,Attentive
+395.0,Ms_Grace,Attentive
+395.0,Evelyn,Attentive
+395.0,Sam,Attentive
+395.0,Charlotte,Attentive
+395.0,William,Attentive
+395.0,Evelyn,Not Attentive
+395.0,John,Not Attentive
+395.0,Chloe,Attentive
+395.0,Olivia,Attentive
+395.0,Lucas,Not Attentive
+395.0,Jack,Not Attentive
+395.0,Isabella,Not Attentive
+396.0,Elena,Attentive
+396.0,Ms_Grace,Attentive
+396.0,Charlotte,Attentive
+396.0,Sam,Attentive
+396.0,William,Attentive
+396.0,Amelia,Attentive
+396.0,John,Not Attentive
+396.0,Olivia,Not Attentive
+396.0,Chloe,Not Attentive
+396.0,Isabella,Attentive
+396.0,Lucas,Not Attentive
+396.0,Evelyn,Not Attentive
+396.0,Evelyn,Not Attentive
+397.0,Elena,Attentive
+397.0,Ms_Grace,Attentive
+397.0,Amelia,Attentive
+397.0,Sam,Attentive
+397.0,Charlotte,Attentive
+397.0,William,Attentive
+397.0,Evelyn,Not Attentive
+397.0,Evelyn,Not Attentive
+397.0,Olivia,Not Attentive
+397.0,John,Not Attentive
+397.0,Isabella,Attentive
+397.0,Lucas,Attentive
+397.0,Chloe,Attentive
+397.0,Evelyn,Confused
+398.0,Elena,Attentive
+398.0,Ms_Grace,Attentive
+398.0,William,Attentive
+398.0,Sam,Attentive
+398.0,Jack,Attentive
+398.0,Charlotte,Confused
+398.0,Amelia,Attentive
+398.0,Isabella,Not Attentive
+398.0,John,Not Attentive
+398.0,Lucas,Attentive
+398.0,Olivia,Attentive
+398.0,Lucas,Not Attentive
+398.0,Chloe,Not Attentive
+399.0,Elena,Attentive
+399.0,Ms_Grace,Attentive
+399.0,William,Attentive
+399.0,Jack,Attentive
+399.0,Charlotte,Attentive
+399.0,Sam,Attentive
+399.0,Lucas,Attentive
+399.0,Amelia,Attentive
+399.0,Isabella,Not Attentive
+399.0,Olivia,Not Attentive
+399.0,John,Not Attentive
+399.0,Chloe,Not Attentive
+399.0,Lucas,Not Attentive
+400.0,Elena,Attentive
+400.0,Ms_Grace,Attentive
+400.0,William,Attentive
+400.0,Sam,Attentive
+400.0,Amelia,Attentive
+400.0,Sam,Attentive
+400.0,Charlotte,Confused
+400.0,Lucas,Confused
+400.0,Olivia,Confused
+400.0,Isabella,Confused
+400.0,John,Not Attentive
+400.0,Lucas,Not Attentive
+400.0,Chloe,Not Attentive
+400.0,Chloe,Confused
+401.0,Elena,Attentive
+401.0,Ms_Grace,Attentive
+401.0,William,Attentive
+401.0,Sam,Attentive
+401.0,Lucas,Attentive
+401.0,Jack,Attentive
+401.0,Lucas,Attentive
+401.0,Amelia,Attentive
+401.0,Evelyn,Not Attentive
+401.0,John,Not Attentive
+401.0,Olivia,Not Attentive
+401.0,Chloe,Not Attentive
+401.0,Lucas,Not Attentive
+402.0,Elena,Attentive
+402.0,William,Attentive
+402.0,Lucas,Attentive
+402.0,Sam,Attentive
+402.0,Charlotte,Attentive
+402.0,Isabella,Not Attentive
+402.0,Amelia,Attentive
+402.0,Lucas,Attentive
+402.0,Ms_Grace,Attentive
+402.0,Olivia,Not Attentive
+402.0,John,Not Attentive
+402.0,Lucas,Confused
+402.0,Chloe,Confused
+403.0,Elena,Attentive
+403.0,Lucas,Attentive
+403.0,Jack,Attentive
+403.0,Sam,Attentive
+403.0,Lucas,Attentive
+403.0,Amelia,Attentive
+403.0,William,Not Attentive
+403.0,Ms_Grace,Not Attentive
+403.0,Lucas,Not Attentive
+403.0,Olivia,Not Attentive
+403.0,John,Not Attentive
+403.0,Chloe,Not Attentive
+403.0,Isabella,Not Attentive
+404.0,Elena,Attentive
+404.0,Lucas,Attentive
+404.0,Ms_Grace,Attentive
+404.0,Olivia,Attentive
+404.0,Charlotte,Attentive
+404.0,Amelia,Attentive
+404.0,William,Not Attentive
+404.0,Jack,Not Attentive
+404.0,Olivia,Not Attentive
+404.0,Lucas,Not Attentive
+404.0,John,Not Attentive
+404.0,Chloe,Not Attentive
+405.0,Elena,Attentive
+405.0,Ms_Grace,Attentive
+405.0,Lucas,Attentive
+405.0,Olivia,Attentive
+405.0,Charlotte,Attentive
+405.0,Sam,Attentive
+405.0,Amelia,Attentive
+405.0,William,Not Attentive
+405.0,Jack,Not Attentive
+405.0,Lucas,Not Attentive
+405.0,John,Not Attentive
+405.0,Chloe,Not Attentive
+406.0,Elena,Attentive
+406.0,Ms_Grace,Attentive
+406.0,Lucas,Attentive
+406.0,Charlotte,Attentive
+406.0,Sam,Attentive
+406.0,Amelia,Attentive
+406.0,William,Not Attentive
+406.0,Olivia,Not Attentive
+406.0,Jack,Not Attentive
+406.0,John,Not Attentive
+406.0,Lucas,Not Attentive
+407.0,Elena,Attentive
+407.0,Ms_Grace,Attentive
+407.0,Lucas,Attentive
+407.0,William,Not Attentive
+407.0,Charlotte,Not Attentive
+407.0,Sam,Attentive
+407.0,Amelia,Attentive
+407.0,Olivia,Attentive
+407.0,Jack,Attentive
+407.0,John,Not Attentive
+407.0,Lucas,Not Attentive
+408.0,Ms_Grace,Not Attentive
+408.0,Elena,Attentive
+408.0,William,Not Attentive
+408.0,Amelia,Attentive
+408.0,Sam,Attentive
+408.0,Lucas,Attentive
+408.0,Charlotte,Attentive
+408.0,Jack,Attentive
+408.0,Olivia,Attentive
+408.0,John,Not Attentive
+408.0,Lucas,Not Attentive
+409.0,Elena,Attentive
+409.0,Ms_Grace,Attentive
+409.0,William,Not Attentive
+409.0,Sam,Attentive
+409.0,Olivia,Not Attentive
+409.0,Amelia,Attentive
+409.0,Jack,Attentive
+409.0,Lucas,Attentive
+409.0,Charlotte,Attentive
+409.0,John,Not Attentive
+409.0,Isabella,Not Attentive
+410.0,Elena,Attentive
+410.0,Ms_Grace,Attentive
+410.0,William,Not Attentive
+410.0,Lucas,Attentive
+410.0,Amelia,Attentive
+410.0,Charlotte,Attentive
+410.0,Sam,Attentive
+410.0,Jack,Attentive
+410.0,Olivia,Not Attentive
+410.0,John,Not Attentive
+410.0,Lucas,Not Attentive
+411.0,Elena,Attentive
+411.0,Ms_Grace,Attentive
+411.0,Lucas,Attentive
+411.0,William,Not Attentive
+411.0,Amelia,Attentive
+411.0,Sam,Attentive
+411.0,Amelia,Attentive
+411.0,John,Not Attentive
+411.0,Lucas,Not Attentive
+411.0,Jack,Not Attentive
+411.0,Olivia,Not Attentive
+411.0,Olivia,Confused
+411.0,Evelyn,Confused
+412.0,Elena,Attentive
+412.0,Lucas,Attentive
+412.0,William,Not Attentive
+412.0,Ms_Grace,Attentive
+412.0,Sam,Attentive
+412.0,Olivia,Not Attentive
+412.0,Amelia,Attentive
+412.0,Amelia,Attentive
+412.0,Chloe,Attentive
+412.0,Lucas,Not Attentive
+412.0,John,Not Attentive
+413.0,Elena,Attentive
+413.0,Isabella,Attentive
+413.0,Ms_Grace,Attentive
+413.0,Lucas,Confused
+413.0,John,Confused
+413.0,Sam,Attentive
+413.0,Charlotte,Attentive
+413.0,Amelia,Attentive
+413.0,Olivia,Not Attentive
+413.0,William,Not Attentive
+413.0,Jack,Attentive
+413.0,Chloe,Attentive
+413.0,Lucas,Not Attentive
+414.0,Elena,Attentive
+414.0,Ms_Grace,Attentive
+414.0,Lucas,Confused
+414.0,William,Not Attentive
+414.0,Sam,Attentive
+414.0,Evelyn,Not Attentive
+414.0,John,Not Attentive
+414.0,Olivia,Not Attentive
+414.0,Lucas,Not Attentive
+414.0,Jack,Attentive
+414.0,Chloe,Attentive
+414.0,Evelyn,Attentive
+414.0,Amelia,Attentive
+414.0,Isabella,Not Attentive
+415.0,Elena,Attentive
+415.0,Lucas,Confused
+415.0,Olivia,Not Attentive
+415.0,Sam,Attentive
+415.0,Ms_Grace,Attentive
+415.0,William,Not Attentive
+415.0,Elena,Not Attentive
+415.0,John,Not Attentive
+415.0,Jack,Attentive
+415.0,Chloe,Attentive
+415.0,Lucas,Not Attentive
+415.0,Evelyn,Not Attentive
+416.0,Elena,Attentive
+416.0,Sam,Not Attentive
+416.0,Ms_Grace,Attentive
+416.0,William,Not Attentive
+416.0,Charlotte,Attentive
+416.0,Olivia,Not Attentive
+416.0,Jack,Attentive
+416.0,Lucas,Confused
+416.0,Amelia,Attentive
+416.0,John,Not Attentive
+416.0,Lucas,Not Attentive
+416.0,Evelyn,Not Attentive
+417.0,Elena,Attentive
+417.0,William,Not Attentive
+417.0,Ms_Grace,Attentive
+417.0,Sam,Attentive
+417.0,Olivia,Attentive
+417.0,Charlotte,Attentive
+417.0,Lucas,Attentive
+417.0,Jack,Attentive
+417.0,John,Not Attentive
+417.0,Evelyn,Not Attentive
+417.0,Lucas,Not Attentive
+417.0,Ms_Grace,Not Attentive
+417.0,Evelyn,Attentive
+417.0,Amelia,Attentive
+418.0,Elena,Confused
+418.0,Ms_Grace,Attentive
+418.0,Sam,Attentive
+418.0,William,Not Attentive
+418.0,Lucas,Not Attentive
+418.0,Jack,Attentive
+418.0,Charlotte,Attentive
+418.0,John,Not Attentive
+418.0,Olivia,Not Attentive
+418.0,Lucas,Not Attentive
+418.0,Evelyn,Not Attentive
+418.0,Evelyn,Attentive
+418.0,Amelia,Attentive
+419.0,Elena,Attentive
+419.0,Ms_Grace,Attentive
+419.0,William,Not Attentive
+419.0,Sam,Not Attentive
+419.0,Lucas,Attentive
+419.0,Lucas,Attentive
+419.0,Sam,Not Attentive
+419.0,Jack,Attentive
+419.0,Olivia,Attentive
+419.0,Amelia,Attentive
+419.0,Lucas,Not Attentive
+419.0,Evelyn,Not Attentive
+419.0,Evelyn,Attentive
+419.0,Olivia,Not Attentive
+420.0,Elena,Attentive
+420.0,Ms_Grace,Attentive
+420.0,Lucas,Attentive
+420.0,William,Not Attentive
+420.0,Olivia,Attentive
+420.0,Charlotte,Attentive
+420.0,Olivia,Attentive
+420.0,Jack,Attentive
+420.0,Amelia,Attentive
+420.0,John,Not Attentive
+420.0,Lucas,Not Attentive
+420.0,Evelyn,Not Attentive
+420.0,Evelyn,Not Attentive
+420.0,Isabella,Not Attentive
+420.0,Evelyn,Not Attentive
+420.0,Evelyn,Attentive
